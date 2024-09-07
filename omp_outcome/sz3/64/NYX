@@ -1,0 +1,1350 @@
+../data/NYX/baryon_density.f32
+../SZ3/build/bin/sz3 -z ../com_data/sz3/NYX/baryon_density.f32.sz -f -i ../data/NYX/baryon_density.f32 -3 512 512 512 -M ABS -A 1.158622e+04 -c sz3config
+../SZ3/build/bin/sz3 -x -f -i ../data/NYX/baryon_density.f32 -3 512 512 512 -s ../com_data/sz3/NYX/baryon_density.f32.sz -a
+OpenMP threads = 64
+compression ratio = 52153.77 
+compression time = 0.718833
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 0.0001145859819 MAXE = 11478 MAXRE = 0.099066 PSNR = 78.817370
+OpenMP threads = 64
+compression ratio = 52153.770352
+decompression time = 0.085334 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 32894.49 
+compression time = 0.701769
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 6.162256478E-05 MAXE = 1158.1 MAXRE = 0.0099957 PSNR = 84.205205
+OpenMP threads = 64
+compression ratio = 32894.486367
+decompression time = 0.085563 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 10750.10 
+compression time = 0.705323
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 2.904059816E-05 MAXE = 115.86 MAXRE = 0.00099996 PSNR = 90.739889
+OpenMP threads = 64
+compression ratio = 10750.103362
+decompression time = 0.088291 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 1856.10 
+compression time = 0.711043
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 1.226971449E-05 MAXE = 11.586 MAXRE = 0.0001 PSNR = 98.223311
+OpenMP threads = 64
+compression ratio = 1856.104880
+decompression time = 0.084896 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 287.76 
+compression time = 0.794544
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 2.579209535E-06 MAXE = 1.1586 MAXRE = 1E-05 PSNR = 111.770267
+OpenMP threads = 64
+compression ratio = 287.763525
+decompression time = 0.090019 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 53.98 
+compression time = 0.926541
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 3.916097208E-07 MAXE = 0.11586 MAXRE = 1E-06 PSNR = 128.142931
+OpenMP threads = 64
+compression ratio = 53.981441
+decompression time = 0.093549 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 14.95 
+compression time = 1.029387
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 5.285968009E-08 MAXE = 0.011586 MAXRE = 1E-07 PSNR = 145.537509
+OpenMP threads = 64
+compression ratio = 14.950021
+decompression time = 0.124511 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 6.08 
+compression time = 1.140990
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 5.732917772E-09 MAXE = 0.0011586 MAXRE = 1E-08 PSNR = 164.832486
+OpenMP threads = 64
+compression ratio = 6.084176
+decompression time = 0.175862 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+../data/NYX/dark_matter_density.f32
+../SZ3/build/bin/sz3 -z ../com_data/sz3/NYX/dark_matter_density.f32.sz -f -i ../data/NYX/dark_matter_density.f32 -3 512 512 512 -M ABS -A 1.377893e+03 -c sz3config
+../SZ3/build/bin/sz3 -x -f -i ../data/NYX/dark_matter_density.f32 -3 512 512 512 -s ../com_data/sz3/NYX/dark_matter_density.f32.sz -a
+OpenMP threads = 64
+compression ratio = 41422.03 
+compression time = 0.701156
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 0.0008418464598 MAXE = 1377.4 MAXRE = 0.099961 PSNR = 61.495342
+OpenMP threads = 64
+compression ratio = 41422.028547
+decompression time = 0.082618 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 6782.27 
+compression time = 0.703061
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 0.0003536215339 MAXE = 137.79 MAXRE = 0.01 PSNR = 69.029226
+OpenMP threads = 64
+compression ratio = 6782.269790
+decompression time = 0.082547 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 542.85 
+compression time = 0.711934
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 0.0001450082435 MAXE = 13.779 MAXRE = 0.001 PSNR = 76.772146
+OpenMP threads = 64
+compression ratio = 542.849311
+decompression time = 0.085722 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 67.38 
+compression time = 0.843670
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 3.497370359E-05 MAXE = 1.3779 MAXRE = 0.0001 PSNR = 89.125168
+OpenMP threads = 64
+compression ratio = 67.380771
+decompression time = 0.093099 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 12.03 
+compression time = 0.996691
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 5.654433073E-06 MAXE = 0.13779 MAXRE = 1E-05 PSNR = 104.952219
+OpenMP threads = 64
+compression ratio = 12.029387
+decompression time = 0.140972 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 5.32 
+compression time = 1.103213
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 5.726714382E-07 MAXE = 0.013779 MAXRE = 1E-06 PSNR = 124.841890
+OpenMP threads = 64
+compression ratio = 5.323733
+decompression time = 0.167643 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 3.33 
+compression time = 1.205364
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 5.729282484E-08 MAXE = 0.0013779 MAXRE = 1E-07 PSNR = 144.837995
+OpenMP threads = 64
+compression ratio = 3.325530
+decompression time = 0.230056 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 2.29 
+compression time = 1.710943
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 5.714623307E-09 MAXE = 0.00013779 MAXRE = 1E-08 PSNR = 164.860248
+OpenMP threads = 64
+compression ratio = 2.288145
+decompression time = 0.396840 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+../data/NYX/temperature.f32
+../SZ3/build/bin/sz3 -z ../com_data/sz3/NYX/temperature.f32.sz -f -i ../data/NYX/temperature.f32 -3 512 512 512 -M ABS -A 4.780302e+05 -c sz3config
+../SZ3/build/bin/sz3 -x -f -i ../data/NYX/temperature.f32 -3 512 512 512 -s ../com_data/sz3/NYX/temperature.f32.sz -a
+OpenMP threads = 64
+compression ratio = 33904.07 
+compression time = 0.686584
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 0.002205124471 MAXE = 4.7803E+05 MAXRE = 0.099999 PSNR = 53.131338
+OpenMP threads = 64
+compression ratio = 33904.067698
+decompression time = 0.079497 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+OpenMP threads = 64
+compression ratio = 4026.12 
+compression time = 0.697312
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 0.001738504474 MAXE = 47803 MAXRE = 0.0099999 PSNR = 55.196484
+OpenMP threads = 64
+compression ratio = 4026.119163
+decompression time = 0.087432 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+OpenMP threads = 64
+compression ratio = 375.79 
+compression time = 0.771656
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 0.0002632466902 MAXE = 4780.3 MAXRE = 0.001 PSNR = 71.592742
+OpenMP threads = 64
+compression ratio = 375.791600
+decompression time = 0.091282 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+OpenMP threads = 64
+compression ratio = 50.45 
+compression time = 0.869735
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 4.316796161E-05 MAXE = 478.03 MAXRE = 0.0001 PSNR = 87.296769
+OpenMP threads = 64
+compression ratio = 50.450827
+decompression time = 0.093192 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+OpenMP threads = 64
+compression ratio = 12.20 
+compression time = 0.964399
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 5.591062993E-06 MAXE = 47.803 MAXRE = 1E-05 PSNR = 105.050112
+OpenMP threads = 64
+compression ratio = 12.200218
+decompression time = 0.135881 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+OpenMP threads = 64
+compression ratio = 5.41 
+compression time = 1.058262
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 5.739105229E-07 MAXE = 4.7803 MAXRE = 9.9999E-07 PSNR = 124.823116
+OpenMP threads = 64
+compression ratio = 5.410762
+decompression time = 0.185028 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+OpenMP threads = 64
+compression ratio = 3.33 
+compression time = 1.189884
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 5.738518215E-08 MAXE = 0.47803 MAXRE = 9.9999E-08 PSNR = 144.824005
+OpenMP threads = 64
+compression ratio = 3.330829
+decompression time = 0.230436 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+OpenMP threads = 64
+compression ratio = 2.25 
+compression time = 1.741141
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 5.675074497E-09 MAXE = 0.047607 MAXRE = 9.9591E-09 PSNR = 164.920569
+OpenMP threads = 64
+compression ratio = 2.254414
+decompression time = 0.399788 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+../data/NYX/velocity_x.f32
+../SZ3/build/bin/sz3 -z ../com_data/sz3/NYX/velocity_x.f32.sz -f -i ../data/NYX/velocity_x.f32 -3 512 512 512 -M ABS -A 8.228364e+06 -c sz3config
+../SZ3/build/bin/sz3 -x -f -i ../data/NYX/velocity_x.f32 -3 512 512 512 -s ../com_data/sz3/NYX/velocity_x.f32.sz -a
+OpenMP threads = 64
+compression ratio = 7116.43 
+compression time = 0.704167
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 0.02087777847 MAXE = 8.2283E+06 MAXRE = 0.099999 PSNR = 33.606314
+OpenMP threads = 64
+compression ratio = 7116.434194
+decompression time = 0.086976 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+OpenMP threads = 64
+compression ratio = 814.29 
+compression time = 0.781320
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 0.002762098425 MAXE = 8.2284E+05 MAXRE = 0.01 PSNR = 51.175217
+OpenMP threads = 64
+compression ratio = 814.294551
+decompression time = 0.084592 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+OpenMP threads = 64
+compression ratio = 80.15 
+compression time = 0.905271
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 0.0003982151541 MAXE = 82284 MAXRE = 0.001 PSNR = 67.997644
+OpenMP threads = 64
+compression ratio = 80.153183
+decompression time = 0.090658 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+OpenMP threads = 64
+compression ratio = 13.57 
+compression time = 0.982490
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 5.633030188E-05 MAXE = 8228.4 MAXRE = 0.0001 PSNR = 84.985158
+OpenMP threads = 64
+compression ratio = 13.566583
+decompression time = 0.127781 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+OpenMP threads = 64
+compression ratio = 5.74 
+compression time = 1.026407
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 5.738369855E-06 MAXE = 822.84 MAXRE = 1E-05 PSNR = 104.824229
+OpenMP threads = 64
+compression ratio = 5.736116
+decompression time = 0.156629 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+OpenMP threads = 64
+compression ratio = 3.48 
+compression time = 1.148748
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 5.738544948E-07 MAXE = 82.284 MAXRE = 1E-06 PSNR = 124.823964
+OpenMP threads = 64
+compression ratio = 3.476458
+decompression time = 0.209689 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+OpenMP threads = 64
+compression ratio = 2.36 
+compression time = 1.577452
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 5.704871479E-08 MAXE = 8.228 MAXRE = 9.9996E-08 PSNR = 144.875083
+OpenMP threads = 64
+compression ratio = 2.362326
+decompression time = 0.365589 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+OpenMP threads = 64
+compression ratio = 1.61 
+compression time = 2.655350
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 4.647054551E-09 MAXE = 0.82278 MAXRE = 9.9993E-09 PSNR = 166.656445
+OpenMP threads = 64
+compression ratio = 1.607793
+decompression time = 0.769679 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+../data/NYX/velocity_y.f32
+../SZ3/build/bin/sz3 -z ../com_data/sz3/NYX/velocity_y.f32.sz -f -i ../data/NYX/velocity_y.f32 -3 512 512 512 -M ABS -A 1.004385e+07 -c sz3config
+../SZ3/build/bin/sz3 -x -f -i ../data/NYX/velocity_y.f32 -3 512 512 512 -s ../com_data/sz3/NYX/velocity_y.f32.sz -a
+OpenMP threads = 64
+compression ratio = 10019.61 
+compression time = 0.705440
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 0.01963778317 MAXE = 1.0044E+07 MAXRE = 0.099999 PSNR = 34.138151
+OpenMP threads = 64
+compression ratio = 10019.613154
+decompression time = 0.082333 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+OpenMP threads = 64
+compression ratio = 962.96 
+compression time = 0.771588
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 0.002425758385 MAXE = 1.0044E+06 MAXRE = 0.01 PSNR = 52.303049
+OpenMP threads = 64
+compression ratio = 962.959151
+decompression time = 0.081230 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+OpenMP threads = 64
+compression ratio = 81.86 
+compression time = 0.887908
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 0.000394124972 MAXE = 1.0044E+05 MAXRE = 0.001 PSNR = 68.087321
+OpenMP threads = 64
+compression ratio = 81.862203
+decompression time = 0.083958 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+OpenMP threads = 64
+compression ratio = 14.31 
+compression time = 0.977058
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 5.582472963E-05 MAXE = 10044 MAXRE = 0.0001 PSNR = 85.063467
+OpenMP threads = 64
+compression ratio = 14.312522
+decompression time = 0.122575 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+OpenMP threads = 64
+compression ratio = 5.83 
+compression time = 1.020303
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 5.73937976E-06 MAXE = 1004.4 MAXRE = 1E-05 PSNR = 104.822701
+OpenMP threads = 64
+compression ratio = 5.834307
+decompression time = 0.171631 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+OpenMP threads = 64
+compression ratio = 3.53 
+compression time = 1.154742
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 5.734074254E-07 MAXE = 100.44 MAXRE = 1E-06 PSNR = 124.830734
+OpenMP threads = 64
+compression ratio = 3.531443
+decompression time = 0.210620 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+OpenMP threads = 64
+compression ratio = 2.41 
+compression time = 1.525376
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 5.736381004E-08 MAXE = 10.044 MAXRE = 1E-07 PSNR = 144.827240
+OpenMP threads = 64
+compression ratio = 2.410616
+decompression time = 0.350093 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+OpenMP threads = 64
+compression ratio = 1.76 
+compression time = 2.620564
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 5.819051527E-09 MAXE = 1.0043 MAXRE = 9.9995E-09 PSNR = 164.702956
+OpenMP threads = 64
+compression ratio = 1.760208
+decompression time = 0.800656 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+../data/NYX/velocity_z.f32
+../SZ3/build/bin/sz3 -z ../com_data/sz3/NYX/velocity_z.f32.sz -f -i ../data/NYX/velocity_z.f32 -3 512 512 512 -M ABS -A 7.232424e+06 -c sz3config
+../SZ3/build/bin/sz3 -x -f -i ../data/NYX/velocity_z.f32 -3 512 512 512 -s ../com_data/sz3/NYX/velocity_z.f32.sz -a
+OpenMP threads = 64
+compression ratio = 6405.96 
+compression time = 0.701011
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 0.02067756312 MAXE = 7.2324E+06 MAXRE = 0.1 PSNR = 33.690013
+OpenMP threads = 64
+compression ratio = 6405.962581
+decompression time = 0.081428 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out
+OpenMP threads = 64
+compression ratio = 589.43 
+compression time = 0.795636
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 0.002604546212 MAXE = 7.2324E+05 MAXRE = 0.01 PSNR = 51.685359
+OpenMP threads = 64
+compression ratio = 589.428481
+decompression time = 0.079637 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out
+OpenMP threads = 64
+compression ratio = 57.31 
+compression time = 0.922677
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 0.0004296793594 MAXE = 72324 MAXRE = 0.001 PSNR = 67.337110
+OpenMP threads = 64
+compression ratio = 57.312111
+decompression time = 0.085140 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out
+OpenMP threads = 64
+compression ratio = 11.90 
+compression time = 0.970391
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 5.661983786E-05 MAXE = 7232.4 MAXRE = 0.0001 PSNR = 84.940628
+OpenMP threads = 64
+compression ratio = 11.904046
+decompression time = 0.140991 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out
+OpenMP threads = 64
+compression ratio = 5.35 
+compression time = 1.011741
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 5.738491585E-06 MAXE = 723.24 MAXRE = 1E-05 PSNR = 104.824045
+OpenMP threads = 64
+compression ratio = 5.353731
+decompression time = 0.168967 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out
+OpenMP threads = 64
+compression ratio = 3.32 
+compression time = 1.143587
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 5.738072547E-07 MAXE = 72.324 MAXRE = 1E-06 PSNR = 124.824679
+OpenMP threads = 64
+compression ratio = 3.317369
+decompression time = 0.246847 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out
+OpenMP threads = 64
+compression ratio = 2.25 
+compression time = 1.675320
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 5.676503967E-08 MAXE = 7.2324 MAXRE = 1E-07 PSNR = 144.918381
+OpenMP threads = 64
+compression ratio = 2.252502
+decompression time = 0.404091 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out
+OpenMP threads = 64
+compression ratio = 1.60 
+compression time = 2.781575
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 4.993850643E-09 MAXE = 0.72321 MAXRE = 9.9995E-09 PSNR = 166.031289
+OpenMP threads = 64
+compression ratio = 1.603942
+decompression time = 0.874064 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out
+../data/NYX/baryon_density.f32
+../SZ3/build/bin/sz3 -z ../com_data/sz3/NYX/baryon_density.f32.sz -f -i ../data/NYX/baryon_density.f32 -3 512 512 512 -M ABS -A 1.158622e+04 -c sz3config
+../SZ3/build/bin/sz3 -x -f -i ../data/NYX/baryon_density.f32 -3 512 512 512 -s ../com_data/sz3/NYX/baryon_density.f32.sz -a
+OpenMP threads = 64
+compression ratio = 52153.77 
+compression time = 0.704421
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 0.0001145859819 MAXE = 11478 MAXRE = 0.099066 PSNR = 78.817370
+OpenMP threads = 64
+compression ratio = 52153.770352
+decompression time = 0.085288 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 32894.49 
+compression time = 0.710049
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 6.162256478E-05 MAXE = 1158.1 MAXRE = 0.0099957 PSNR = 84.205205
+OpenMP threads = 64
+compression ratio = 32894.486367
+decompression time = 0.084287 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 10750.10 
+compression time = 0.693647
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 2.904059816E-05 MAXE = 115.86 MAXRE = 0.00099996 PSNR = 90.739889
+OpenMP threads = 64
+compression ratio = 10750.103362
+decompression time = 0.088432 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 1856.10 
+compression time = 0.720554
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 1.226971449E-05 MAXE = 11.586 MAXRE = 0.0001 PSNR = 98.223311
+OpenMP threads = 64
+compression ratio = 1856.104880
+decompression time = 0.090531 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 287.76 
+compression time = 0.777804
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 2.579209535E-06 MAXE = 1.1586 MAXRE = 1E-05 PSNR = 111.770267
+OpenMP threads = 64
+compression ratio = 287.763525
+decompression time = 0.092920 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 53.98 
+compression time = 0.927439
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 3.916097208E-07 MAXE = 0.11586 MAXRE = 1E-06 PSNR = 128.142931
+OpenMP threads = 64
+compression ratio = 53.981441
+decompression time = 0.089298 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 14.95 
+compression time = 1.020837
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 5.285968009E-08 MAXE = 0.011586 MAXRE = 1E-07 PSNR = 145.537509
+OpenMP threads = 64
+compression ratio = 14.950021
+decompression time = 0.125675 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 6.08 
+compression time = 1.126823
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 5.732917772E-09 MAXE = 0.0011586 MAXRE = 1E-08 PSNR = 164.832486
+OpenMP threads = 64
+compression ratio = 6.084176
+decompression time = 0.162982 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+../data/NYX/dark_matter_density.f32
+../SZ3/build/bin/sz3 -z ../com_data/sz3/NYX/dark_matter_density.f32.sz -f -i ../data/NYX/dark_matter_density.f32 -3 512 512 512 -M ABS -A 1.377893e+03 -c sz3config
+../SZ3/build/bin/sz3 -x -f -i ../data/NYX/dark_matter_density.f32 -3 512 512 512 -s ../com_data/sz3/NYX/dark_matter_density.f32.sz -a
+OpenMP threads = 64
+compression ratio = 41422.03 
+compression time = 0.697261
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 0.0008418464598 MAXE = 1377.4 MAXRE = 0.099961 PSNR = 61.495342
+OpenMP threads = 64
+compression ratio = 41422.028547
+decompression time = 0.079475 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 6782.27 
+compression time = 0.713765
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 0.0003536215339 MAXE = 137.79 MAXRE = 0.01 PSNR = 69.029226
+OpenMP threads = 64
+compression ratio = 6782.269790
+decompression time = 0.087854 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 542.85 
+compression time = 0.707319
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 0.0001450082435 MAXE = 13.779 MAXRE = 0.001 PSNR = 76.772146
+OpenMP threads = 64
+compression ratio = 542.849311
+decompression time = 0.082248 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 67.38 
+compression time = 0.847195
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 3.497370359E-05 MAXE = 1.3779 MAXRE = 0.0001 PSNR = 89.125168
+OpenMP threads = 64
+compression ratio = 67.380771
+decompression time = 0.084986 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 12.03 
+compression time = 0.988806
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 5.654433073E-06 MAXE = 0.13779 MAXRE = 1E-05 PSNR = 104.952219
+OpenMP threads = 64
+compression ratio = 12.029387
+decompression time = 0.140519 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 5.32 
+compression time = 1.069942
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 5.726714382E-07 MAXE = 0.013779 MAXRE = 1E-06 PSNR = 124.841890
+OpenMP threads = 64
+compression ratio = 5.323733
+decompression time = 0.161181 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 3.33 
+compression time = 1.174764
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 5.729282484E-08 MAXE = 0.0013779 MAXRE = 1E-07 PSNR = 144.837995
+OpenMP threads = 64
+compression ratio = 3.325530
+decompression time = 0.243416 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 2.29 
+compression time = 1.702674
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 5.714623307E-09 MAXE = 0.00013779 MAXRE = 1E-08 PSNR = 164.860248
+OpenMP threads = 64
+compression ratio = 2.288145
+decompression time = 0.386245 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+../data/NYX/temperature.f32
+../SZ3/build/bin/sz3 -z ../com_data/sz3/NYX/temperature.f32.sz -f -i ../data/NYX/temperature.f32 -3 512 512 512 -M ABS -A 4.780302e+05 -c sz3config
+../SZ3/build/bin/sz3 -x -f -i ../data/NYX/temperature.f32 -3 512 512 512 -s ../com_data/sz3/NYX/temperature.f32.sz -a
+OpenMP threads = 64
+compression ratio = 33904.07 
+compression time = 0.713707
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 0.002205124471 MAXE = 4.7803E+05 MAXRE = 0.099999 PSNR = 53.131338
+OpenMP threads = 64
+compression ratio = 33904.067698
+decompression time = 0.087388 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+OpenMP threads = 64
+compression ratio = 4026.12 
+compression time = 0.712716
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 0.001738504474 MAXE = 47803 MAXRE = 0.0099999 PSNR = 55.196484
+OpenMP threads = 64
+compression ratio = 4026.119163
+decompression time = 0.084202 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+OpenMP threads = 64
+compression ratio = 375.79 
+compression time = 0.770571
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 0.0002632466902 MAXE = 4780.3 MAXRE = 0.001 PSNR = 71.592742
+OpenMP threads = 64
+compression ratio = 375.791600
+decompression time = 0.088537 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+OpenMP threads = 64
+compression ratio = 50.45 
+compression time = 0.913758
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 4.316796161E-05 MAXE = 478.03 MAXRE = 0.0001 PSNR = 87.296769
+OpenMP threads = 64
+compression ratio = 50.450827
+decompression time = 0.092669 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+OpenMP threads = 64
+compression ratio = 12.20 
+compression time = 1.029853
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 5.591062993E-06 MAXE = 47.803 MAXRE = 1E-05 PSNR = 105.050112
+OpenMP threads = 64
+compression ratio = 12.200218
+decompression time = 0.137405 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+OpenMP threads = 64
+compression ratio = 5.41 
+compression time = 1.073139
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 5.739105229E-07 MAXE = 4.7803 MAXRE = 9.9999E-07 PSNR = 124.823116
+OpenMP threads = 64
+compression ratio = 5.410762
+decompression time = 0.184350 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+OpenMP threads = 64
+compression ratio = 3.33 
+compression time = 1.215443
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 5.738518215E-08 MAXE = 0.47803 MAXRE = 9.9999E-08 PSNR = 144.824005
+OpenMP threads = 64
+compression ratio = 3.330829
+decompression time = 0.252172 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+OpenMP threads = 64
+compression ratio = 2.25 
+compression time = 1.770134
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 5.675074497E-09 MAXE = 0.047607 MAXRE = 9.9591E-09 PSNR = 164.920569
+OpenMP threads = 64
+compression ratio = 2.254414
+decompression time = 0.408756 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+../data/NYX/velocity_x.f32
+../SZ3/build/bin/sz3 -z ../com_data/sz3/NYX/velocity_x.f32.sz -f -i ../data/NYX/velocity_x.f32 -3 512 512 512 -M ABS -A 8.228364e+06 -c sz3config
+../SZ3/build/bin/sz3 -x -f -i ../data/NYX/velocity_x.f32 -3 512 512 512 -s ../com_data/sz3/NYX/velocity_x.f32.sz -a
+OpenMP threads = 64
+compression ratio = 7116.43 
+compression time = 0.745126
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 0.02087777847 MAXE = 8.2283E+06 MAXRE = 0.099999 PSNR = 33.606314
+OpenMP threads = 64
+compression ratio = 7116.434194
+decompression time = 0.087920 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+OpenMP threads = 64
+compression ratio = 814.29 
+compression time = 0.795698
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 0.002762098425 MAXE = 8.2284E+05 MAXRE = 0.01 PSNR = 51.175217
+OpenMP threads = 64
+compression ratio = 814.294551
+decompression time = 0.088148 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+OpenMP threads = 64
+compression ratio = 80.15 
+compression time = 0.909838
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 0.0003982151541 MAXE = 82284 MAXRE = 0.001 PSNR = 67.997644
+OpenMP threads = 64
+compression ratio = 80.153183
+decompression time = 0.081034 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+OpenMP threads = 64
+compression ratio = 13.57 
+compression time = 0.965531
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 5.633030188E-05 MAXE = 8228.4 MAXRE = 0.0001 PSNR = 84.985158
+OpenMP threads = 64
+compression ratio = 13.566583
+decompression time = 0.129387 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+OpenMP threads = 64
+compression ratio = 5.74 
+compression time = 1.016033
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 5.738369855E-06 MAXE = 822.84 MAXRE = 1E-05 PSNR = 104.824229
+OpenMP threads = 64
+compression ratio = 5.736116
+decompression time = 0.154877 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+OpenMP threads = 64
+compression ratio = 3.48 
+compression time = 1.172138
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 5.738544948E-07 MAXE = 82.284 MAXRE = 1E-06 PSNR = 124.823964
+OpenMP threads = 64
+compression ratio = 3.476458
+decompression time = 0.205669 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+OpenMP threads = 64
+compression ratio = 2.36 
+compression time = 1.587786
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 5.704871479E-08 MAXE = 8.228 MAXRE = 9.9996E-08 PSNR = 144.875083
+OpenMP threads = 64
+compression ratio = 2.362326
+decompression time = 0.352269 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+OpenMP threads = 64
+compression ratio = 1.61 
+compression time = 2.659595
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 4.647054551E-09 MAXE = 0.82278 MAXRE = 9.9993E-09 PSNR = 166.656445
+OpenMP threads = 64
+compression ratio = 1.607793
+decompression time = 0.765322 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+../data/NYX/velocity_y.f32
+../SZ3/build/bin/sz3 -z ../com_data/sz3/NYX/velocity_y.f32.sz -f -i ../data/NYX/velocity_y.f32 -3 512 512 512 -M ABS -A 1.004385e+07 -c sz3config
+../SZ3/build/bin/sz3 -x -f -i ../data/NYX/velocity_y.f32 -3 512 512 512 -s ../com_data/sz3/NYX/velocity_y.f32.sz -a
+OpenMP threads = 64
+compression ratio = 10019.61 
+compression time = 0.706575
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 0.01963778317 MAXE = 1.0044E+07 MAXRE = 0.099999 PSNR = 34.138151
+OpenMP threads = 64
+compression ratio = 10019.613154
+decompression time = 0.083460 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+OpenMP threads = 64
+compression ratio = 962.96 
+compression time = 0.777564
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 0.002425758385 MAXE = 1.0044E+06 MAXRE = 0.01 PSNR = 52.303049
+OpenMP threads = 64
+compression ratio = 962.959151
+decompression time = 0.087141 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+OpenMP threads = 64
+compression ratio = 81.86 
+compression time = 0.892472
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 0.000394124972 MAXE = 1.0044E+05 MAXRE = 0.001 PSNR = 68.087321
+OpenMP threads = 64
+compression ratio = 81.862203
+decompression time = 0.086344 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+OpenMP threads = 64
+compression ratio = 14.31 
+compression time = 0.977331
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 5.582472963E-05 MAXE = 10044 MAXRE = 0.0001 PSNR = 85.063467
+OpenMP threads = 64
+compression ratio = 14.312522
+decompression time = 0.125223 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+OpenMP threads = 64
+compression ratio = 5.83 
+compression time = 1.036093
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 5.73937976E-06 MAXE = 1004.4 MAXRE = 1E-05 PSNR = 104.822701
+OpenMP threads = 64
+compression ratio = 5.834307
+decompression time = 0.162479 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+OpenMP threads = 64
+compression ratio = 3.53 
+compression time = 1.156976
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 5.734074254E-07 MAXE = 100.44 MAXRE = 1E-06 PSNR = 124.830734
+OpenMP threads = 64
+compression ratio = 3.531443
+decompression time = 0.208103 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+OpenMP threads = 64
+compression ratio = 2.41 
+compression time = 1.621031
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 5.736381004E-08 MAXE = 10.044 MAXRE = 1E-07 PSNR = 144.827240
+OpenMP threads = 64
+compression ratio = 2.410616
+decompression time = 0.345760 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+OpenMP threads = 64
+compression ratio = 1.76 
+compression time = 2.574918
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 5.819051527E-09 MAXE = 1.0043 MAXRE = 9.9995E-09 PSNR = 164.702956
+OpenMP threads = 64
+compression ratio = 1.760208
+decompression time = 0.802103 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+../data/NYX/velocity_z.f32
+../SZ3/build/bin/sz3 -z ../com_data/sz3/NYX/velocity_z.f32.sz -f -i ../data/NYX/velocity_z.f32 -3 512 512 512 -M ABS -A 7.232424e+06 -c sz3config
+../SZ3/build/bin/sz3 -x -f -i ../data/NYX/velocity_z.f32 -3 512 512 512 -s ../com_data/sz3/NYX/velocity_z.f32.sz -a
+OpenMP threads = 64
+compression ratio = 6405.96 
+compression time = 0.711904
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 0.02067756312 MAXE = 7.2324E+06 MAXRE = 0.1 PSNR = 33.690013
+OpenMP threads = 64
+compression ratio = 6405.962581
+decompression time = 0.085900 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out
+OpenMP threads = 64
+compression ratio = 589.43 
+compression time = 0.778214
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 0.002604546212 MAXE = 7.2324E+05 MAXRE = 0.01 PSNR = 51.685359
+OpenMP threads = 64
+compression ratio = 589.428481
+decompression time = 0.089004 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out
+OpenMP threads = 64
+compression ratio = 57.31 
+compression time = 0.897429
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 0.0004296793594 MAXE = 72324 MAXRE = 0.001 PSNR = 67.337110
+OpenMP threads = 64
+compression ratio = 57.312111
+decompression time = 0.091377 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out
+OpenMP threads = 64
+compression ratio = 11.90 
+compression time = 0.956983
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 5.661983786E-05 MAXE = 7232.4 MAXRE = 0.0001 PSNR = 84.940628
+OpenMP threads = 64
+compression ratio = 11.904046
+decompression time = 0.125943 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out
+OpenMP threads = 64
+compression ratio = 5.35 
+compression time = 1.027960
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 5.738491585E-06 MAXE = 723.24 MAXRE = 1E-05 PSNR = 104.824045
+OpenMP threads = 64
+compression ratio = 5.353731
+decompression time = 0.177945 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out
+OpenMP threads = 64
+compression ratio = 3.32 
+compression time = 1.165147
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 5.738072547E-07 MAXE = 72.324 MAXRE = 1E-06 PSNR = 124.824679
+OpenMP threads = 64
+compression ratio = 3.317369
+decompression time = 0.224108 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out
+OpenMP threads = 64
+compression ratio = 2.25 
+compression time = 1.698184
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 5.676503967E-08 MAXE = 7.2324 MAXRE = 1E-07 PSNR = 144.918381
+OpenMP threads = 64
+compression ratio = 2.252502
+decompression time = 0.392799 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out
+OpenMP threads = 64
+compression ratio = 1.60 
+compression time = 2.750988
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 4.993850643E-09 MAXE = 0.72321 MAXRE = 9.9995E-09 PSNR = 166.031289
+OpenMP threads = 64
+compression ratio = 1.603942
+decompression time = 0.865185 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out
+../data/NYX/baryon_density.f32
+../SZ3/build/bin/sz3 -z ../com_data/sz3/NYX/baryon_density.f32.sz -f -i ../data/NYX/baryon_density.f32 -3 512 512 512 -M ABS -A 1.158622e+04 -c sz3config
+../SZ3/build/bin/sz3 -x -f -i ../data/NYX/baryon_density.f32 -3 512 512 512 -s ../com_data/sz3/NYX/baryon_density.f32.sz -a
+OpenMP threads = 64
+compression ratio = 52153.77 
+compression time = 0.699947
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 0.0001145859819 MAXE = 11478 MAXRE = 0.099066 PSNR = 78.817370
+OpenMP threads = 64
+compression ratio = 52153.770352
+decompression time = 0.085037 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 32894.49 
+compression time = 0.694065
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 6.162256478E-05 MAXE = 1158.1 MAXRE = 0.0099957 PSNR = 84.205205
+OpenMP threads = 64
+compression ratio = 32894.486367
+decompression time = 0.089346 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 10750.10 
+compression time = 0.713485
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 2.904059816E-05 MAXE = 115.86 MAXRE = 0.00099996 PSNR = 90.739889
+OpenMP threads = 64
+compression ratio = 10750.103362
+decompression time = 0.089747 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 1856.10 
+compression time = 0.715803
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 1.226971449E-05 MAXE = 11.586 MAXRE = 0.0001 PSNR = 98.223311
+OpenMP threads = 64
+compression ratio = 1856.104880
+decompression time = 0.085159 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 287.76 
+compression time = 0.808530
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 2.579209535E-06 MAXE = 1.1586 MAXRE = 1E-05 PSNR = 111.770267
+OpenMP threads = 64
+compression ratio = 287.763525
+decompression time = 0.088523 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 53.98 
+compression time = 0.938501
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 3.916097208E-07 MAXE = 0.11586 MAXRE = 1E-06 PSNR = 128.142931
+OpenMP threads = 64
+compression ratio = 53.981441
+decompression time = 0.086886 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 14.95 
+compression time = 1.057497
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 5.285968009E-08 MAXE = 0.011586 MAXRE = 1E-07 PSNR = 145.537509
+OpenMP threads = 64
+compression ratio = 14.950021
+decompression time = 0.118772 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 6.08 
+compression time = 1.123972
+compressed data file = ../com_data/sz3/NYX/baryon_density.f32.sz
+NRMSE= 5.732917772E-09 MAXE = 0.0011586 MAXRE = 1E-08 PSNR = 164.832486
+OpenMP threads = 64
+compression ratio = 6.084176
+decompression time = 0.177629 seconds.
+decompressed file = ../com_data/sz3/NYX/baryon_density.f32.sz.out
+../data/NYX/dark_matter_density.f32
+../SZ3/build/bin/sz3 -z ../com_data/sz3/NYX/dark_matter_density.f32.sz -f -i ../data/NYX/dark_matter_density.f32 -3 512 512 512 -M ABS -A 1.377893e+03 -c sz3config
+../SZ3/build/bin/sz3 -x -f -i ../data/NYX/dark_matter_density.f32 -3 512 512 512 -s ../com_data/sz3/NYX/dark_matter_density.f32.sz -a
+OpenMP threads = 64
+compression ratio = 41422.03 
+compression time = 0.701299
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 0.0008418464598 MAXE = 1377.4 MAXRE = 0.099961 PSNR = 61.495342
+OpenMP threads = 64
+compression ratio = 41422.028547
+decompression time = 0.079075 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 6782.27 
+compression time = 0.716384
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 0.0003536215339 MAXE = 137.79 MAXRE = 0.01 PSNR = 69.029226
+OpenMP threads = 64
+compression ratio = 6782.269790
+decompression time = 0.081245 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 542.85 
+compression time = 0.734864
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 0.0001450082435 MAXE = 13.779 MAXRE = 0.001 PSNR = 76.772146
+OpenMP threads = 64
+compression ratio = 542.849311
+decompression time = 0.085323 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 67.38 
+compression time = 0.846024
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 3.497370359E-05 MAXE = 1.3779 MAXRE = 0.0001 PSNR = 89.125168
+OpenMP threads = 64
+compression ratio = 67.380771
+decompression time = 0.092239 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 12.03 
+compression time = 0.984767
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 5.654433073E-06 MAXE = 0.13779 MAXRE = 1E-05 PSNR = 104.952219
+OpenMP threads = 64
+compression ratio = 12.029387
+decompression time = 0.131007 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 5.32 
+compression time = 1.063542
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 5.726714382E-07 MAXE = 0.013779 MAXRE = 1E-06 PSNR = 124.841890
+OpenMP threads = 64
+compression ratio = 5.323733
+decompression time = 0.164261 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 3.33 
+compression time = 1.285809
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 5.729282484E-08 MAXE = 0.0013779 MAXRE = 1E-07 PSNR = 144.837995
+OpenMP threads = 64
+compression ratio = 3.325530
+decompression time = 0.225055 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+OpenMP threads = 64
+compression ratio = 2.29 
+compression time = 1.752675
+compressed data file = ../com_data/sz3/NYX/dark_matter_density.f32.sz
+NRMSE= 5.714623307E-09 MAXE = 0.00013779 MAXRE = 1E-08 PSNR = 164.860248
+OpenMP threads = 64
+compression ratio = 2.288145
+decompression time = 0.402532 seconds.
+decompressed file = ../com_data/sz3/NYX/dark_matter_density.f32.sz.out
+../data/NYX/temperature.f32
+../SZ3/build/bin/sz3 -z ../com_data/sz3/NYX/temperature.f32.sz -f -i ../data/NYX/temperature.f32 -3 512 512 512 -M ABS -A 4.780302e+05 -c sz3config
+../SZ3/build/bin/sz3 -x -f -i ../data/NYX/temperature.f32 -3 512 512 512 -s ../com_data/sz3/NYX/temperature.f32.sz -a
+OpenMP threads = 64
+compression ratio = 33904.07 
+compression time = 0.682422
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 0.002205124471 MAXE = 4.7803E+05 MAXRE = 0.099999 PSNR = 53.131338
+OpenMP threads = 64
+compression ratio = 33904.067698
+decompression time = 0.089782 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+OpenMP threads = 64
+compression ratio = 4026.12 
+compression time = 0.717339
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 0.001738504474 MAXE = 47803 MAXRE = 0.0099999 PSNR = 55.196484
+OpenMP threads = 64
+compression ratio = 4026.119163
+decompression time = 0.086861 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+OpenMP threads = 64
+compression ratio = 375.79 
+compression time = 0.793195
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 0.0002632466902 MAXE = 4780.3 MAXRE = 0.001 PSNR = 71.592742
+OpenMP threads = 64
+compression ratio = 375.791600
+decompression time = 0.088805 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+OpenMP threads = 64
+compression ratio = 50.45 
+compression time = 0.913203
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 4.316796161E-05 MAXE = 478.03 MAXRE = 0.0001 PSNR = 87.296769
+OpenMP threads = 64
+compression ratio = 50.450827
+decompression time = 0.096121 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+OpenMP threads = 64
+compression ratio = 12.20 
+compression time = 1.007706
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 5.591062993E-06 MAXE = 47.803 MAXRE = 1E-05 PSNR = 105.050112
+OpenMP threads = 64
+compression ratio = 12.200218
+decompression time = 0.126743 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+OpenMP threads = 64
+compression ratio = 5.41 
+compression time = 1.049571
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 5.739105229E-07 MAXE = 4.7803 MAXRE = 9.9999E-07 PSNR = 124.823116
+OpenMP threads = 64
+compression ratio = 5.410762
+decompression time = 0.167578 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+OpenMP threads = 64
+compression ratio = 3.33 
+compression time = 1.215537
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 5.738518215E-08 MAXE = 0.47803 MAXRE = 9.9999E-08 PSNR = 144.824005
+OpenMP threads = 64
+compression ratio = 3.330829
+decompression time = 0.234935 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+OpenMP threads = 64
+compression ratio = 2.25 
+compression time = 1.749396
+compressed data file = ../com_data/sz3/NYX/temperature.f32.sz
+NRMSE= 5.675074497E-09 MAXE = 0.047607 MAXRE = 9.9591E-09 PSNR = 164.920569
+OpenMP threads = 64
+compression ratio = 2.254414
+decompression time = 0.408737 seconds.
+decompressed file = ../com_data/sz3/NYX/temperature.f32.sz.out
+../data/NYX/velocity_x.f32
+../SZ3/build/bin/sz3 -z ../com_data/sz3/NYX/velocity_x.f32.sz -f -i ../data/NYX/velocity_x.f32 -3 512 512 512 -M ABS -A 8.228364e+06 -c sz3config
+../SZ3/build/bin/sz3 -x -f -i ../data/NYX/velocity_x.f32 -3 512 512 512 -s ../com_data/sz3/NYX/velocity_x.f32.sz -a
+OpenMP threads = 64
+compression ratio = 7116.43 
+compression time = 0.732587
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 0.02087777847 MAXE = 8.2283E+06 MAXRE = 0.099999 PSNR = 33.606314
+OpenMP threads = 64
+compression ratio = 7116.434194
+decompression time = 0.081164 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+OpenMP threads = 64
+compression ratio = 814.29 
+compression time = 0.792876
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 0.002762098425 MAXE = 8.2284E+05 MAXRE = 0.01 PSNR = 51.175217
+OpenMP threads = 64
+compression ratio = 814.294551
+decompression time = 0.086125 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+OpenMP threads = 64
+compression ratio = 80.15 
+compression time = 0.904429
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 0.0003982151541 MAXE = 82284 MAXRE = 0.001 PSNR = 67.997644
+OpenMP threads = 64
+compression ratio = 80.153183
+decompression time = 0.086863 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+OpenMP threads = 64
+compression ratio = 13.57 
+compression time = 0.917924
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 5.633030188E-05 MAXE = 8228.4 MAXRE = 0.0001 PSNR = 84.985158
+OpenMP threads = 64
+compression ratio = 13.566583
+decompression time = 0.116816 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+OpenMP threads = 64
+compression ratio = 5.74 
+compression time = 1.020874
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 5.738369855E-06 MAXE = 822.84 MAXRE = 1E-05 PSNR = 104.824229
+OpenMP threads = 64
+compression ratio = 5.736116
+decompression time = 0.159015 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+OpenMP threads = 64
+compression ratio = 3.48 
+compression time = 1.173177
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 5.738544948E-07 MAXE = 82.284 MAXRE = 1E-06 PSNR = 124.823964
+OpenMP threads = 64
+compression ratio = 3.476458
+decompression time = 0.233494 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+OpenMP threads = 64
+compression ratio = 2.36 
+compression time = 1.633160
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 5.704871479E-08 MAXE = 8.228 MAXRE = 9.9996E-08 PSNR = 144.875083
+OpenMP threads = 64
+compression ratio = 2.362326
+decompression time = 0.346928 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+OpenMP threads = 64
+compression ratio = 1.61 
+compression time = 2.689321
+compressed data file = ../com_data/sz3/NYX/velocity_x.f32.sz
+NRMSE= 4.647054551E-09 MAXE = 0.82278 MAXRE = 9.9993E-09 PSNR = 166.656445
+OpenMP threads = 64
+compression ratio = 1.607793
+decompression time = 0.753158 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_x.f32.sz.out
+../data/NYX/velocity_y.f32
+../SZ3/build/bin/sz3 -z ../com_data/sz3/NYX/velocity_y.f32.sz -f -i ../data/NYX/velocity_y.f32 -3 512 512 512 -M ABS -A 1.004385e+07 -c sz3config
+../SZ3/build/bin/sz3 -x -f -i ../data/NYX/velocity_y.f32 -3 512 512 512 -s ../com_data/sz3/NYX/velocity_y.f32.sz -a
+OpenMP threads = 64
+compression ratio = 10019.61 
+compression time = 0.713901
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 0.01963778317 MAXE = 1.0044E+07 MAXRE = 0.099999 PSNR = 34.138151
+OpenMP threads = 64
+compression ratio = 10019.613154
+decompression time = 0.084994 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+OpenMP threads = 64
+compression ratio = 962.96 
+compression time = 0.774109
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 0.002425758385 MAXE = 1.0044E+06 MAXRE = 0.01 PSNR = 52.303049
+OpenMP threads = 64
+compression ratio = 962.959151
+decompression time = 0.085346 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+OpenMP threads = 64
+compression ratio = 81.86 
+compression time = 0.882492
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 0.000394124972 MAXE = 1.0044E+05 MAXRE = 0.001 PSNR = 68.087321
+OpenMP threads = 64
+compression ratio = 81.862203
+decompression time = 0.090624 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+OpenMP threads = 64
+compression ratio = 14.31 
+compression time = 0.951508
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 5.582472963E-05 MAXE = 10044 MAXRE = 0.0001 PSNR = 85.063467
+OpenMP threads = 64
+compression ratio = 14.312522
+decompression time = 0.123294 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+OpenMP threads = 64
+compression ratio = 5.83 
+compression time = 1.017747
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 5.73937976E-06 MAXE = 1004.4 MAXRE = 1E-05 PSNR = 104.822701
+OpenMP threads = 64
+compression ratio = 5.834307
+decompression time = 0.173709 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+OpenMP threads = 64
+compression ratio = 3.53 
+compression time = 1.124639
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 5.734074254E-07 MAXE = 100.44 MAXRE = 1E-06 PSNR = 124.830734
+OpenMP threads = 64
+compression ratio = 3.531443
+decompression time = 0.210870 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+OpenMP threads = 64
+compression ratio = 2.41 
+compression time = 1.538652
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 5.736381004E-08 MAXE = 10.044 MAXRE = 1E-07 PSNR = 144.827240
+OpenMP threads = 64
+compression ratio = 2.410616
+decompression time = 0.345704 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+OpenMP threads = 64
+compression ratio = 1.76 
+compression time = 2.600922
+compressed data file = ../com_data/sz3/NYX/velocity_y.f32.sz
+NRMSE= 5.819051527E-09 MAXE = 1.0043 MAXRE = 9.9995E-09 PSNR = 164.702956
+OpenMP threads = 64
+compression ratio = 1.760208
+decompression time = 0.799660 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_y.f32.sz.out
+../data/NYX/velocity_z.f32
+../SZ3/build/bin/sz3 -z ../com_data/sz3/NYX/velocity_z.f32.sz -f -i ../data/NYX/velocity_z.f32 -3 512 512 512 -M ABS -A 7.232424e+06 -c sz3config
+../SZ3/build/bin/sz3 -x -f -i ../data/NYX/velocity_z.f32 -3 512 512 512 -s ../com_data/sz3/NYX/velocity_z.f32.sz -a
+OpenMP threads = 64
+compression ratio = 6405.96 
+compression time = 0.726821
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 0.02067756312 MAXE = 7.2324E+06 MAXRE = 0.1 PSNR = 33.690013
+OpenMP threads = 64
+compression ratio = 6405.962581
+decompression time = 0.083458 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out
+OpenMP threads = 64
+compression ratio = 589.43 
+compression time = 0.801847
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 0.002604546212 MAXE = 7.2324E+05 MAXRE = 0.01 PSNR = 51.685359
+OpenMP threads = 64
+compression ratio = 589.428481
+decompression time = 0.090277 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out
+OpenMP threads = 64
+compression ratio = 57.31 
+compression time = 0.922283
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 0.0004296793594 MAXE = 72324 MAXRE = 0.001 PSNR = 67.337110
+OpenMP threads = 64
+compression ratio = 57.312111
+decompression time = 0.092028 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out
+OpenMP threads = 64
+compression ratio = 11.90 
+compression time = 0.971737
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 5.661983786E-05 MAXE = 7232.4 MAXRE = 0.0001 PSNR = 84.940628
+OpenMP threads = 64
+compression ratio = 11.904046
+decompression time = 0.126563 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out
+OpenMP threads = 64
+compression ratio = 5.35 
+compression time = 1.021081
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 5.738491585E-06 MAXE = 723.24 MAXRE = 1E-05 PSNR = 104.824045
+OpenMP threads = 64
+compression ratio = 5.353731
+decompression time = 0.185567 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out
+OpenMP threads = 64
+compression ratio = 3.32 
+compression time = 1.166253
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 5.738072547E-07 MAXE = 72.324 MAXRE = 1E-06 PSNR = 124.824679
+OpenMP threads = 64
+compression ratio = 3.317369
+decompression time = 0.230594 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out
+OpenMP threads = 64
+compression ratio = 2.25 
+compression time = 1.707475
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 5.676503967E-08 MAXE = 7.2324 MAXRE = 1E-07 PSNR = 144.918381
+OpenMP threads = 64
+compression ratio = 2.252502
+decompression time = 0.386021 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out
+OpenMP threads = 64
+compression ratio = 1.60 
+compression time = 2.774022
+compressed data file = ../com_data/sz3/NYX/velocity_z.f32.sz
+NRMSE= 4.993850643E-09 MAXE = 0.72321 MAXRE = 9.9995E-09 PSNR = 166.031289
+OpenMP threads = 64
+compression ratio = 1.603942
+decompression time = 0.869288 seconds.
+decompressed file = ../com_data/sz3/NYX/velocity_z.f32.sz.out

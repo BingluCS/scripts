@@ -1,0 +1,3564 @@
+../data/SCALE/PRES-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz -f -i ../data/SCALE/PRES-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 9.953476e+03 -k
+../SZ/example/sz -x -f -i ../data/SCALE/PRES-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz -a -k
+outSize=17705867
+compression time = 0.546731
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 9953.4746093750
+Max relative error = 0.100000
+Max pw relative error = 1.880476
+PSNR = 24.479891, NRMSE= 0.059704279634182816361
+acEff=0.985713
+compressionRatio=31.880958
+decompression time = 0.241609 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+outSize=18308072
+compression time = 0.568659
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 995.3474121094
+Max relative error = 0.010000
+Max pw relative error = 0.379860
+PSNR = 44.712807, NRMSE= 0.0058124555951885367028
+acEff=0.999841
+compressionRatio=30.832302
+decompression time = 0.255696 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+outSize=22717273
+compression time = 0.623244
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 99.5346679688
+Max relative error = 0.001000
+Max pw relative error = 0.042781
+PSNR = 64.752939, NRMSE= 0.00057856620666090830592
+acEff=0.999998
+compressionRatio=24.848053
+decompression time = 0.346442 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+outSize=27422122
+compression time = 0.645787
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 9.9533691406
+Max relative error = 0.000100
+Max pw relative error = 0.004322
+PSNR = 84.772094, NRMSE= 5.7729169185149324954E-05
+acEff=1.000000
+compressionRatio=20.584840
+decompression time = 0.391931 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+outSize=35178172
+compression time = 0.643112
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 0.9951171875
+Max relative error = 0.000010
+Max pw relative error = 0.000432
+PSNR = 104.780317, NRMSE= 5.7674543865480876707E-06
+acEff=1.000000
+compressionRatio=16.046314
+decompression time = 0.445225 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+outSize=57570862
+compression time = 0.655924
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 0.0993652344
+Max relative error = 0.000001
+Max pw relative error = 0.000043
+PSNR = 124.910296, NRMSE= 5.6817904972055752214E-07
+acEff=1.000000
+compressionRatio=9.804960
+decompression time = 0.482923 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+outSize=105201798
+compression time = 0.692832
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 0.0097656250
+Max relative error = 0.000000
+Max pw relative error = 0.000004
+PSNR = 144.769596, NRMSE= 5.7745773447555940505E-08
+acEff=1.000000
+compressionRatio=5.365688
+decompression time = 0.731332 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+outSize=151224567
+compression time = 0.656994
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 0.0009765625
+Max relative error = 0.000000
+Max pw relative error = 0.000000
+PSNR = 168.759335, NRMSE= 3.6478188115434410574E-09
+acEff=1.000000
+compressionRatio=3.732727
+decompression time = 0.896699 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+../data/SCALE/QC-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz -f -i ../data/SCALE/QC-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 3.011531e-04 -k
+../SZ/example/sz -x -f -i ../data/SCALE/QC-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz -a -k
+outSize=17672280
+compression time = 0.550562
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0003011530
+Max relative error = 0.100000
+Max pw relative error = 50293483569757223667231218466816.000000
+PSNR = 41.739100, NRMSE= 0.008185496184964686367
+acEff=0.870828
+compressionRatio=31.941549
+decompression time = 0.239610 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+outSize=18001703
+compression time = 0.560201
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0000301153
+Max relative error = 0.010000
+Max pw relative error = 50449913270160497730187765481472.000000
+PSNR = 55.910385, NRMSE= 0.0016013297220002686762
+acEff=0.994810
+compressionRatio=31.357033
+decompression time = 0.254245 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+outSize=19040901
+compression time = 0.570558
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0000030115
+Max relative error = 0.001000
+Max pw relative error = 204398312648971778120808428208128.000000
+PSNR = 69.538534, NRMSE= 0.00033348270522385052485
+acEff=0.999773
+compressionRatio=29.645656
+decompression time = 0.287256 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+outSize=24290961
+compression time = 0.628217
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0000003012
+Max relative error = 0.000100
+Max pw relative error = 22722547179437827994179571023872.000000
+PSNR = 87.527479, NRMSE= 4.2036450515560053903E-05
+acEff=0.999996
+compressionRatio=23.238274
+decompression time = 0.386599 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+outSize=35723358
+compression time = 0.638986
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0000000301
+Max relative error = 0.000010
+Max pw relative error = 2408193129628374505237757558784.000000
+PSNR = 107.127280, NRMSE= 4.4018575758862616855E-06
+acEff=1.000000
+compressionRatio=15.801426
+decompression time = 0.455403 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+outSize=50854453
+compression time = 0.644445
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0000000030
+Max relative error = 0.000001
+Max pw relative error = 252706770712399426067755958272.000000
+PSNR = 125.092145, NRMSE= 5.5640720023314078771E-07
+acEff=1.000000
+compressionRatio=11.099913
+decompression time = 0.547548 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+outSize=67395725
+compression time = 0.653482
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0000000003
+Max relative error = 0.000000
+Max pw relative error = 25410869581543175313617321984.000000
+PSNR = 145.348164, NRMSE= 5.40246301509527626E-08
+acEff=1.000000
+compressionRatio=8.375605
+decompression time = 0.734495 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+outSize=91127753
+compression time = 0.690101
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0000000000
+Max relative error = 0.000000
+Max pw relative error = 2502464057155926041900875776.000000
+PSNR = 165.402883, NRMSE= 5.3685359595733004804E-09
+acEff=1.000000
+compressionRatio=6.194381
+decompression time = 0.935804 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+../data/SCALE/QG-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz -f -i ../data/SCALE/QG-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 1.488131e-03 -k
+../SZ/example/sz -x -f -i ../data/SCALE/QG-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz -a -k
+outSize=17650732
+compression time = 0.557963
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0014881287
+Max relative error = 0.100000
+Max pw relative error = 5701655761112.217773
+PSNR = 45.224356, NRMSE= 0.0054800204400581673664
+acEff=0.924566
+compressionRatio=31.980543
+decompression time = 0.239050 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+outSize=17738812
+compression time = 0.563358
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0001488131
+Max relative error = 0.010000
+Max pw relative error = 5702415072525.379883
+PSNR = 51.836209, NRMSE= 0.0025597027976113195108
+acEff=0.985961
+compressionRatio=31.821748
+decompression time = 0.241430 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+outSize=18053187
+compression time = 0.559504
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0000148813
+Max relative error = 0.001000
+Max pw relative error = 145654150115.983643
+PSNR = 67.776144, NRMSE= 0.00040850068813135182247
+acEff=0.999557
+compressionRatio=31.267609
+decompression time = 0.250777 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+outSize=19463758
+compression time = 0.559249
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0000014881
+Max relative error = 0.000100
+Max pw relative error = 22625215081927.351562
+PSNR = 87.826239, NRMSE= 4.0615150448335067784E-05
+acEff=0.999996
+compressionRatio=29.001594
+decompression time = 0.276532 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+outSize=25311536
+compression time = 0.585239
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0000001488
+Max relative error = 0.000010
+Max pw relative error = 4800545799828.997070
+PSNR = 106.439757, NRMSE= 4.7644432283533755504E-06
+acEff=1.000000
+compressionRatio=22.301294
+decompression time = 0.312255 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+outSize=32376682
+compression time = 0.598906
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0000000149
+Max relative error = 0.000001
+Max pw relative error = 664809576468.905029
+PSNR = 126.828476, NRMSE= 4.5559210158689437553E-07
+acEff=1.000000
+compressionRatio=17.434770
+decompression time = 0.352020 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+outSize=45418611
+compression time = 0.622367
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0000000015
+Max relative error = 0.000000
+Max pw relative error = 210310948374.565826
+PSNR = 146.360335, NRMSE= 4.8082079565060822908E-08
+acEff=1.000000
+compressionRatio=12.428385
+decompression time = 0.419574 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+outSize=64342066
+compression time = 0.646762
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0000000001
+Max relative error = 0.000000
+Max pw relative error = 8654189148.002964
+PSNR = 166.369422, NRMSE= 4.8031806515161473611E-09
+acEff=1.000000
+compressionRatio=8.773110
+decompression time = 0.528159 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+../data/SCALE/QI-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz -f -i ../data/SCALE/QI-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 1.600500e-04 -k
+../SZ/example/sz -x -f -i ../data/SCALE/QI-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz -a -k
+outSize=17652719
+compression time = 0.552299
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0001600499
+Max relative error = 0.100000
+Max pw relative error = 36036583646768452388625129144320.000000
+PSNR = 41.244997, NRMSE= 0.0086646322358832957716
+acEff=0.859944
+compressionRatio=31.976944
+decompression time = 0.239134 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+outSize=17840735
+compression time = 0.561178
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0000160050
+Max relative error = 0.010000
+Max pw relative error = 34627086649035473709955828154368.000000
+PSNR = 53.824031, NRMSE= 0.0020360968268617876328
+acEff=0.992335
+compressionRatio=31.639952
+decompression time = 0.245108 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+outSize=18655574
+compression time = 0.568026
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0000016005
+Max relative error = 0.001000
+Max pw relative error = 33563738784127295470349127254016.000000
+PSNR = 71.575119, NRMSE= 0.00026378133645714804548
+acEff=0.999870
+compressionRatio=30.257981
+decompression time = 0.267744 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+outSize=21609913
+compression time = 0.600517
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0000001600
+Max relative error = 0.000100
+Max pw relative error = 13544951481038248124016731619328.000000
+PSNR = 87.499333, NRMSE= 4.2172887138431938106E-05
+acEff=0.999997
+compressionRatio=26.121345
+decompression time = 0.327945 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+outSize=31581522
+compression time = 0.642500
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0000000160
+Max relative error = 0.000010
+Max pw relative error = 1356939860478664608166361169920.000000
+PSNR = 106.989802, NRMSE= 4.472083334598963074E-06
+acEff=1.000000
+compressionRatio=17.873743
+decompression time = 0.398855 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+outSize=45897064
+compression time = 0.645926
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0000000016
+Max relative error = 0.000001
+Max pw relative error = 135667984911692348035705077760.000000
+PSNR = 127.163420, NRMSE= 4.3835808142584310393E-07
+acEff=1.000000
+compressionRatio=12.298826
+decompression time = 0.486623 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+outSize=64907641
+compression time = 0.654331
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0000000002
+Max relative error = 0.000000
+Max pw relative error = 13523538372639111522717532160.000000
+PSNR = 146.915128, NRMSE= 4.5106963602852651282E-08
+acEff=1.000000
+compressionRatio=8.696665
+decompression time = 0.612602 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+outSize=84410906
+compression time = 0.676728
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0000000000
+Max relative error = 0.000000
+Max pw relative error = 1354443046996614356666417152.000000
+PSNR = 166.863103, NRMSE= 4.5377946929267559906E-09
+acEff=1.000000
+compressionRatio=6.687288
+decompression time = 0.896549 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+../data/SCALE/QR-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz -f -i ../data/SCALE/QR-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 6.372067e-04 -k
+../SZ/example/sz -x -f -i ../data/SCALE/QR-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz -a -k
+outSize=17656998
+compression time = 0.560762
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0006372062
+Max relative error = 0.100000
+Max pw relative error = 1929935613505091.000000
+PSNR = 42.200534, NRMSE= 0.007761994110250791494
+acEff=0.860289
+compressionRatio=31.969194
+decompression time = 0.240423 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+outSize=17852600
+compression time = 0.560523
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0000637207
+Max relative error = 0.010000
+Max pw relative error = 1891388474727998.250000
+PSNR = 55.804036, NRMSE= 0.0016210566805539715265
+acEff=0.993620
+compressionRatio=31.618924
+decompression time = 0.248552 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+outSize=18697842
+compression time = 0.583483
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0000063721
+Max relative error = 0.001000
+Max pw relative error = 1149913995205665.000000
+PSNR = 69.335651, NRMSE= 0.00034136378592198788045
+acEff=0.999738
+compressionRatio=30.189580
+decompression time = 0.285796 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+outSize=21228929
+compression time = 0.615036
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0000006372
+Max relative error = 0.000100
+Max pw relative error = 61855059291410.890625
+PSNR = 89.260510, NRMSE= 3.4432970278764680637E-05
+acEff=0.999997
+compressionRatio=26.590131
+decompression time = 0.356711 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+outSize=31498240
+compression time = 0.677119
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0000000637
+Max relative error = 0.000010
+Max pw relative error = 13532596806547.490234
+PSNR = 108.468333, NRMSE= 3.7721011312245520689E-06
+acEff=1.000000
+compressionRatio=17.921001
+decompression time = 0.447056 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+outSize=44704616
+compression time = 0.687406
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0000000064
+Max relative error = 0.000001
+Max pw relative error = 982422784171.654907
+PSNR = 128.388631, NRMSE= 3.8068736552672227667E-07
+acEff=1.000000
+compressionRatio=12.626884
+decompression time = 0.587497 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+outSize=61833462
+compression time = 0.691580
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0000000006
+Max relative error = 0.000000
+Max pw relative error = 97550848394.998138
+PSNR = 148.193596, NRMSE= 3.8933206853959527522E-08
+acEff=1.000000
+compressionRatio=9.129038
+decompression time = 0.771730 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+outSize=84357017
+compression time = 0.699501
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0000000001
+Max relative error = 0.000000
+Max pw relative error = 9830489027.159649
+PSNR = 167.016068, NRMSE= 4.4585803318647357388E-09
+acEff=1.000000
+compressionRatio=6.691560
+decompression time = 1.077189 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+../data/SCALE/QS-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz -f -i ../data/SCALE/QS-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 7.569692e-05 -k
+../SZ/example/sz -x -f -i ../data/SCALE/QS-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz -a -k
+outSize=17682087
+compression time = 0.555948
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000756969
+Max relative error = 0.100000
+Max pw relative error = 8140329415.816166
+PSNR = 34.259083, NRMSE= 0.019366264006385459223
+acEff=0.742119
+compressionRatio=31.923833
+decompression time = 0.241030 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+outSize=18097554
+compression time = 0.566720
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000075697
+Max relative error = 0.010000
+Max pw relative error = 8572147978.264626
+PSNR = 48.873841, NRMSE= 0.0036000452063740169019
+acEff=0.991300
+compressionRatio=31.190955
+decompression time = 0.252169 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+outSize=19792602
+compression time = 0.580488
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000007570
+Max relative error = 0.001000
+Max pw relative error = 667880275023.061768
+PSNR = 68.642857, NRMSE= 0.00036970654216277656088
+acEff=0.999904
+compressionRatio=28.519747
+decompression time = 0.299892 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+outSize=25878563
+compression time = 0.626223
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000000757
+Max relative error = 0.000100
+Max pw relative error = 112729062787.222122
+PSNR = 86.942302, NRMSE= 4.4966064868041273064E-05
+acEff=0.999999
+compressionRatio=21.812649
+decompression time = 0.372202 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+outSize=40366136
+compression time = 0.648100
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000000076
+Max relative error = 0.000010
+Max pw relative error = 77877119590.196304
+PSNR = 106.780746, NRMSE= 4.5810254957989965472E-06
+acEff=1.000000
+compressionRatio=13.983999
+decompression time = 0.458104 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+outSize=61111957
+compression time = 0.649515
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000000008
+Max relative error = 0.000001
+Max pw relative error = 11355150056.797171
+PSNR = 126.685021, NRMSE= 4.6317908753644244874E-07
+acEff=1.000000
+compressionRatio=9.236818
+decompression time = 0.559107 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+outSize=84065526
+compression time = 0.663864
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000000001
+Max relative error = 0.000000
+Max pw relative error = 4465079705.068669
+PSNR = 146.640224, NRMSE= 4.655741067719594886E-08
+acEff=1.000000
+compressionRatio=6.714762
+decompression time = 0.756748 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+outSize=112774596
+compression time = 0.695409
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000000000
+Max relative error = 0.000000
+Max pw relative error = 398922960.156725
+PSNR = 166.548017, NRMSE= 4.7054281154057812383E-09
+acEff=1.000000
+compressionRatio=5.005383
+decompression time = 1.004002 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+../data/SCALE/QV-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz -f -i ../data/SCALE/QV-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 1.952336e-03 -k
+../SZ/example/sz -x -f -i ../data/SCALE/QV-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz -a -k
+outSize=17834285
+compression time = 0.556471
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0019523359
+Max relative error = 0.100000
+Max pw relative error = 167947.116101
+PSNR = 26.452442, NRMSE= 0.047574899008486472296
+acEff=0.986160
+compressionRatio=31.651395
+decompression time = 0.246974 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+outSize=19575380
+compression time = 0.603554
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0001952336
+Max relative error = 0.010000
+Max pw relative error = 20664.139260
+PSNR = 45.677224, NRMSE= 0.0052016222219960521131
+acEff=0.999826
+compressionRatio=28.836222
+decompression time = 0.301855 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+outSize=24756919
+compression time = 0.664723
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0000195234
+Max relative error = 0.001000
+Max pw relative error = 1551.939050
+PSNR = 64.607213, NRMSE= 0.00058835486808400813078
+acEff=0.999998
+compressionRatio=22.800899
+decompression time = 0.429260 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+outSize=37870025
+compression time = 0.709906
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0000019523
+Max relative error = 0.000100
+Max pw relative error = 191.011929
+PSNR = 84.719712, NRMSE= 5.8078366374543749073E-05
+acEff=1.000000
+compressionRatio=14.905720
+decompression time = 0.562559 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+outSize=71416668
+compression time = 0.715671
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0000001952
+Max relative error = 0.000010
+Max pw relative error = 18.109641
+PSNR = 104.793318, NRMSE= 5.7588277164134350723E-06
+acEff=1.000000
+compressionRatio=7.904037
+decompression time = 0.793050 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+outSize=120592711
+compression time = 0.683143
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0000000195
+Max relative error = 0.000001
+Max pw relative error = 1.487409
+PSNR = 124.882079, NRMSE= 5.7002783044253817944E-07
+acEff=1.000000
+compressionRatio=4.680880
+decompression time = 0.997735 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+outSize=163843111
+compression time = 0.679336
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0000000020
+Max relative error = 0.000000
+Max pw relative error = 0.171558
+PSNR = 144.661943, NRMSE= 5.8465925035824406317E-08
+acEff=1.000000
+compressionRatio=3.445247
+decompression time = 1.409206 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+outSize=231901360
+compression time = 0.736042
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0000000002
+Max relative error = 0.000000
+Max pw relative error = 0.019113
+PSNR = 167.514856, NRMSE= 4.2097586566418170867E-09
+acEff=1.000000
+compressionRatio=2.434138
+decompression time = 1.712179 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+../data/SCALE/RH-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz -f -i ../data/SCALE/RH-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 2.044729e+01 -k
+../SZ/example/sz -x -f -i ../data/SCALE/RH-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz -a -k
+outSize=17920680
+compression time = 0.554550
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 20.4472885132
+Max relative error = 0.100000
+Max pw relative error = 9007.563676
+PSNR = 25.206427, NRMSE= 0.054913438893257317253
+acEff=0.931293
+compressionRatio=31.498805
+decompression time = 0.247122 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+outSize=20453889
+compression time = 0.625975
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 2.0447289944
+Max relative error = 0.010000
+Max pw relative error = 8446.770104
+PSNR = 44.670628, NRMSE= 0.0058407499585379218932
+acEff=0.999164
+compressionRatio=27.597686
+decompression time = 0.322599 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+outSize=27713572
+compression time = 0.653332
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 0.2044728994
+Max relative error = 0.001000
+Max pw relative error = 900.551004
+PSNR = 64.765842, NRMSE= 0.00057770735223293021802
+acEff=0.999992
+compressionRatio=20.368360
+decompression time = 0.452499 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+outSize=51095809
+compression time = 0.697474
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 0.0204472840
+Max relative error = 0.000100
+Max pw relative error = 92.720126
+PSNR = 84.798197, NRMSE= 5.7555942623904808152E-05
+acEff=1.000000
+compressionRatio=11.047481
+decompression time = 0.587626 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+outSize=92619466
+compression time = 0.689822
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 0.0020447224
+Max relative error = 0.000010
+Max pw relative error = 7.841118
+PSNR = 104.811264, NRMSE= 5.7469415192246317943E-06
+acEff=1.000000
+compressionRatio=6.094615
+decompression time = 0.806103 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+outSize=145198310
+compression time = 0.667297
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 0.0002044700
+Max relative error = 0.000001
+Max pw relative error = 0.971188
+PSNR = 124.837461, NRMSE= 5.7296348817206687198E-07
+acEff=1.000000
+compressionRatio=3.887649
+decompression time = 1.054612 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+outSize=211187987
+compression time = 0.687390
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 0.0000204444
+Max relative error = 0.000000
+Max pw relative error = 0.056131
+PSNR = 145.115206, NRMSE= 5.5493193250444830173E-08
+acEff=1.000000
+compressionRatio=2.672879
+decompression time = 1.496347 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+outSize=285710242
+compression time = 0.740400
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 0.0000020443
+Max relative error = 0.000000
+Max pw relative error = 0.005447
+PSNR = 169.150932, NRMSE= 3.4870117058133224244E-09
+acEff=1.000000
+compressionRatio=1.975708
+decompression time = 1.729276 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+../data/SCALE/T-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz -f -i ../data/SCALE/T-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 1.327148e+01 -k
+../SZ/example/sz -x -f -i ../data/SCALE/T-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz -a -k
+outSize=17747697
+compression time = 0.546794
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 13.2714691162
+Max relative error = 0.100000
+Max pw relative error = 0.069819
+PSNR = 24.638739, NRMSE= 0.058622328168837882501
+acEff=0.979269
+compressionRatio=31.805817
+decompression time = 0.241866 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+outSize=18912709
+compression time = 0.567725
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 1.3271331787
+Max relative error = 0.010000
+Max pw relative error = 0.007218
+PSNR = 44.773886, NRMSE= 0.0057717262274453381976
+acEff=0.999768
+compressionRatio=29.846597
+decompression time = 0.265982 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+outSize=27305421
+compression time = 0.640892
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 0.1327056885
+Max relative error = 0.001000
+Max pw relative error = 0.000722
+PSNR = 64.772642, NRMSE= 0.00057725523352878576125
+acEff=0.999998
+compressionRatio=20.672818
+decompression time = 0.395039 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+outSize=35893124
+compression time = 0.642414
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 0.0132598877
+Max relative error = 0.000100
+Max pw relative error = 0.000072
+PSNR = 84.781754, NRMSE= 5.7664998290165913946E-05
+acEff=1.000000
+compressionRatio=15.726689
+decompression time = 0.478570 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+outSize=63071415
+compression time = 0.685736
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 0.0013122559
+Max relative error = 0.000010
+Max pw relative error = 0.000007
+PSNR = 104.839987, NRMSE= 5.7279692024789674083E-06
+acEff=1.000000
+compressionRatio=8.949855
+decompression time = 0.592514 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+outSize=117349415
+compression time = 0.679192
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 0.0001220703
+Max relative error = 0.000001
+Max pw relative error = 0.000001
+PSNR = 124.951970, NRMSE= 5.6545950627967777593E-07
+acEff=1.000000
+compressionRatio=4.810250
+decompression time = 0.819647 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+outSize=265058574
+compression time = 0.880023
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 0.0000000000
+Max relative error = 0.000000
+Max pw relative error = 0.000000
+PSNR = inf, NRMSE= 0
+acEff=1.000000
+compressionRatio=2.129642
+decompression time = 1.057969 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+outSize=178555191
+compression time = 0.656849
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 0.0000000000
+Max relative error = 0.000000
+Max pw relative error = 0.000000
+PSNR = inf, NRMSE= 0
+acEff=1.000000
+compressionRatio=3.161375
+decompression time = 1.144920 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+../data/SCALE/U-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz -f -i ../data/SCALE/U-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 1.184310e+01 -k
+../SZ/example/sz -x -f -i ../data/SCALE/U-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz -a -k
+outSize=17776970
+compression time = 0.552505
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 11.8430995941
+Max relative error = 0.100000
+Max pw relative error = 16148636.216423
+PSNR = 24.856209, NRMSE= 0.057172810179435269717
+acEff=0.832883
+compressionRatio=31.753443
+decompression time = 0.246022 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+outSize=18958229
+compression time = 0.573348
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 1.1843099594
+Max relative error = 0.010000
+Max pw relative error = 2222717.619018
+PSNR = 44.760156, NRMSE= 0.0057808563635629054908
+acEff=0.996909
+compressionRatio=29.774933
+decompression time = 0.273444 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+outSize=26209688
+compression time = 0.642613
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 0.1184310019
+Max relative error = 0.001000
+Max pw relative error = 239905.671512
+PSNR = 64.771771, NRMSE= 0.00057731312826133469266
+acEff=0.999969
+compressionRatio=21.537074
+decompression time = 0.396345 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+outSize=36268185
+compression time = 0.652450
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 0.0118430927
+Max relative error = 0.000100
+Max pw relative error = 22796.181269
+PSNR = 84.771733, NRMSE= 5.7731564954919645065E-05
+acEff=1.000000
+compressionRatio=15.564054
+decompression time = 0.522315 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+outSize=70779124
+compression time = 0.684668
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 0.0011843089
+Max relative error = 0.000010
+Max pw relative error = 3533.862933
+PSNR = 104.805054, NRMSE= 5.7510523084617423147E-06
+acEff=1.000000
+compressionRatio=7.975233
+decompression time = 0.666635 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+outSize=126159734
+compression time = 0.665425
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 0.0001184307
+Max relative error = 0.000001
+Max pw relative error = 355.647606
+PSNR = 124.819243, NRMSE= 5.7416652675285056967E-07
+acEff=1.000000
+compressionRatio=4.474328
+decompression time = 0.847873 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+outSize=183695109
+compression time = 0.640167
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 0.0000118427
+Max relative error = 0.000000
+Max pw relative error = 26.359884
+PSNR = 144.832431, NRMSE= 5.7329542067019289025E-08
+acEff=1.000000
+compressionRatio=3.072918
+decompression time = 1.174835 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+outSize=252496612
+compression time = 0.946059
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 0.0000011842
+Max relative error = 0.000000
+Max pw relative error = 1.476376
+PSNR = 164.916449, NRMSE= 5.6777670933849008127E-09
+acEff=1.000000
+compressionRatio=2.235594
+decompression time = 1.783585 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+../data/SCALE/V-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz -f -i ../data/SCALE/V-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 9.957608e+00 -k
+../SZ/example/sz -x -f -i ../data/SCALE/V-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz -a -k
+outSize=17706533
+compression time = 0.561489
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 9.9576072693
+Max relative error = 0.100000
+Max pw relative error = 29251059.824665
+PSNR = 28.025283, NRMSE= 0.039695002489297068204
+acEff=0.824112
+compressionRatio=31.879759
+decompression time = 0.247205 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+outSize=19173779
+compression time = 0.577423
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 0.9957607985
+Max relative error = 0.010000
+Max pw relative error = 9364780.936093
+PSNR = 44.761369, NRMSE= 0.0057800492144948834375
+acEff=0.996222
+compressionRatio=29.440206
+decompression time = 0.280152 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+outSize=26695913
+compression time = 0.644338
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 0.0995760709
+Max relative error = 0.001000
+Max pw relative error = 578608.153663
+PSNR = 64.771887, NRMSE= 0.00057730544734227895887
+acEff=0.999962
+compressionRatio=21.144810
+decompression time = 0.407819 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+outSize=38313969
+compression time = 0.660627
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 0.0099576078
+Max relative error = 0.000100
+Max pw relative error = 247930.168399
+PSNR = 84.777030, NRMSE= 5.769637364615620885E-05
+acEff=1.000000
+compressionRatio=14.733008
+decompression time = 0.540024 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+outSize=76653183
+compression time = 0.690740
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 0.0009957599
+Max relative error = 0.000010
+Max pw relative error = 3906.244826
+PSNR = 104.827080, NRMSE= 5.7364870857482651984E-06
+acEff=1.000000
+compressionRatio=7.364078
+decompression time = 0.696064 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+outSize=129154970
+compression time = 0.654596
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 0.0000995761
+Max relative error = 0.000001
+Max pw relative error = 1155.705569
+PSNR = 124.804323, NRMSE= 5.7515361142302379968E-07
+acEff=1.000000
+compressionRatio=4.370564
+decompression time = 0.899017 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+outSize=190697010
+compression time = 0.647774
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 0.0000099575
+Max relative error = 0.000000
+Max pw relative error = 239.146390
+PSNR = 144.883576, NRMSE= 5.699295651308785074E-08
+acEff=1.000000
+compressionRatio=2.960088
+decompression time = 1.220783 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+outSize=249731919
+compression time = 0.705301
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 0.0000009957
+Max relative error = 0.000000
+Max pw relative error = 9.357445
+PSNR = 164.747992, NRMSE= 5.7889578983969003846E-09
+acEff=1.000000
+compressionRatio=2.260344
+decompression time = 1.863296 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+../data/SCALE/W-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz -f -i ../data/SCALE/W-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 6.389258e+00 -k
+../SZ/example/sz -x -f -i ../data/SCALE/W-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz -a -k
+outSize=17672049
+compression time = 0.562068
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 6.3892569542
+Max relative error = 0.100000
+Max pw relative error = 30461846282467028.000000
+PSNR = 34.555975, NRMSE= 0.018715492695780107379
+acEff=0.596139
+compressionRatio=31.941967
+decompression time = 0.246552 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out
+outSize=19342075
+compression time = 0.580455
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 0.6389257908
+Max relative error = 0.010000
+Max pw relative error = 30461846282467028.000000
+PSNR = 45.672602, NRMSE= 0.0052043909441613364977
+acEff=0.974138
+compressionRatio=29.184046
+decompression time = 0.280107 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out
+outSize=26292039
+compression time = 0.636512
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 0.0638925806
+Max relative error = 0.001000
+Max pw relative error = 30461905145163560.000000
+PSNR = 64.793768, NRMSE= 0.00057585296053565379788
+acEff=0.999675
+compressionRatio=21.469617
+decompression time = 0.395188 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out
+outSize=37359673
+compression time = 0.656331
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 0.0063892566
+Max relative error = 0.000100
+Max pw relative error = 16784099979312376.000000
+PSNR = 84.772546, NRMSE= 5.7726165439369664855E-05
+acEff=0.999997
+compressionRatio=15.109340
+decompression time = 0.521167 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out
+outSize=71261243
+compression time = 0.689719
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 0.0006389255
+Max relative error = 0.000010
+Max pw relative error = 1712496775086504.250000
+PSNR = 104.787006, NRMSE= 5.7630141008941377563E-06
+acEff=1.000000
+compressionRatio=7.921276
+decompression time = 0.684884 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out
+outSize=125669422
+compression time = 0.661169
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 0.0000638925
+Max relative error = 0.000001
+Max pw relative error = 170955640412424.531250
+PSNR = 124.799998, NRMSE= 5.7544006211464208089E-07
+acEff=1.000000
+compressionRatio=4.491785
+decompression time = 0.881624 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out
+outSize=185140439
+compression time = 0.644326
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 0.0000063892
+Max relative error = 0.000000
+Max pw relative error = 12454683147937.056641
+PSNR = 144.822067, NRMSE= 5.7397986406941101971E-08
+acEff=1.000000
+compressionRatio=3.048929
+decompression time = 1.181092 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out
+outSize=249906592
+compression time = 0.721381
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 0.0000006389
+Max relative error = 0.000000
+Max pw relative error = 1908561482890.686768
+PSNR = 164.979377, NRMSE= 5.6367809138204641148E-09
+acEff=1.000000
+compressionRatio=2.258764
+decompression time = 1.762625 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out
+../data/SCALE/PRES-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz -f -i ../data/SCALE/PRES-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 9.953476e+03 -k
+../SZ/example/sz -x -f -i ../data/SCALE/PRES-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz -a -k
+outSize=17705867
+compression time = 0.565396
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 9953.4746093750
+Max relative error = 0.100000
+Max pw relative error = 1.880476
+PSNR = 24.479891, NRMSE= 0.059704279634182816361
+acEff=0.985713
+compressionRatio=31.880958
+decompression time = 0.248397 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+outSize=18308072
+compression time = 0.564005
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 995.3474121094
+Max relative error = 0.010000
+Max pw relative error = 0.379860
+PSNR = 44.712807, NRMSE= 0.0058124555951885367028
+acEff=0.999841
+compressionRatio=30.832302
+decompression time = 0.265611 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+outSize=22717273
+compression time = 0.634399
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 99.5346679688
+Max relative error = 0.001000
+Max pw relative error = 0.042781
+PSNR = 64.752939, NRMSE= 0.00057856620666090830592
+acEff=0.999998
+compressionRatio=24.848053
+decompression time = 0.356684 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+outSize=27422122
+compression time = 0.652537
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 9.9533691406
+Max relative error = 0.000100
+Max pw relative error = 0.004322
+PSNR = 84.772094, NRMSE= 5.7729169185149324954E-05
+acEff=1.000000
+compressionRatio=20.584840
+decompression time = 0.401851 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+outSize=35178172
+compression time = 0.651296
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 0.9951171875
+Max relative error = 0.000010
+Max pw relative error = 0.000432
+PSNR = 104.780317, NRMSE= 5.7674543865480876707E-06
+acEff=1.000000
+compressionRatio=16.046314
+decompression time = 0.456922 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+outSize=57570862
+compression time = 0.685600
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 0.0993652344
+Max relative error = 0.000001
+Max pw relative error = 0.000043
+PSNR = 124.910296, NRMSE= 5.6817904972055752214E-07
+acEff=1.000000
+compressionRatio=9.804960
+decompression time = 0.484834 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+outSize=105201798
+compression time = 0.699695
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 0.0097656250
+Max relative error = 0.000000
+Max pw relative error = 0.000004
+PSNR = 144.769596, NRMSE= 5.7745773447555940505E-08
+acEff=1.000000
+compressionRatio=5.365688
+decompression time = 0.740683 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+outSize=151224567
+compression time = 0.670719
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 0.0009765625
+Max relative error = 0.000000
+Max pw relative error = 0.000000
+PSNR = 168.759335, NRMSE= 3.6478188115434410574E-09
+acEff=1.000000
+compressionRatio=3.732727
+decompression time = 0.903263 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+../data/SCALE/QC-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz -f -i ../data/SCALE/QC-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 3.011531e-04 -k
+../SZ/example/sz -x -f -i ../data/SCALE/QC-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz -a -k
+outSize=17672280
+compression time = 0.558214
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0003011530
+Max relative error = 0.100000
+Max pw relative error = 50293483569757223667231218466816.000000
+PSNR = 41.739100, NRMSE= 0.008185496184964686367
+acEff=0.870828
+compressionRatio=31.941549
+decompression time = 0.248877 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+outSize=18001703
+compression time = 0.556420
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0000301153
+Max relative error = 0.010000
+Max pw relative error = 50449913270160497730187765481472.000000
+PSNR = 55.910385, NRMSE= 0.0016013297220002686762
+acEff=0.994810
+compressionRatio=31.357033
+decompression time = 0.261229 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+outSize=19040901
+compression time = 0.575884
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0000030115
+Max relative error = 0.001000
+Max pw relative error = 204398312648971778120808428208128.000000
+PSNR = 69.538534, NRMSE= 0.00033348270522385052485
+acEff=0.999773
+compressionRatio=29.645656
+decompression time = 0.295722 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+outSize=24290961
+compression time = 0.625162
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0000003012
+Max relative error = 0.000100
+Max pw relative error = 22722547179437827994179571023872.000000
+PSNR = 87.527479, NRMSE= 4.2036450515560053903E-05
+acEff=0.999996
+compressionRatio=23.238274
+decompression time = 0.394157 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+outSize=35723358
+compression time = 0.647061
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0000000301
+Max relative error = 0.000010
+Max pw relative error = 2408193129628374505237757558784.000000
+PSNR = 107.127280, NRMSE= 4.4018575758862616855E-06
+acEff=1.000000
+compressionRatio=15.801426
+decompression time = 0.466675 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+outSize=50854453
+compression time = 0.649143
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0000000030
+Max relative error = 0.000001
+Max pw relative error = 252706770712399426067755958272.000000
+PSNR = 125.092145, NRMSE= 5.5640720023314078771E-07
+acEff=1.000000
+compressionRatio=11.099913
+decompression time = 0.556219 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+outSize=67395725
+compression time = 0.660105
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0000000003
+Max relative error = 0.000000
+Max pw relative error = 25410869581543175313617321984.000000
+PSNR = 145.348164, NRMSE= 5.40246301509527626E-08
+acEff=1.000000
+compressionRatio=8.375605
+decompression time = 0.742674 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+outSize=91127753
+compression time = 0.693549
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0000000000
+Max relative error = 0.000000
+Max pw relative error = 2502464057155926041900875776.000000
+PSNR = 165.402883, NRMSE= 5.3685359595733004804E-09
+acEff=1.000000
+compressionRatio=6.194381
+decompression time = 0.949711 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+../data/SCALE/QG-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz -f -i ../data/SCALE/QG-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 1.488131e-03 -k
+../SZ/example/sz -x -f -i ../data/SCALE/QG-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz -a -k
+outSize=17650732
+compression time = 0.555114
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0014881287
+Max relative error = 0.100000
+Max pw relative error = 5701655761112.217773
+PSNR = 45.224356, NRMSE= 0.0054800204400581673664
+acEff=0.924566
+compressionRatio=31.980543
+decompression time = 0.246252 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+outSize=17738812
+compression time = 0.564005
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0001488131
+Max relative error = 0.010000
+Max pw relative error = 5702415072525.379883
+PSNR = 51.836209, NRMSE= 0.0025597027976113195108
+acEff=0.985961
+compressionRatio=31.821748
+decompression time = 0.248822 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+outSize=18053187
+compression time = 0.558690
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0000148813
+Max relative error = 0.001000
+Max pw relative error = 145654150115.983643
+PSNR = 67.776144, NRMSE= 0.00040850068813135182247
+acEff=0.999557
+compressionRatio=31.267609
+decompression time = 0.258801 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+outSize=19463758
+compression time = 0.564760
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0000014881
+Max relative error = 0.000100
+Max pw relative error = 22625215081927.351562
+PSNR = 87.826239, NRMSE= 4.0615150448335067784E-05
+acEff=0.999996
+compressionRatio=29.001594
+decompression time = 0.288454 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+outSize=25311536
+compression time = 0.594648
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0000001488
+Max relative error = 0.000010
+Max pw relative error = 4800545799828.997070
+PSNR = 106.439757, NRMSE= 4.7644432283533755504E-06
+acEff=1.000000
+compressionRatio=22.301294
+decompression time = 0.320733 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+outSize=32376682
+compression time = 0.608476
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0000000149
+Max relative error = 0.000001
+Max pw relative error = 664809576468.905029
+PSNR = 126.828476, NRMSE= 4.5559210158689437553E-07
+acEff=1.000000
+compressionRatio=17.434770
+decompression time = 0.358792 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+outSize=45418611
+compression time = 0.625180
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0000000015
+Max relative error = 0.000000
+Max pw relative error = 210310948374.565826
+PSNR = 146.360335, NRMSE= 4.8082079565060822908E-08
+acEff=1.000000
+compressionRatio=12.428385
+decompression time = 0.428047 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+outSize=64342066
+compression time = 0.652416
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0000000001
+Max relative error = 0.000000
+Max pw relative error = 8654189148.002964
+PSNR = 166.369422, NRMSE= 4.8031806515161473611E-09
+acEff=1.000000
+compressionRatio=8.773110
+decompression time = 0.539115 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+../data/SCALE/QI-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz -f -i ../data/SCALE/QI-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 1.600500e-04 -k
+../SZ/example/sz -x -f -i ../data/SCALE/QI-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz -a -k
+outSize=17652719
+compression time = 0.552611
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0001600499
+Max relative error = 0.100000
+Max pw relative error = 36036583646768452388625129144320.000000
+PSNR = 41.244997, NRMSE= 0.0086646322358832957716
+acEff=0.859944
+compressionRatio=31.976944
+decompression time = 0.246525 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+outSize=17840735
+compression time = 0.557091
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0000160050
+Max relative error = 0.010000
+Max pw relative error = 34627086649035473709955828154368.000000
+PSNR = 53.824031, NRMSE= 0.0020360968268617876328
+acEff=0.992335
+compressionRatio=31.639952
+decompression time = 0.252486 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+outSize=18655574
+compression time = 0.574039
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0000016005
+Max relative error = 0.001000
+Max pw relative error = 33563738784127295470349127254016.000000
+PSNR = 71.575119, NRMSE= 0.00026378133645714804548
+acEff=0.999870
+compressionRatio=30.257981
+decompression time = 0.274263 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+outSize=21609913
+compression time = 0.603214
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0000001600
+Max relative error = 0.000100
+Max pw relative error = 13544951481038248124016731619328.000000
+PSNR = 87.499333, NRMSE= 4.2172887138431938106E-05
+acEff=0.999997
+compressionRatio=26.121345
+decompression time = 0.334453 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+outSize=31581522
+compression time = 0.648464
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0000000160
+Max relative error = 0.000010
+Max pw relative error = 1356939860478664608166361169920.000000
+PSNR = 106.989802, NRMSE= 4.472083334598963074E-06
+acEff=1.000000
+compressionRatio=17.873743
+decompression time = 0.406783 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+outSize=45897064
+compression time = 0.655688
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0000000016
+Max relative error = 0.000001
+Max pw relative error = 135667984911692348035705077760.000000
+PSNR = 127.163420, NRMSE= 4.3835808142584310393E-07
+acEff=1.000000
+compressionRatio=12.298826
+decompression time = 0.498790 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+outSize=64907641
+compression time = 0.658226
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0000000002
+Max relative error = 0.000000
+Max pw relative error = 13523538372639111522717532160.000000
+PSNR = 146.915128, NRMSE= 4.5106963602852651282E-08
+acEff=1.000000
+compressionRatio=8.696665
+decompression time = 0.617861 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+outSize=84410906
+compression time = 0.685091
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0000000000
+Max relative error = 0.000000
+Max pw relative error = 1354443046996614356666417152.000000
+PSNR = 166.863103, NRMSE= 4.5377946929267559906E-09
+acEff=1.000000
+compressionRatio=6.687288
+decompression time = 0.862442 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+../data/SCALE/QR-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz -f -i ../data/SCALE/QR-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 6.372067e-04 -k
+../SZ/example/sz -x -f -i ../data/SCALE/QR-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz -a -k
+outSize=17656998
+compression time = 0.564691
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0006372062
+Max relative error = 0.100000
+Max pw relative error = 1929935613505091.000000
+PSNR = 42.200534, NRMSE= 0.007761994110250791494
+acEff=0.860289
+compressionRatio=31.969194
+decompression time = 0.246497 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+outSize=17852600
+compression time = 0.559905
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0000637207
+Max relative error = 0.010000
+Max pw relative error = 1891388474727998.250000
+PSNR = 55.804036, NRMSE= 0.0016210566805539715265
+acEff=0.993620
+compressionRatio=31.618924
+decompression time = 0.255219 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+outSize=18697842
+compression time = 0.577020
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0000063721
+Max relative error = 0.001000
+Max pw relative error = 1149913995205665.000000
+PSNR = 69.335651, NRMSE= 0.00034136378592198788045
+acEff=0.999738
+compressionRatio=30.189580
+decompression time = 0.288570 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+outSize=21228929
+compression time = 0.617765
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0000006372
+Max relative error = 0.000100
+Max pw relative error = 61855059291410.890625
+PSNR = 89.260510, NRMSE= 3.4432970278764680637E-05
+acEff=0.999997
+compressionRatio=26.590131
+decompression time = 0.361111 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+outSize=31498240
+compression time = 0.668447
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0000000637
+Max relative error = 0.000010
+Max pw relative error = 13532596806547.490234
+PSNR = 108.468333, NRMSE= 3.7721011312245520689E-06
+acEff=1.000000
+compressionRatio=17.921001
+decompression time = 0.449764 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+outSize=44704616
+compression time = 0.690994
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0000000064
+Max relative error = 0.000001
+Max pw relative error = 982422784171.654907
+PSNR = 128.388631, NRMSE= 3.8068736552672227667E-07
+acEff=1.000000
+compressionRatio=12.626884
+decompression time = 0.598776 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+outSize=61833462
+compression time = 0.685471
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0000000006
+Max relative error = 0.000000
+Max pw relative error = 97550848394.998138
+PSNR = 148.193596, NRMSE= 3.8933206853959527522E-08
+acEff=1.000000
+compressionRatio=9.129038
+decompression time = 0.778625 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+outSize=84357017
+compression time = 0.701822
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0000000001
+Max relative error = 0.000000
+Max pw relative error = 9830489027.159649
+PSNR = 167.016068, NRMSE= 4.4585803318647357388E-09
+acEff=1.000000
+compressionRatio=6.691560
+decompression time = 1.076516 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+../data/SCALE/QS-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz -f -i ../data/SCALE/QS-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 7.569692e-05 -k
+../SZ/example/sz -x -f -i ../data/SCALE/QS-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz -a -k
+outSize=17682087
+compression time = 0.556810
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000756969
+Max relative error = 0.100000
+Max pw relative error = 8140329415.816166
+PSNR = 34.259083, NRMSE= 0.019366264006385459223
+acEff=0.742119
+compressionRatio=31.923833
+decompression time = 0.247016 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+outSize=18097554
+compression time = 0.568248
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000075697
+Max relative error = 0.010000
+Max pw relative error = 8572147978.264626
+PSNR = 48.873841, NRMSE= 0.0036000452063740169019
+acEff=0.991300
+compressionRatio=31.190955
+decompression time = 0.258124 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+outSize=19792602
+compression time = 0.582425
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000007570
+Max relative error = 0.001000
+Max pw relative error = 667880275023.061768
+PSNR = 68.642857, NRMSE= 0.00036970654216277656088
+acEff=0.999904
+compressionRatio=28.519747
+decompression time = 0.301259 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+outSize=25878563
+compression time = 0.634731
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000000757
+Max relative error = 0.000100
+Max pw relative error = 112729062787.222122
+PSNR = 86.942302, NRMSE= 4.4966064868041273064E-05
+acEff=0.999999
+compressionRatio=21.812649
+decompression time = 0.379410 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+outSize=40366136
+compression time = 0.660932
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000000076
+Max relative error = 0.000010
+Max pw relative error = 77877119590.196304
+PSNR = 106.780746, NRMSE= 4.5810254957989965472E-06
+acEff=1.000000
+compressionRatio=13.983999
+decompression time = 0.466198 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+outSize=61111957
+compression time = 0.658531
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000000008
+Max relative error = 0.000001
+Max pw relative error = 11355150056.797171
+PSNR = 126.685021, NRMSE= 4.6317908753644244874E-07
+acEff=1.000000
+compressionRatio=9.236818
+decompression time = 0.578830 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+outSize=84065526
+compression time = 0.656725
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000000001
+Max relative error = 0.000000
+Max pw relative error = 4465079705.068669
+PSNR = 146.640224, NRMSE= 4.655741067719594886E-08
+acEff=1.000000
+compressionRatio=6.714762
+decompression time = 0.763223 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+outSize=112774596
+compression time = 0.696798
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000000000
+Max relative error = 0.000000
+Max pw relative error = 398922960.156725
+PSNR = 166.548017, NRMSE= 4.7054281154057812383E-09
+acEff=1.000000
+compressionRatio=5.005383
+decompression time = 1.013664 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+../data/SCALE/QV-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz -f -i ../data/SCALE/QV-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 1.952336e-03 -k
+../SZ/example/sz -x -f -i ../data/SCALE/QV-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz -a -k
+outSize=17834285
+compression time = 0.556443
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0019523359
+Max relative error = 0.100000
+Max pw relative error = 167947.116101
+PSNR = 26.452442, NRMSE= 0.047574899008486472296
+acEff=0.986160
+compressionRatio=31.651395
+decompression time = 0.252216 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+outSize=19575380
+compression time = 0.605074
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0001952336
+Max relative error = 0.010000
+Max pw relative error = 20664.139260
+PSNR = 45.677224, NRMSE= 0.0052016222219960521131
+acEff=0.999826
+compressionRatio=28.836222
+decompression time = 0.309427 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+outSize=24756919
+compression time = 0.659317
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0000195234
+Max relative error = 0.001000
+Max pw relative error = 1551.939050
+PSNR = 64.607213, NRMSE= 0.00058835486808400813078
+acEff=0.999998
+compressionRatio=22.800899
+decompression time = 0.433947 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+outSize=37870025
+compression time = 0.707914
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0000019523
+Max relative error = 0.000100
+Max pw relative error = 191.011929
+PSNR = 84.719712, NRMSE= 5.8078366374543749073E-05
+acEff=1.000000
+compressionRatio=14.905720
+decompression time = 0.566961 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+outSize=71416668
+compression time = 0.714228
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0000001952
+Max relative error = 0.000010
+Max pw relative error = 18.109641
+PSNR = 104.793318, NRMSE= 5.7588277164134350723E-06
+acEff=1.000000
+compressionRatio=7.904037
+decompression time = 0.799894 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+outSize=120592711
+compression time = 0.688581
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0000000195
+Max relative error = 0.000001
+Max pw relative error = 1.487409
+PSNR = 124.882079, NRMSE= 5.7002783044253817944E-07
+acEff=1.000000
+compressionRatio=4.680880
+decompression time = 1.003324 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+outSize=163843111
+compression time = 0.685188
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0000000020
+Max relative error = 0.000000
+Max pw relative error = 0.171558
+PSNR = 144.661943, NRMSE= 5.8465925035824406317E-08
+acEff=1.000000
+compressionRatio=3.445247
+decompression time = 1.416181 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+outSize=231901360
+compression time = 0.745433
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0000000002
+Max relative error = 0.000000
+Max pw relative error = 0.019113
+PSNR = 167.514856, NRMSE= 4.2097586566418170867E-09
+acEff=1.000000
+compressionRatio=2.434138
+decompression time = 1.708711 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+../data/SCALE/RH-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz -f -i ../data/SCALE/RH-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 2.044729e+01 -k
+../SZ/example/sz -x -f -i ../data/SCALE/RH-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz -a -k
+outSize=17920680
+compression time = 0.554025
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 20.4472885132
+Max relative error = 0.100000
+Max pw relative error = 9007.563676
+PSNR = 25.206427, NRMSE= 0.054913438893257317253
+acEff=0.931293
+compressionRatio=31.498805
+decompression time = 0.254199 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+outSize=20453889
+compression time = 0.619924
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 2.0447289944
+Max relative error = 0.010000
+Max pw relative error = 8446.770104
+PSNR = 44.670628, NRMSE= 0.0058407499585379218932
+acEff=0.999164
+compressionRatio=27.597686
+decompression time = 0.323762 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+outSize=27713572
+compression time = 0.657925
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 0.2044728994
+Max relative error = 0.001000
+Max pw relative error = 900.551004
+PSNR = 64.765842, NRMSE= 0.00057770735223293021802
+acEff=0.999992
+compressionRatio=20.368360
+decompression time = 0.466977 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+outSize=51095809
+compression time = 0.704532
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 0.0204472840
+Max relative error = 0.000100
+Max pw relative error = 92.720126
+PSNR = 84.798197, NRMSE= 5.7555942623904808152E-05
+acEff=1.000000
+compressionRatio=11.047481
+decompression time = 0.593062 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+outSize=92619466
+compression time = 0.690014
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 0.0020447224
+Max relative error = 0.000010
+Max pw relative error = 7.841118
+PSNR = 104.811264, NRMSE= 5.7469415192246317943E-06
+acEff=1.000000
+compressionRatio=6.094615
+decompression time = 0.811474 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+outSize=145198310
+compression time = 0.668163
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 0.0002044700
+Max relative error = 0.000001
+Max pw relative error = 0.971188
+PSNR = 124.837461, NRMSE= 5.7296348817206687198E-07
+acEff=1.000000
+compressionRatio=3.887649
+decompression time = 1.052887 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+outSize=211187987
+compression time = 0.690910
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 0.0000204444
+Max relative error = 0.000000
+Max pw relative error = 0.056131
+PSNR = 145.115206, NRMSE= 5.5493193250444830173E-08
+acEff=1.000000
+compressionRatio=2.672879
+decompression time = 1.507138 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+outSize=285710242
+compression time = 0.737542
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 0.0000020443
+Max relative error = 0.000000
+Max pw relative error = 0.005447
+PSNR = 169.150932, NRMSE= 3.4870117058133224244E-09
+acEff=1.000000
+compressionRatio=1.975708
+decompression time = 1.682606 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+../data/SCALE/T-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz -f -i ../data/SCALE/T-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 1.327148e+01 -k
+../SZ/example/sz -x -f -i ../data/SCALE/T-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz -a -k
+outSize=17747697
+compression time = 0.546711
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 13.2714691162
+Max relative error = 0.100000
+Max pw relative error = 0.069819
+PSNR = 24.638739, NRMSE= 0.058622328168837882501
+acEff=0.979269
+compressionRatio=31.805817
+decompression time = 0.246901 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+outSize=18912709
+compression time = 0.584199
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 1.3271331787
+Max relative error = 0.010000
+Max pw relative error = 0.007218
+PSNR = 44.773886, NRMSE= 0.0057717262274453381976
+acEff=0.999768
+compressionRatio=29.846597
+decompression time = 0.270941 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+outSize=27305421
+compression time = 0.643373
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 0.1327056885
+Max relative error = 0.001000
+Max pw relative error = 0.000722
+PSNR = 64.772642, NRMSE= 0.00057725523352878576125
+acEff=0.999998
+compressionRatio=20.672818
+decompression time = 0.398029 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+outSize=35893124
+compression time = 0.643564
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 0.0132598877
+Max relative error = 0.000100
+Max pw relative error = 0.000072
+PSNR = 84.781754, NRMSE= 5.7664998290165913946E-05
+acEff=1.000000
+compressionRatio=15.726689
+decompression time = 0.486395 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+outSize=63071415
+compression time = 0.688947
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 0.0013122559
+Max relative error = 0.000010
+Max pw relative error = 0.000007
+PSNR = 104.839987, NRMSE= 5.7279692024789674083E-06
+acEff=1.000000
+compressionRatio=8.949855
+decompression time = 0.599474 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+outSize=117349415
+compression time = 0.677815
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 0.0001220703
+Max relative error = 0.000001
+Max pw relative error = 0.000001
+PSNR = 124.951970, NRMSE= 5.6545950627967777593E-07
+acEff=1.000000
+compressionRatio=4.810250
+decompression time = 0.824043 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+outSize=265058574
+compression time = 0.820229
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 0.0000000000
+Max relative error = 0.000000
+Max pw relative error = 0.000000
+PSNR = inf, NRMSE= 0
+acEff=1.000000
+compressionRatio=2.129642
+decompression time = 1.063532 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+outSize=178555191
+compression time = 0.656078
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 0.0000000000
+Max relative error = 0.000000
+Max pw relative error = 0.000000
+PSNR = inf, NRMSE= 0
+acEff=1.000000
+compressionRatio=3.161375
+decompression time = 1.155442 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+../data/SCALE/U-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz -f -i ../data/SCALE/U-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 1.184310e+01 -k
+../SZ/example/sz -x -f -i ../data/SCALE/U-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz -a -k
+outSize=17776970
+compression time = 0.549179
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 11.8430995941
+Max relative error = 0.100000
+Max pw relative error = 16148636.216423
+PSNR = 24.856209, NRMSE= 0.057172810179435269717
+acEff=0.832883
+compressionRatio=31.753443
+decompression time = 0.250112 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+outSize=18958229
+compression time = 0.570719
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 1.1843099594
+Max relative error = 0.010000
+Max pw relative error = 2222717.619018
+PSNR = 44.760156, NRMSE= 0.0057808563635629054908
+acEff=0.996909
+compressionRatio=29.774933
+decompression time = 0.277445 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+outSize=26209688
+compression time = 0.654806
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 0.1184310019
+Max relative error = 0.001000
+Max pw relative error = 239905.671512
+PSNR = 64.771771, NRMSE= 0.00057731312826133469266
+acEff=0.999969
+compressionRatio=21.537074
+decompression time = 0.400680 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+outSize=36268185
+compression time = 0.660735
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 0.0118430927
+Max relative error = 0.000100
+Max pw relative error = 22796.181269
+PSNR = 84.771733, NRMSE= 5.7731564954919645065E-05
+acEff=1.000000
+compressionRatio=15.564054
+decompression time = 0.525950 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+outSize=70779124
+compression time = 0.683498
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 0.0011843089
+Max relative error = 0.000010
+Max pw relative error = 3533.862933
+PSNR = 104.805054, NRMSE= 5.7510523084617423147E-06
+acEff=1.000000
+compressionRatio=7.975233
+decompression time = 0.685354 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+outSize=126159734
+compression time = 0.665878
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 0.0001184307
+Max relative error = 0.000001
+Max pw relative error = 355.647606
+PSNR = 124.819243, NRMSE= 5.7416652675285056967E-07
+acEff=1.000000
+compressionRatio=4.474328
+decompression time = 0.857159 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+outSize=183695109
+compression time = 0.641175
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 0.0000118427
+Max relative error = 0.000000
+Max pw relative error = 26.359884
+PSNR = 144.832431, NRMSE= 5.7329542067019289025E-08
+acEff=1.000000
+compressionRatio=3.072918
+decompression time = 1.178812 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+outSize=252496612
+compression time = 0.706366
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 0.0000011842
+Max relative error = 0.000000
+Max pw relative error = 1.476376
+PSNR = 164.916449, NRMSE= 5.6777670933849008127E-09
+acEff=1.000000
+compressionRatio=2.235594
+decompression time = 1.762580 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+../data/SCALE/V-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz -f -i ../data/SCALE/V-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 9.957608e+00 -k
+../SZ/example/sz -x -f -i ../data/SCALE/V-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz -a -k
+outSize=17706533
+compression time = 0.559873
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 9.9576072693
+Max relative error = 0.100000
+Max pw relative error = 29251059.824665
+PSNR = 28.025283, NRMSE= 0.039695002489297068204
+acEff=0.824112
+compressionRatio=31.879759
+decompression time = 0.246352 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+outSize=19173779
+compression time = 0.587641
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 0.9957607985
+Max relative error = 0.010000
+Max pw relative error = 9364780.936093
+PSNR = 44.761369, NRMSE= 0.0057800492144948834375
+acEff=0.996222
+compressionRatio=29.440206
+decompression time = 0.279070 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+outSize=26695913
+compression time = 0.641814
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 0.0995760709
+Max relative error = 0.001000
+Max pw relative error = 578608.153663
+PSNR = 64.771887, NRMSE= 0.00057730544734227895887
+acEff=0.999962
+compressionRatio=21.144810
+decompression time = 0.408031 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+outSize=38313969
+compression time = 0.653291
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 0.0099576078
+Max relative error = 0.000100
+Max pw relative error = 247930.168399
+PSNR = 84.777030, NRMSE= 5.769637364615620885E-05
+acEff=1.000000
+compressionRatio=14.733008
+decompression time = 0.541415 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+outSize=76653183
+compression time = 0.685728
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 0.0009957599
+Max relative error = 0.000010
+Max pw relative error = 3906.244826
+PSNR = 104.827080, NRMSE= 5.7364870857482651984E-06
+acEff=1.000000
+compressionRatio=7.364078
+decompression time = 0.695707 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+outSize=129154970
+compression time = 0.652261
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 0.0000995761
+Max relative error = 0.000001
+Max pw relative error = 1155.705569
+PSNR = 124.804323, NRMSE= 5.7515361142302379968E-07
+acEff=1.000000
+compressionRatio=4.370564
+decompression time = 0.899458 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+outSize=190697010
+compression time = 0.660855
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 0.0000099575
+Max relative error = 0.000000
+Max pw relative error = 239.146390
+PSNR = 144.883576, NRMSE= 5.699295651308785074E-08
+acEff=1.000000
+compressionRatio=2.960088
+decompression time = 1.220026 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+outSize=249731919
+compression time = 0.712730
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 0.0000009957
+Max relative error = 0.000000
+Max pw relative error = 9.357445
+PSNR = 164.747992, NRMSE= 5.7889578983969003846E-09
+acEff=1.000000
+compressionRatio=2.260344
+decompression time = 1.853936 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+../data/SCALE/W-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz -f -i ../data/SCALE/W-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 6.389258e+00 -k
+../SZ/example/sz -x -f -i ../data/SCALE/W-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz -a -k
+outSize=17672049
+compression time = 0.555117
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 6.3892569542
+Max relative error = 0.100000
+Max pw relative error = 30461846282467028.000000
+PSNR = 34.555975, NRMSE= 0.018715492695780107379
+acEff=0.596139
+compressionRatio=31.941967
+decompression time = 0.246221 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out
+outSize=19342075
+compression time = 0.577141
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 0.6389257908
+Max relative error = 0.010000
+Max pw relative error = 30461846282467028.000000
+PSNR = 45.672602, NRMSE= 0.0052043909441613364977
+acEff=0.974138
+compressionRatio=29.184046
+decompression time = 0.281548 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out
+outSize=26292039
+compression time = 0.641901
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 0.0638925806
+Max relative error = 0.001000
+Max pw relative error = 30461905145163560.000000
+PSNR = 64.793768, NRMSE= 0.00057585296053565379788
+acEff=0.999675
+compressionRatio=21.469617
+decompression time = 0.394813 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out
+outSize=37359673
+compression time = 0.668020
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 0.0063892566
+Max relative error = 0.000100
+Max pw relative error = 16784099979312376.000000
+PSNR = 84.772546, NRMSE= 5.7726165439369664855E-05
+acEff=0.999997
+compressionRatio=15.109340
+decompression time = 0.520836 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out
+outSize=71261243
+compression time = 0.696237
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 0.0006389255
+Max relative error = 0.000010
+Max pw relative error = 1712496775086504.250000
+PSNR = 104.787006, NRMSE= 5.7630141008941377563E-06
+acEff=1.000000
+compressionRatio=7.921276
+decompression time = 0.691657 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out
+outSize=125669422
+compression time = 0.676648
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 0.0000638925
+Max relative error = 0.000001
+Max pw relative error = 170955640412424.531250
+PSNR = 124.799998, NRMSE= 5.7544006211464208089E-07
+acEff=1.000000
+compressionRatio=4.491785
+decompression time = 0.883592 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out
+outSize=185140439
+compression time = 0.642445
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 0.0000063892
+Max relative error = 0.000000
+Max pw relative error = 12454683147937.056641
+PSNR = 144.822067, NRMSE= 5.7397986406941101971E-08
+acEff=1.000000
+compressionRatio=3.048929
+decompression time = 1.188726 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out
+outSize=249906592
+compression time = 0.706170
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 0.0000006389
+Max relative error = 0.000000
+Max pw relative error = 1908561482890.686768
+PSNR = 164.979377, NRMSE= 5.6367809138204641148E-09
+acEff=1.000000
+compressionRatio=2.258764
+decompression time = 1.766367 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out
+../data/SCALE/PRES-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz -f -i ../data/SCALE/PRES-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 9.953476e+03 -k
+../SZ/example/sz -x -f -i ../data/SCALE/PRES-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz -a -k
+outSize=17705867
+compression time = 0.565077
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 9953.4746093750
+Max relative error = 0.100000
+Max pw relative error = 1.880476
+PSNR = 24.479891, NRMSE= 0.059704279634182816361
+acEff=0.985713
+compressionRatio=31.880958
+decompression time = 0.248394 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+outSize=18308072
+compression time = 0.566487
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 995.3474121094
+Max relative error = 0.010000
+Max pw relative error = 0.379860
+PSNR = 44.712807, NRMSE= 0.0058124555951885367028
+acEff=0.999841
+compressionRatio=30.832302
+decompression time = 0.266170 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+outSize=22717273
+compression time = 0.634329
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 99.5346679688
+Max relative error = 0.001000
+Max pw relative error = 0.042781
+PSNR = 64.752939, NRMSE= 0.00057856620666090830592
+acEff=0.999998
+compressionRatio=24.848053
+decompression time = 0.354268 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+outSize=27422122
+compression time = 0.658334
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 9.9533691406
+Max relative error = 0.000100
+Max pw relative error = 0.004322
+PSNR = 84.772094, NRMSE= 5.7729169185149324954E-05
+acEff=1.000000
+compressionRatio=20.584840
+decompression time = 0.400843 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+outSize=35178172
+compression time = 0.643267
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 0.9951171875
+Max relative error = 0.000010
+Max pw relative error = 0.000432
+PSNR = 104.780317, NRMSE= 5.7674543865480876707E-06
+acEff=1.000000
+compressionRatio=16.046314
+decompression time = 0.455457 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+outSize=57570862
+compression time = 0.665101
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 0.0993652344
+Max relative error = 0.000001
+Max pw relative error = 0.000043
+PSNR = 124.910296, NRMSE= 5.6817904972055752214E-07
+acEff=1.000000
+compressionRatio=9.804960
+decompression time = 0.486155 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+outSize=105201798
+compression time = 0.690477
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 0.0097656250
+Max relative error = 0.000000
+Max pw relative error = 0.000004
+PSNR = 144.769596, NRMSE= 5.7745773447555940505E-08
+acEff=1.000000
+compressionRatio=5.365688
+decompression time = 0.739640 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+outSize=151224567
+compression time = 0.664649
+compressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz
+Min=2285.463134765625, Max=101820.21875, range=99534.7578125
+Max absolute error = 0.0009765625
+Max relative error = 0.000000
+Max pw relative error = 0.000000
+PSNR = 168.759335, NRMSE= 3.6478188115434410574E-09
+acEff=1.000000
+compressionRatio=3.732727
+decompression time = 0.905601 seconds.
+decompressed data file: ../com_data/sz2/SCALE/PRES-98x1200x1200.f32.sz.out
+../data/SCALE/QC-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz -f -i ../data/SCALE/QC-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 3.011531e-04 -k
+../SZ/example/sz -x -f -i ../data/SCALE/QC-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz -a -k
+outSize=17672280
+compression time = 0.562277
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0003011530
+Max relative error = 0.100000
+Max pw relative error = 50293483569757223667231218466816.000000
+PSNR = 41.739100, NRMSE= 0.008185496184964686367
+acEff=0.870828
+compressionRatio=31.941549
+decompression time = 0.254887 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+outSize=18001703
+compression time = 0.565242
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0000301153
+Max relative error = 0.010000
+Max pw relative error = 50449913270160497730187765481472.000000
+PSNR = 55.910385, NRMSE= 0.0016013297220002686762
+acEff=0.994810
+compressionRatio=31.357033
+decompression time = 0.262080 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+outSize=19040901
+compression time = 0.577537
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0000030115
+Max relative error = 0.001000
+Max pw relative error = 204398312648971778120808428208128.000000
+PSNR = 69.538534, NRMSE= 0.00033348270522385052485
+acEff=0.999773
+compressionRatio=29.645656
+decompression time = 0.295615 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+outSize=24290961
+compression time = 0.625645
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0000003012
+Max relative error = 0.000100
+Max pw relative error = 22722547179437827994179571023872.000000
+PSNR = 87.527479, NRMSE= 4.2036450515560053903E-05
+acEff=0.999996
+compressionRatio=23.238274
+decompression time = 0.394831 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+outSize=35723358
+compression time = 0.657984
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0000000301
+Max relative error = 0.000010
+Max pw relative error = 2408193129628374505237757558784.000000
+PSNR = 107.127280, NRMSE= 4.4018575758862616855E-06
+acEff=1.000000
+compressionRatio=15.801426
+decompression time = 0.464225 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+outSize=50854453
+compression time = 0.652770
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0000000030
+Max relative error = 0.000001
+Max pw relative error = 252706770712399426067755958272.000000
+PSNR = 125.092145, NRMSE= 5.5640720023314078771E-07
+acEff=1.000000
+compressionRatio=11.099913
+decompression time = 0.556750 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+outSize=67395725
+compression time = 0.657961
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0000000003
+Max relative error = 0.000000
+Max pw relative error = 25410869581543175313617321984.000000
+PSNR = 145.348164, NRMSE= 5.40246301509527626E-08
+acEff=1.000000
+compressionRatio=8.375605
+decompression time = 0.742066 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+outSize=91127753
+compression time = 0.694177
+compressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz
+Min=0, Max=0.0030115311965346336365, range=0.0030115311965346336365
+Max absolute error = 0.0000000000
+Max relative error = 0.000000
+Max pw relative error = 2502464057155926041900875776.000000
+PSNR = 165.402883, NRMSE= 5.3685359595733004804E-09
+acEff=1.000000
+compressionRatio=6.194381
+decompression time = 0.938576 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QC-98x1200x1200.f32.sz.out
+../data/SCALE/QG-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz -f -i ../data/SCALE/QG-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 1.488131e-03 -k
+../SZ/example/sz -x -f -i ../data/SCALE/QG-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz -a -k
+outSize=17650732
+compression time = 0.552916
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0014881287
+Max relative error = 0.100000
+Max pw relative error = 5701655761112.217773
+PSNR = 45.224356, NRMSE= 0.0054800204400581673664
+acEff=0.924566
+compressionRatio=31.980543
+decompression time = 0.247324 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+outSize=17738812
+compression time = 0.565796
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0001488131
+Max relative error = 0.010000
+Max pw relative error = 5702415072525.379883
+PSNR = 51.836209, NRMSE= 0.0025597027976113195108
+acEff=0.985961
+compressionRatio=31.821748
+decompression time = 0.249626 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+outSize=18053187
+compression time = 0.561069
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0000148813
+Max relative error = 0.001000
+Max pw relative error = 145654150115.983643
+PSNR = 67.776144, NRMSE= 0.00040850068813135182247
+acEff=0.999557
+compressionRatio=31.267609
+decompression time = 0.258841 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+outSize=19463758
+compression time = 0.565851
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0000014881
+Max relative error = 0.000100
+Max pw relative error = 22625215081927.351562
+PSNR = 87.826239, NRMSE= 4.0615150448335067784E-05
+acEff=0.999996
+compressionRatio=29.001594
+decompression time = 0.282404 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+outSize=25311536
+compression time = 0.589358
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0000001488
+Max relative error = 0.000010
+Max pw relative error = 4800545799828.997070
+PSNR = 106.439757, NRMSE= 4.7644432283533755504E-06
+acEff=1.000000
+compressionRatio=22.301294
+decompression time = 0.323051 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+outSize=32376682
+compression time = 0.603154
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0000000149
+Max relative error = 0.000001
+Max pw relative error = 664809576468.905029
+PSNR = 126.828476, NRMSE= 4.5559210158689437553E-07
+acEff=1.000000
+compressionRatio=17.434770
+decompression time = 0.358792 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+outSize=45418611
+compression time = 0.621540
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0000000015
+Max relative error = 0.000000
+Max pw relative error = 210310948374.565826
+PSNR = 146.360335, NRMSE= 4.8082079565060822908E-08
+acEff=1.000000
+compressionRatio=12.428385
+decompression time = 0.426988 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+outSize=64342066
+compression time = 0.653518
+compressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz
+Min=0, Max=0.014881308190524578094, range=0.014881308190524578094
+Max absolute error = 0.0000000001
+Max relative error = 0.000000
+Max pw relative error = 8654189148.002964
+PSNR = 166.369422, NRMSE= 4.8031806515161473611E-09
+acEff=1.000000
+compressionRatio=8.773110
+decompression time = 0.537727 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QG-98x1200x1200.f32.sz.out
+../data/SCALE/QI-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz -f -i ../data/SCALE/QI-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 1.600500e-04 -k
+../SZ/example/sz -x -f -i ../data/SCALE/QI-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz -a -k
+outSize=17652719
+compression time = 0.559743
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0001600499
+Max relative error = 0.100000
+Max pw relative error = 36036583646768452388625129144320.000000
+PSNR = 41.244997, NRMSE= 0.0086646322358832957716
+acEff=0.859944
+compressionRatio=31.976944
+decompression time = 0.247364 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+outSize=17840735
+compression time = 0.559774
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0000160050
+Max relative error = 0.010000
+Max pw relative error = 34627086649035473709955828154368.000000
+PSNR = 53.824031, NRMSE= 0.0020360968268617876328
+acEff=0.992335
+compressionRatio=31.639952
+decompression time = 0.253460 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+outSize=18655574
+compression time = 0.576634
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0000016005
+Max relative error = 0.001000
+Max pw relative error = 33563738784127295470349127254016.000000
+PSNR = 71.575119, NRMSE= 0.00026378133645714804548
+acEff=0.999870
+compressionRatio=30.257981
+decompression time = 0.277276 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+outSize=21609913
+compression time = 0.607047
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0000001600
+Max relative error = 0.000100
+Max pw relative error = 13544951481038248124016731619328.000000
+PSNR = 87.499333, NRMSE= 4.2172887138431938106E-05
+acEff=0.999997
+compressionRatio=26.121345
+decompression time = 0.333036 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+outSize=31581522
+compression time = 0.641783
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0000000160
+Max relative error = 0.000010
+Max pw relative error = 1356939860478664608166361169920.000000
+PSNR = 106.989802, NRMSE= 4.472083334598963074E-06
+acEff=1.000000
+compressionRatio=17.873743
+decompression time = 0.407396 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+outSize=45897064
+compression time = 0.656745
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0000000016
+Max relative error = 0.000001
+Max pw relative error = 135667984911692348035705077760.000000
+PSNR = 127.163420, NRMSE= 4.3835808142584310393E-07
+acEff=1.000000
+compressionRatio=12.298826
+decompression time = 0.494515 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+outSize=64907641
+compression time = 0.653124
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0000000002
+Max relative error = 0.000000
+Max pw relative error = 13523538372639111522717532160.000000
+PSNR = 146.915128, NRMSE= 4.5106963602852651282E-08
+acEff=1.000000
+compressionRatio=8.696665
+decompression time = 0.623997 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+outSize=84410906
+compression time = 0.692272
+compressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz
+Min=0, Max=0.0016005001962184906006, range=0.0016005001962184906006
+Max absolute error = 0.0000000000
+Max relative error = 0.000000
+Max pw relative error = 1354443046996614356666417152.000000
+PSNR = 166.863103, NRMSE= 4.5377946929267559906E-09
+acEff=1.000000
+compressionRatio=6.687288
+decompression time = 0.863727 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QI-98x1200x1200.f32.sz.out
+../data/SCALE/QR-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz -f -i ../data/SCALE/QR-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 6.372067e-04 -k
+../SZ/example/sz -x -f -i ../data/SCALE/QR-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz -a -k
+outSize=17656998
+compression time = 0.558336
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0006372062
+Max relative error = 0.100000
+Max pw relative error = 1929935613505091.000000
+PSNR = 42.200534, NRMSE= 0.007761994110250791494
+acEff=0.860289
+compressionRatio=31.969194
+decompression time = 0.246022 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+outSize=17852600
+compression time = 0.558328
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0000637207
+Max relative error = 0.010000
+Max pw relative error = 1891388474727998.250000
+PSNR = 55.804036, NRMSE= 0.0016210566805539715265
+acEff=0.993620
+compressionRatio=31.618924
+decompression time = 0.256944 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+outSize=18697842
+compression time = 0.574533
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0000063721
+Max relative error = 0.001000
+Max pw relative error = 1149913995205665.000000
+PSNR = 69.335651, NRMSE= 0.00034136378592198788045
+acEff=0.999738
+compressionRatio=30.189580
+decompression time = 0.289511 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+outSize=21228929
+compression time = 0.627171
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0000006372
+Max relative error = 0.000100
+Max pw relative error = 61855059291410.890625
+PSNR = 89.260510, NRMSE= 3.4432970278764680637E-05
+acEff=0.999997
+compressionRatio=26.590131
+decompression time = 0.361145 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+outSize=31498240
+compression time = 0.671201
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0000000637
+Max relative error = 0.000010
+Max pw relative error = 13532596806547.490234
+PSNR = 108.468333, NRMSE= 3.7721011312245520689E-06
+acEff=1.000000
+compressionRatio=17.921001
+decompression time = 0.452550 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+outSize=44704616
+compression time = 0.683312
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0000000064
+Max relative error = 0.000001
+Max pw relative error = 982422784171.654907
+PSNR = 128.388631, NRMSE= 3.8068736552672227667E-07
+acEff=1.000000
+compressionRatio=12.626884
+decompression time = 0.597800 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+outSize=61833462
+compression time = 0.699059
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0000000006
+Max relative error = 0.000000
+Max pw relative error = 97550848394.998138
+PSNR = 148.193596, NRMSE= 3.8933206853959527522E-08
+acEff=1.000000
+compressionRatio=9.129038
+decompression time = 0.777586 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+outSize=84357017
+compression time = 0.716722
+compressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz
+Min=0, Max=0.0063720666803419589996, range=0.0063720666803419589996
+Max absolute error = 0.0000000001
+Max relative error = 0.000000
+Max pw relative error = 9830489027.159649
+PSNR = 167.016068, NRMSE= 4.4585803318647357388E-09
+acEff=1.000000
+compressionRatio=6.691560
+decompression time = 1.079030 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QR-98x1200x1200.f32.sz.out
+../data/SCALE/QS-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz -f -i ../data/SCALE/QS-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 7.569692e-05 -k
+../SZ/example/sz -x -f -i ../data/SCALE/QS-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz -a -k
+outSize=17682087
+compression time = 0.552702
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000756969
+Max relative error = 0.100000
+Max pw relative error = 8140329415.816166
+PSNR = 34.259083, NRMSE= 0.019366264006385459223
+acEff=0.742119
+compressionRatio=31.923833
+decompression time = 0.248384 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+outSize=18097554
+compression time = 0.561966
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000075697
+Max relative error = 0.010000
+Max pw relative error = 8572147978.264626
+PSNR = 48.873841, NRMSE= 0.0036000452063740169019
+acEff=0.991300
+compressionRatio=31.190955
+decompression time = 0.259155 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+outSize=19792602
+compression time = 0.587878
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000007570
+Max relative error = 0.001000
+Max pw relative error = 667880275023.061768
+PSNR = 68.642857, NRMSE= 0.00036970654216277656088
+acEff=0.999904
+compressionRatio=28.519747
+decompression time = 0.303925 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+outSize=25878563
+compression time = 0.634808
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000000757
+Max relative error = 0.000100
+Max pw relative error = 112729062787.222122
+PSNR = 86.942302, NRMSE= 4.4966064868041273064E-05
+acEff=0.999999
+compressionRatio=21.812649
+decompression time = 0.385779 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+outSize=40366136
+compression time = 0.653527
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000000076
+Max relative error = 0.000010
+Max pw relative error = 77877119590.196304
+PSNR = 106.780746, NRMSE= 4.5810254957989965472E-06
+acEff=1.000000
+compressionRatio=13.983999
+decompression time = 0.465439 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+outSize=61111957
+compression time = 0.653072
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000000008
+Max relative error = 0.000001
+Max pw relative error = 11355150056.797171
+PSNR = 126.685021, NRMSE= 4.6317908753644244874E-07
+acEff=1.000000
+compressionRatio=9.236818
+decompression time = 0.565187 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+outSize=84065526
+compression time = 0.665918
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000000001
+Max relative error = 0.000000
+Max pw relative error = 4465079705.068669
+PSNR = 146.640224, NRMSE= 4.655741067719594886E-08
+acEff=1.000000
+compressionRatio=6.714762
+decompression time = 0.765163 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+outSize=112774596
+compression time = 0.686711
+compressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz
+Min=0, Max=0.00075696915155276656151, range=0.00075696915155276656151
+Max absolute error = 0.0000000000
+Max relative error = 0.000000
+Max pw relative error = 398922960.156725
+PSNR = 166.548017, NRMSE= 4.7054281154057812383E-09
+acEff=1.000000
+compressionRatio=5.005383
+decompression time = 1.014968 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QS-98x1200x1200.f32.sz.out
+../data/SCALE/QV-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz -f -i ../data/SCALE/QV-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 1.952336e-03 -k
+../SZ/example/sz -x -f -i ../data/SCALE/QV-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz -a -k
+outSize=17834285
+compression time = 0.563816
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0019523359
+Max relative error = 0.100000
+Max pw relative error = 167947.116101
+PSNR = 26.452442, NRMSE= 0.047574899008486472296
+acEff=0.986160
+compressionRatio=31.651395
+decompression time = 0.252341 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+outSize=19575380
+compression time = 0.602361
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0001952336
+Max relative error = 0.010000
+Max pw relative error = 20664.139260
+PSNR = 45.677224, NRMSE= 0.0052016222219960521131
+acEff=0.999826
+compressionRatio=28.836222
+decompression time = 0.309361 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+outSize=24756919
+compression time = 0.660512
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0000195234
+Max relative error = 0.001000
+Max pw relative error = 1551.939050
+PSNR = 64.607213, NRMSE= 0.00058835486808400813078
+acEff=0.999998
+compressionRatio=22.800899
+decompression time = 0.434698 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+outSize=37870025
+compression time = 0.709486
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0000019523
+Max relative error = 0.000100
+Max pw relative error = 191.011929
+PSNR = 84.719712, NRMSE= 5.8078366374543749073E-05
+acEff=1.000000
+compressionRatio=14.905720
+decompression time = 0.565962 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+outSize=71416668
+compression time = 0.714598
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0000001952
+Max relative error = 0.000010
+Max pw relative error = 18.109641
+PSNR = 104.793318, NRMSE= 5.7588277164134350723E-06
+acEff=1.000000
+compressionRatio=7.904037
+decompression time = 0.798845 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+outSize=120592711
+compression time = 0.691797
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0000000195
+Max relative error = 0.000001
+Max pw relative error = 1.487409
+PSNR = 124.882079, NRMSE= 5.7002783044253817944E-07
+acEff=1.000000
+compressionRatio=4.680880
+decompression time = 1.003771 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+outSize=163843111
+compression time = 0.679798
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0000000020
+Max relative error = 0.000000
+Max pw relative error = 0.171558
+PSNR = 144.661943, NRMSE= 5.8465925035824406317E-08
+acEff=1.000000
+compressionRatio=3.445247
+decompression time = 1.412396 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+outSize=231901360
+compression time = 0.751872
+compressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz
+Min=0, Max=0.019523363560438156128, range=0.019523363560438156128
+Max absolute error = 0.0000000002
+Max relative error = 0.000000
+Max pw relative error = 0.019113
+PSNR = 167.514856, NRMSE= 4.2097586566418170867E-09
+acEff=1.000000
+compressionRatio=2.434138
+decompression time = 1.691858 seconds.
+decompressed data file: ../com_data/sz2/SCALE/QV-98x1200x1200.f32.sz.out
+../data/SCALE/RH-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz -f -i ../data/SCALE/RH-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 2.044729e+01 -k
+../SZ/example/sz -x -f -i ../data/SCALE/RH-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz -a -k
+outSize=17920680
+compression time = 0.553717
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 20.4472885132
+Max relative error = 0.100000
+Max pw relative error = 9007.563676
+PSNR = 25.206427, NRMSE= 0.054913438893257317253
+acEff=0.931293
+compressionRatio=31.498805
+decompression time = 0.255210 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+outSize=20453889
+compression time = 0.613258
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 2.0447289944
+Max relative error = 0.010000
+Max pw relative error = 8446.770104
+PSNR = 44.670628, NRMSE= 0.0058407499585379218932
+acEff=0.999164
+compressionRatio=27.597686
+decompression time = 0.324452 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+outSize=27713572
+compression time = 0.652915
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 0.2044728994
+Max relative error = 0.001000
+Max pw relative error = 900.551004
+PSNR = 64.765842, NRMSE= 0.00057770735223293021802
+acEff=0.999992
+compressionRatio=20.368360
+decompression time = 0.456821 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+outSize=51095809
+compression time = 0.708928
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 0.0204472840
+Max relative error = 0.000100
+Max pw relative error = 92.720126
+PSNR = 84.798197, NRMSE= 5.7555942623904808152E-05
+acEff=1.000000
+compressionRatio=11.047481
+decompression time = 0.592924 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+outSize=92619466
+compression time = 0.682325
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 0.0020447224
+Max relative error = 0.000010
+Max pw relative error = 7.841118
+PSNR = 104.811264, NRMSE= 5.7469415192246317943E-06
+acEff=1.000000
+compressionRatio=6.094615
+decompression time = 0.812898 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+outSize=145198310
+compression time = 0.666330
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 0.0002044700
+Max relative error = 0.000001
+Max pw relative error = 0.971188
+PSNR = 124.837461, NRMSE= 5.7296348817206687198E-07
+acEff=1.000000
+compressionRatio=3.887649
+decompression time = 1.057213 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+outSize=211187987
+compression time = 0.696818
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 0.0000204444
+Max relative error = 0.000000
+Max pw relative error = 0.056131
+PSNR = 145.115206, NRMSE= 5.5493193250444830173E-08
+acEff=1.000000
+compressionRatio=2.672879
+decompression time = 1.517998 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+outSize=285710242
+compression time = 0.740451
+compressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz
+Min=0, Max=204.472930908203125, range=204.472930908203125
+Max absolute error = 0.0000020443
+Max relative error = 0.000000
+Max pw relative error = 0.005447
+PSNR = 169.150932, NRMSE= 3.4870117058133224244E-09
+acEff=1.000000
+compressionRatio=1.975708
+decompression time = 1.681360 seconds.
+decompressed data file: ../com_data/sz2/SCALE/RH-98x1200x1200.f32.sz.out
+../data/SCALE/T-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz -f -i ../data/SCALE/T-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 1.327148e+01 -k
+../SZ/example/sz -x -f -i ../data/SCALE/T-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz -a -k
+outSize=17747697
+compression time = 0.550491
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 13.2714691162
+Max relative error = 0.100000
+Max pw relative error = 0.069819
+PSNR = 24.638739, NRMSE= 0.058622328168837882501
+acEff=0.979269
+compressionRatio=31.805817
+decompression time = 0.250062 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+outSize=18912709
+compression time = 0.577673
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 1.3271331787
+Max relative error = 0.010000
+Max pw relative error = 0.007218
+PSNR = 44.773886, NRMSE= 0.0057717262274453381976
+acEff=0.999768
+compressionRatio=29.846597
+decompression time = 0.276831 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+outSize=27305421
+compression time = 0.643828
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 0.1327056885
+Max relative error = 0.001000
+Max pw relative error = 0.000722
+PSNR = 64.772642, NRMSE= 0.00057725523352878576125
+acEff=0.999998
+compressionRatio=20.672818
+decompression time = 0.397557 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+outSize=35893124
+compression time = 0.648224
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 0.0132598877
+Max relative error = 0.000100
+Max pw relative error = 0.000072
+PSNR = 84.781754, NRMSE= 5.7664998290165913946E-05
+acEff=1.000000
+compressionRatio=15.726689
+decompression time = 0.484663 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+outSize=63071415
+compression time = 0.691994
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 0.0013122559
+Max relative error = 0.000010
+Max pw relative error = 0.000007
+PSNR = 104.839987, NRMSE= 5.7279692024789674083E-06
+acEff=1.000000
+compressionRatio=8.949855
+decompression time = 0.597282 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+outSize=117349415
+compression time = 0.692026
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 0.0001220703
+Max relative error = 0.000001
+Max pw relative error = 0.000001
+PSNR = 124.951970, NRMSE= 5.6545950627967777593E-07
+acEff=1.000000
+compressionRatio=4.810250
+decompression time = 0.826189 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+outSize=265058574
+compression time = 0.823207
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 0.0000000000
+Max relative error = 0.000000
+Max pw relative error = 0.000000
+PSNR = inf, NRMSE= 0
+acEff=1.000000
+compressionRatio=2.129642
+decompression time = 1.061276 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+outSize=178555191
+compression time = 0.656852
+compressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz
+Min=181.9152984619140625, Max=314.630126953125, range=132.7148284912109375
+Max absolute error = 0.0000000000
+Max relative error = 0.000000
+Max pw relative error = 0.000000
+PSNR = inf, NRMSE= 0
+acEff=1.000000
+compressionRatio=3.161375
+decompression time = 1.148026 seconds.
+decompressed data file: ../com_data/sz2/SCALE/T-98x1200x1200.f32.sz.out
+../data/SCALE/U-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz -f -i ../data/SCALE/U-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 1.184310e+01 -k
+../SZ/example/sz -x -f -i ../data/SCALE/U-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz -a -k
+outSize=17776970
+compression time = 0.548646
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 11.8430995941
+Max relative error = 0.100000
+Max pw relative error = 16148636.216423
+PSNR = 24.856209, NRMSE= 0.057172810179435269717
+acEff=0.832883
+compressionRatio=31.753443
+decompression time = 0.250009 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+outSize=18958229
+compression time = 0.571506
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 1.1843099594
+Max relative error = 0.010000
+Max pw relative error = 2222717.619018
+PSNR = 44.760156, NRMSE= 0.0057808563635629054908
+acEff=0.996909
+compressionRatio=29.774933
+decompression time = 0.277797 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+outSize=26209688
+compression time = 0.643476
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 0.1184310019
+Max relative error = 0.001000
+Max pw relative error = 239905.671512
+PSNR = 64.771771, NRMSE= 0.00057731312826133469266
+acEff=0.999969
+compressionRatio=21.537074
+decompression time = 0.401988 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+outSize=36268185
+compression time = 0.663559
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 0.0118430927
+Max relative error = 0.000100
+Max pw relative error = 22796.181269
+PSNR = 84.771733, NRMSE= 5.7731564954919645065E-05
+acEff=1.000000
+compressionRatio=15.564054
+decompression time = 0.522918 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+outSize=70779124
+compression time = 0.688184
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 0.0011843089
+Max relative error = 0.000010
+Max pw relative error = 3533.862933
+PSNR = 104.805054, NRMSE= 5.7510523084617423147E-06
+acEff=1.000000
+compressionRatio=7.975233
+decompression time = 0.669048 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+outSize=126159734
+compression time = 0.659882
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 0.0001184307
+Max relative error = 0.000001
+Max pw relative error = 355.647606
+PSNR = 124.819243, NRMSE= 5.7416652675285056967E-07
+acEff=1.000000
+compressionRatio=4.474328
+decompression time = 0.854932 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+outSize=183695109
+compression time = 0.648781
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 0.0000118427
+Max relative error = 0.000000
+Max pw relative error = 26.359884
+PSNR = 144.832431, NRMSE= 5.7329542067019289025E-08
+acEff=1.000000
+compressionRatio=3.072918
+decompression time = 1.180193 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+outSize=252496612
+compression time = 0.711380
+compressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz
+Min=-71.7543182373046875, Max=46.676639556884765625, range=118.4309539794921875
+Max absolute error = 0.0000011842
+Max relative error = 0.000000
+Max pw relative error = 1.476376
+PSNR = 164.916449, NRMSE= 5.6777670933849008127E-09
+acEff=1.000000
+compressionRatio=2.235594
+decompression time = 1.777179 seconds.
+decompressed data file: ../com_data/sz2/SCALE/U-98x1200x1200.f32.sz.out
+../data/SCALE/V-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz -f -i ../data/SCALE/V-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 9.957608e+00 -k
+../SZ/example/sz -x -f -i ../data/SCALE/V-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz -a -k
+outSize=17706533
+compression time = 0.548055
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 9.9576072693
+Max relative error = 0.100000
+Max pw relative error = 29251059.824665
+PSNR = 28.025283, NRMSE= 0.039695002489297068204
+acEff=0.824112
+compressionRatio=31.879759
+decompression time = 0.250862 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+outSize=19173779
+compression time = 0.578548
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 0.9957607985
+Max relative error = 0.010000
+Max pw relative error = 9364780.936093
+PSNR = 44.761369, NRMSE= 0.0057800492144948834375
+acEff=0.996222
+compressionRatio=29.440206
+decompression time = 0.280507 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+outSize=26695913
+compression time = 0.639774
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 0.0995760709
+Max relative error = 0.001000
+Max pw relative error = 578608.153663
+PSNR = 64.771887, NRMSE= 0.00057730544734227895887
+acEff=0.999962
+compressionRatio=21.144810
+decompression time = 0.407301 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+outSize=38313969
+compression time = 0.665515
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 0.0099576078
+Max relative error = 0.000100
+Max pw relative error = 247930.168399
+PSNR = 84.777030, NRMSE= 5.769637364615620885E-05
+acEff=1.000000
+compressionRatio=14.733008
+decompression time = 0.543559 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+outSize=76653183
+compression time = 0.686496
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 0.0009957599
+Max relative error = 0.000010
+Max pw relative error = 3906.244826
+PSNR = 104.827080, NRMSE= 5.7364870857482651984E-06
+acEff=1.000000
+compressionRatio=7.364078
+decompression time = 0.696473 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+outSize=129154970
+compression time = 0.653691
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 0.0000995761
+Max relative error = 0.000001
+Max pw relative error = 1155.705569
+PSNR = 124.804323, NRMSE= 5.7515361142302379968E-07
+acEff=1.000000
+compressionRatio=4.370564
+decompression time = 0.897236 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+outSize=190697010
+compression time = 0.660713
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 0.0000099575
+Max relative error = 0.000000
+Max pw relative error = 239.146390
+PSNR = 144.883576, NRMSE= 5.699295651308785074E-08
+acEff=1.000000
+compressionRatio=2.960088
+decompression time = 1.221034 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+outSize=249731919
+compression time = 0.703298
+compressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz
+Min=-40.154949188232421875, Max=59.4211273193359375, range=99.576080322265625
+Max absolute error = 0.0000009957
+Max relative error = 0.000000
+Max pw relative error = 9.357445
+PSNR = 164.747992, NRMSE= 5.7889578983969003846E-09
+acEff=1.000000
+compressionRatio=2.260344
+decompression time = 1.858381 seconds.
+decompressed data file: ../com_data/sz2/SCALE/V-98x1200x1200.f32.sz.out
+../data/SCALE/W-98x1200x1200.f32
+../SZ/example/sz -z ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz -f -i ../data/SCALE/W-98x1200x1200.f32 -3 1200 1200 98 -M ABS -A 6.389258e+00 -k
+../SZ/example/sz -x -f -i ../data/SCALE/W-98x1200x1200.f32 -3 1200 1200 98 -s ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz -a -k
+outSize=17672049
+compression time = 0.558874
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 6.3892569542
+Max relative error = 0.100000
+Max pw relative error = 30461846282467028.000000
+PSNR = 34.555975, NRMSE= 0.018715492695780107379
+acEff=0.596139
+compressionRatio=31.941967
+decompression time = 0.246198 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out
+outSize=19342075
+compression time = 0.579564
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 0.6389257908
+Max relative error = 0.010000
+Max pw relative error = 30461846282467028.000000
+PSNR = 45.672602, NRMSE= 0.0052043909441613364977
+acEff=0.974138
+compressionRatio=29.184046
+decompression time = 0.281662 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out
+outSize=26292039
+compression time = 0.636290
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 0.0638925806
+Max relative error = 0.001000
+Max pw relative error = 30461905145163560.000000
+PSNR = 64.793768, NRMSE= 0.00057585296053565379788
+acEff=0.999675
+compressionRatio=21.469617
+decompression time = 0.397367 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out
+outSize=37359673
+compression time = 0.656537
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 0.0063892566
+Max relative error = 0.000100
+Max pw relative error = 16784099979312376.000000
+PSNR = 84.772546, NRMSE= 5.7726165439369664855E-05
+acEff=0.999997
+compressionRatio=15.109340
+decompression time = 0.530074 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out
+outSize=71261243
+compression time = 0.687907
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 0.0006389255
+Max relative error = 0.000010
+Max pw relative error = 1712496775086504.250000
+PSNR = 104.787006, NRMSE= 5.7630141008941377563E-06
+acEff=1.000000
+compressionRatio=7.921276
+decompression time = 0.686842 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out
+outSize=125669422
+compression time = 0.661041
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 0.0000638925
+Max relative error = 0.000001
+Max pw relative error = 170955640412424.531250
+PSNR = 124.799998, NRMSE= 5.7544006211464208089E-07
+acEff=1.000000
+compressionRatio=4.491785
+decompression time = 0.881320 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out
+outSize=185140439
+compression time = 0.644082
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 0.0000063892
+Max relative error = 0.000000
+Max pw relative error = 12454683147937.056641
+PSNR = 144.822067, NRMSE= 5.7397986406941101971E-08
+acEff=1.000000
+compressionRatio=3.048929
+decompression time = 1.186607 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out
+outSize=249906592
+compression time = 0.712048
+compressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz
+Min=-37.12139892578125, Max=26.77117919921875, range=63.892578125
+Max absolute error = 0.0000006389
+Max relative error = 0.000000
+Max pw relative error = 1908561482890.686768
+PSNR = 164.979377, NRMSE= 5.6367809138204641148E-09
+acEff=1.000000
+compressionRatio=2.258764
+decompression time = 1.778223 seconds.
+decompressed data file: ../com_data/sz2/SCALE/W-98x1200x1200.f32.sz.out

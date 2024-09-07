@@ -1,0 +1,1560 @@
+../data/Hurricane/CLOUDf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/CLOUDf48.bin.f32 -3 500 500 100 -s -a 2.047953e-04 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1207176 ratio=82.838 rate=0.3863 rmse=1.644e-06 nrmse=0.00080299 maxe=3.5763e-05 maxre=0.017463 psnr=61.9058
+Compression_time=0.009941
+Decompression_time=0.041971
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2515648 ratio=39.751 rate=0.805 rmse=2.522e-07 nrmse=0.00012313 maxe=4.1723e-06 maxre=0.0020373 psnr=78.1928
+Compression_time=0.012649
+Decompression_time=0.047195
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4201120 ratio=23.803 rate=1.344 rmse=3.565e-08 nrmse=1.7406e-05 maxe=7.1712e-07 maxre=0.00035016 psnr=95.1858
+Compression_time=0.012535
+Decompression_time=0.051752
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=6821960 ratio=14.659 rate=2.183 rmse=2.401e-09 nrmse=1.1722e-06 maxe=3.4762e-08 maxre=1.6974e-05 psnr=118.6197
+Compression_time=0.017551
+Decompression_time=0.057110
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=8902208 ratio=11.233 rate=2.849 rmse=3.045e-10 nrmse=1.4871e-07 maxe=5.3733e-09 maxre=2.6237e-06 psnr=136.5534
+Compression_time=0.019067
+Decompression_time=0.057417
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=11000776 ratio=9.0903 rate=3.52 rmse=3.819e-11 nrmse=1.8648e-08 maxe=5.7753e-10 maxre=2.82e-07 psnr=154.5872
+Compression_time=0.016303
+Decompression_time=0.057044
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=13801584 ratio=7.2455 rate=4.417 rmse=2.473e-12 nrmse=1.2074e-09 maxe=5.8208e-11 maxre=2.8422e-08 psnr=178.3628
+Compression_time=0.018187
+Decompression_time=0.057405
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15680672 ratio=6.3773 rate=5.018 rmse=7.051e-13 nrmse=3.443e-10 maxe=5.8208e-11 maxre=2.8422e-08 psnr=189.2613
+Compression_time=0.023824
+Decompression_time=0.057027
+../data/Hurricane/CLOUDf48.log10.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/CLOUDf48.log10.bin.f32 -3 500 500 100 -s -a 1.015203e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4841776 ratio=20.654 rate=1.549 rmse=0.01885 nrmse=0.0018566 maxe=0.31117 maxre=0.030651 psnr=54.6258
+Compression_time=0.019658
+Decompression_time=0.071268
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7760520 ratio=12.886 rate=2.483 rmse=0.00126 nrmse=0.00012415 maxe=0.020061 maxre=0.0019761 psnr=78.1210
+Compression_time=0.021617
+Decompression_time=0.080320
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=10054616 ratio=9.9457 rate=3.217 rmse=0.0001604 nrmse=1.5804e-05 maxe=0.0025272 maxre=0.00024894 psnr=96.0244
+Compression_time=0.024461
+Decompression_time=0.076472
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=12376816 ratio=8.0796 rate=3.961 rmse=2.046e-05 nrmse=2.0152e-06 maxe=0.00028324 maxre=2.79e-05 psnr=113.9136
+Compression_time=0.026423
+Decompression_time=0.075760
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15485144 ratio=6.4578 rate=4.955 rmse=1.267e-06 nrmse=1.2479e-07 maxe=1.8597e-05 maxre=1.8318e-06 psnr=138.0767
+Compression_time=0.028729
+Decompression_time=0.075185
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=17817408 ratio=5.6125 rate=5.702 rmse=1.694e-07 nrmse=1.6685e-08 maxe=2.861e-06 maxre=2.8182e-07 psnr=155.5534
+Compression_time=0.024006
+Decompression_time=0.076117
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=20149656 ratio=4.9629 rate=6.448 rmse=1.147e-08 nrmse=1.1295e-09 maxe=4.7684e-07 maxre=4.697e-08 psnr=178.9420
+Compression_time=0.028754
+Decompression_time=0.075829
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=20314952 ratio=4.9225 rate=6.501 rmse=1.042e-08 nrmse=1.0264e-09 maxe=4.7684e-07 maxre=4.697e-08 psnr=179.7736
+Compression_time=0.032266
+Decompression_time=0.076375
+../data/Hurricane/Pf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/Pf48.bin.f32 -3 500 500 100 -s -a 6.636139e+02 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1409624 ratio=70.941 rate=0.4511 rmse=6.382 nrmse=0.00096164 maxe=130.88 maxre=0.019722 psnr=60.3398
+Compression_time=0.014006
+Decompression_time=0.062200
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=3545176 ratio=28.207 rate=1.134 rmse=1.301 nrmse=0.00019609 maxe=16.187 maxre=0.0024393 psnr=74.1507
+Compression_time=0.019528
+Decompression_time=0.076310
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=10674816 ratio=9.3678 rate=3.416 rmse=0.1242 nrmse=1.872e-05 maxe=1.0983 maxre=0.0001655 psnr=94.5540
+Compression_time=0.029816
+Decompression_time=0.104932
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=18413232 ratio=5.4309 rate=5.892 rmse=0.01846 nrmse=2.7817e-06 maxe=0.13641 maxre=2.0556e-05 psnr=111.1139
+Compression_time=0.036843
+Decompression_time=0.119183
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=27190032 ratio=3.6778 rate=8.701 rmse=0.002575 nrmse=3.88e-07 maxe=0.017151 maxre=2.5845e-06 psnr=128.2233
+Compression_time=0.039752
+Decompression_time=0.133955
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=39535344 ratio=2.5294 rate=12.65 rmse=0.0001672 nrmse=2.5195e-08 maxe=0.0012207 maxre=1.8395e-07 psnr=151.9736
+Compression_time=0.045456
+Decompression_time=0.138921
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=48862312 ratio=2.0466 rate=15.64 rmse=2.094e-05 nrmse=3.1558e-09 maxe=0.00024414 maxre=3.679e-08 psnr=170.0178
+Compression_time=0.057897
+Decompression_time=0.139163
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=57742104 ratio=1.7318 rate=18.48 rmse=2.173e-06 nrmse=3.2749e-10 maxe=0.00012207 maxre=1.8395e-08 psnr=189.6960
+Compression_time=0.061222
+Decompression_time=0.141357
+../data/Hurricane/PRECIPf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/PRECIPf48.bin.f32 -3 500 500 100 -s -a 7.505861e-04 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=421824 ratio=237.07 rate=0.135 rmse=3.815e-06 nrmse=0.00050829 maxe=0.00011635 maxre=0.015501 psnr=65.8778
+Compression_time=0.008188
+Decompression_time=0.038780
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1157944 ratio=86.36 rate=0.3705 rmse=7.428e-07 nrmse=9.8959e-05 maxe=1.5765e-05 maxre=0.0021004 psnr=80.0909
+Compression_time=0.010484
+Decompression_time=0.043799
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2950400 ratio=33.894 rate=0.9441 rmse=6.612e-08 nrmse=8.809e-06 maxe=1.0374e-06 maxre=0.00013821 psnr=101.1015
+Compression_time=0.014802
+Decompression_time=0.052098
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5055632 ratio=19.78 rate=1.618 rmse=9.814e-09 nrmse=1.3075e-06 maxe=1.2852e-07 maxre=1.7123e-05 psnr=117.6713
+Compression_time=0.020083
+Decompression_time=0.067442
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7866528 ratio=12.712 rate=2.517 rmse=1.465e-09 nrmse=1.9517e-07 maxe=1.9765e-08 maxre=2.6333e-06 psnr=134.1919
+Compression_time=0.024786
+Decompression_time=0.079948
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=12001336 ratio=8.3324 rate=3.84 rmse=2.23e-10 nrmse=2.9712e-08 maxe=2.2756e-09 maxre=3.0317e-07 psnr=150.5413
+Compression_time=0.030572
+Decompression_time=0.093944
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=19888632 ratio=5.028 rate=6.364 rmse=1.685e-11 nrmse=2.2449e-09 maxe=2.3283e-10 maxre=3.102e-08 psnr=172.9762
+Compression_time=0.039499
+Decompression_time=0.115156
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=27273904 ratio=3.6665 rate=8.728 rmse=2.388e-12 nrmse=3.182e-10 maxe=2.3283e-10 maxre=3.102e-08 psnr=189.9460
+Compression_time=0.040604
+Decompression_time=0.128508
+../data/Hurricane/PRECIPf48.log10.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/PRECIPf48.log10.bin.f32 -3 500 500 100 -s -a 3.580139e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5729400 ratio=17.454 rate=1.833 rmse=0.05509 nrmse=0.0015387 maxe=0.57049 maxre=0.015935 psnr=56.2569
+Compression_time=0.024424
+Decompression_time=0.087406
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=11495064 ratio=8.6994 rate=3.678 rmse=0.008833 nrmse=0.00024672 maxe=0.06855 maxre=0.0019147 psnr=72.1560
+Compression_time=0.031044
+Decompression_time=0.108830
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=19110384 ratio=5.2328 rate=6.115 rmse=0.001258 nrmse=3.5133e-05 maxe=0.0087204 maxre=0.00024358 psnr=89.0858
+Compression_time=0.032889
+Decompression_time=0.124997
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=30929888 ratio=3.2331 rate=9.898 rmse=8.408e-05 nrmse=2.3485e-06 maxe=0.00057459 maxre=1.6049e-05 psnr=112.5840
+Compression_time=0.051461
+Decompression_time=0.147765
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=40232688 ratio=2.4855 rate=12.87 rmse=1.063e-05 nrmse=2.9683e-07 maxe=7.2479e-05 maxre=2.0245e-06 psnr=130.5498
+Compression_time=0.052180
+Decompression_time=0.148905
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=49594832 ratio=2.0163 rate=15.87 rmse=1.36e-06 nrmse=3.7993e-08 maxe=8.5831e-06 maxre=2.3974e-07 psnr=148.4060
+Compression_time=0.060059
+Decompression_time=0.152225
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=61921040 ratio=1.615 rate=19.81 rmse=6.744e-08 nrmse=1.8837e-09 maxe=1.9073e-06 maxre=5.3276e-08 psnr=174.4997
+Compression_time=0.065013
+Decompression_time=0.151712
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=65352840 ratio=1.5302 rate=20.91 rmse=4.934e-08 nrmse=1.3782e-09 maxe=1.9073e-06 maxre=5.3276e-08 psnr=177.2135
+Compression_time=0.066764
+Decompression_time=0.149201
+../data/Hurricane/QCLOUDf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QCLOUDf48.bin.f32 -3 500 500 100 -s -a 2.047953e-04 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=955952 ratio=104.61 rate=0.3059 rmse=1.422e-06 nrmse=0.00069411 maxe=3.5763e-05 maxre=0.017463 psnr=63.1714
+Compression_time=0.009521
+Decompression_time=0.036525
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1784008 ratio=56.054 rate=0.5709 rmse=1.987e-07 nrmse=9.7e-05 maxe=4.1723e-06 maxre=0.0020373 psnr=80.2646
+Compression_time=0.009694
+Decompression_time=0.039318
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2704584 ratio=36.974 rate=0.8655 rmse=2.6e-08 nrmse=1.2694e-05 maxe=7.1712e-07 maxre=0.00035016 psnr=97.9277
+Compression_time=0.010877
+Decompression_time=0.040200
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4008824 ratio=24.945 rate=1.283 rmse=1.675e-09 nrmse=8.1804e-07 maxe=3.4401e-08 maxre=1.6798e-05 psnr=121.7445
+Compression_time=0.015442
+Decompression_time=0.043798
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5009872 ratio=19.961 rate=1.603 rmse=2.114e-10 nrmse=1.0321e-07 maxe=5.3733e-09 maxre=2.6237e-06 psnr=139.7254
+Compression_time=0.016212
+Decompression_time=0.044483
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=6017832 ratio=16.617 rate=1.926 rmse=2.658e-11 nrmse=1.2978e-08 maxe=5.7753e-10 maxre=2.82e-07 psnr=157.7359
+Compression_time=0.013452
+Decompression_time=0.041236
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7422456 ratio=13.473 rate=2.375 rmse=1.797e-12 nrmse=8.7748e-10 maxe=5.8208e-11 maxre=2.8422e-08 psnr=181.1352
+Compression_time=0.018550
+Decompression_time=0.044857
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=8339640 ratio=11.991 rate=2.669 rmse=6.708e-13 nrmse=3.2753e-10 maxe=5.8208e-11 maxre=2.8422e-08 psnr=189.6951
+Compression_time=0.017422
+Decompression_time=0.043001
+../data/Hurricane/QCLOUDf48.log10.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QCLOUDf48.log10.bin.f32 -3 500 500 100 -s -a 3.510567e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4237352 ratio=23.6 rate=1.356 rmse=0.03431 nrmse=0.00097722 maxe=0.53377 maxre=0.015205 psnr=60.2001
+Compression_time=0.018891
+Decompression_time=0.066320
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5724224 ratio=17.47 rate=1.832 rmse=0.004159 nrmse=0.00011846 maxe=0.075481 maxre=0.0021501 psnr=78.5285
+Compression_time=0.020718
+Decompression_time=0.066683
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7238648 ratio=13.815 rate=2.316 rmse=0.0005053 nrmse=1.4395e-05 maxe=0.0097847 maxre=0.00027872 psnr=96.8360
+Compression_time=0.022133
+Decompression_time=0.067227
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=9264240 ratio=10.794 rate=2.965 rmse=3.6e-05 nrmse=1.0255e-06 maxe=0.00059891 maxre=1.706e-05 psnr=119.7811
+Compression_time=0.024268
+Decompression_time=0.067632
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=10784232 ratio=9.2728 rate=3.451 rmse=3.933e-06 nrmse=1.1204e-07 maxe=9.1553e-05 maxre=2.6079e-06 psnr=139.0127
+Compression_time=0.021358
+Decompression_time=0.066232
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=12304576 ratio=8.1271 rate=3.937 rmse=5.275e-07 nrmse=1.5027e-08 maxe=1.1444e-05 maxre=3.2599e-07 psnr=156.4627
+Compression_time=0.026531
+Decompression_time=0.066690
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=13858320 ratio=7.2159 rate=4.435 rmse=5.051e-08 nrmse=1.4389e-09 maxe=1.9073e-06 maxre=5.4332e-08 psnr=176.8396
+Compression_time=0.022318
+Decompression_time=0.065343
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=13931912 ratio=7.1778 rate=4.458 rmse=4.979e-08 nrmse=1.4182e-09 maxe=1.9073e-06 maxre=5.4332e-08 psnr=176.9651
+Compression_time=0.028166
+Decompression_time=0.075010
+../data/Hurricane/QGRAUPf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QGRAUPf48.bin.f32 -3 500 500 100 -s -a 7.295187e-04 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=162912 ratio=613.83 rate=0.05213 rmse=2.295e-06 nrmse=0.00031458 maxe=9.373e-05 maxre=0.012848 psnr=70.0453
+Compression_time=0.005034
+Decompression_time=0.037010
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=422872 ratio=236.48 rate=0.1353 rmse=4.593e-07 nrmse=6.2958e-05 maxe=1.4326e-05 maxre=0.0019637 psnr=84.0190
+Compression_time=0.007527
+Decompression_time=0.037989
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1112496 ratio=89.888 rate=0.356 rmse=4.117e-08 nrmse=5.6439e-06 maxe=9.7853e-07 maxre=0.00013413 psnr=104.9684
+Compression_time=0.007923
+Decompression_time=0.039727
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1926304 ratio=51.913 rate=0.6164 rmse=6.2e-09 nrmse=8.4992e-07 maxe=1.2502e-07 maxre=1.7137e-05 psnr=121.4124
+Compression_time=0.011373
+Decompression_time=0.047338
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=3072360 ratio=32.548 rate=0.9832 rmse=9.254e-10 nrmse=1.2685e-07 maxe=1.6458e-08 maxre=2.256e-06 psnr=137.9343
+Compression_time=0.013946
+Decompression_time=0.056810
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5890592 ratio=16.976 rate=1.885 rmse=8.533e-11 nrmse=1.1697e-08 maxe=1.0265e-09 maxre=1.4072e-07 psnr=158.6388
+Compression_time=0.019901
+Decompression_time=0.072059
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=9745552 ratio=10.261 rate=3.119 rmse=1.368e-11 nrmse=1.8757e-09 maxe=1.4938e-10 maxre=2.0477e-08 psnr=174.5366
+Compression_time=0.025104
+Decompression_time=0.089162
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15177512 ratio=6.5887 rate=4.857 rmse=2.021e-12 nrmse=2.7699e-10 maxe=1.4938e-10 maxre=2.0477e-08 psnr=191.1507
+Compression_time=0.032321
+Decompression_time=0.105059
+../data/Hurricane/QGRAUPf48.log10.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QGRAUPf48.log10.bin.f32 -3 500 500 100 -s -a 3.576564e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=8145480 ratio=12.277 rate=2.607 rmse=0.05859 nrmse=0.0016381 maxe=0.55394 maxre=0.015488 psnr=55.7133
+Compression_time=0.021982
+Decompression_time=0.090126
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=14077544 ratio=7.1035 rate=4.505 rmse=0.008989 nrmse=0.00025133 maxe=0.068401 maxre=0.0019125 psnr=71.9951
+Compression_time=0.033261
+Decompression_time=0.108805
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=21791880 ratio=4.5889 rate=6.973 rmse=0.001269 nrmse=3.5483e-05 maxe=0.0087299 maxre=0.00024409 psnr=88.9997
+Compression_time=0.035404
+Decompression_time=0.127293
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=33711736 ratio=2.9663 rate=10.79 rmse=8.44e-05 nrmse=2.3597e-06 maxe=0.00059605 maxre=1.6665e-05 psnr=112.5427
+Compression_time=0.045826
+Decompression_time=0.144210
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=43035128 ratio=2.3237 rate=13.77 rmse=1.065e-05 nrmse=2.9764e-07 maxe=7.0572e-05 maxre=1.9732e-06 psnr=130.5262
+Compression_time=0.052706
+Decompression_time=0.151432
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=52400064 ratio=1.9084 rate=16.77 rmse=1.381e-06 nrmse=3.8624e-08 maxe=9.5367e-06 maxre=2.6665e-07 psnr=148.2628
+Compression_time=0.060444
+Decompression_time=0.151607
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=64158544 ratio=1.5586 rate=20.53 rmse=9.594e-08 nrmse=2.6824e-09 maxe=1.9073e-06 maxre=5.3329e-08 psnr=171.4297
+Compression_time=0.065611
+Decompression_time=0.154075
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=66534296 ratio=1.503 rate=21.29 rmse=9.022e-08 nrmse=2.5226e-09 maxe=1.9073e-06 maxre=5.3329e-08 psnr=171.9632
+Compression_time=0.066923
+Decompression_time=0.152322
+../data/Hurricane/QICEf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QICEf48.bin.f32 -3 500 500 100 -s -a 8.463638e-05 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=478024 ratio=209.19 rate=0.153 rmse=5.229e-07 nrmse=0.00061786 maxe=1.4736e-05 maxre=0.017411 psnr=64.1822
+Compression_time=0.006555
+Decompression_time=0.034720
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1202968 ratio=83.128 rate=0.3849 rmse=9.418e-08 nrmse=0.00011128 maxe=1.8831e-06 maxre=0.002225 psnr=79.0717
+Compression_time=0.008389
+Decompression_time=0.043429
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2690536 ratio=37.167 rate=0.861 rmse=7.405e-09 nrmse=8.7486e-06 maxe=1.2491e-07 maxre=0.00014758 psnr=101.1612
+Compression_time=0.010743
+Decompression_time=0.044243
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4033624 ratio=24.792 rate=1.291 rmse=9.814e-10 nrmse=1.1596e-06 maxe=1.6313e-08 maxre=1.9274e-05 psnr=118.7141
+Compression_time=0.011552
+Decompression_time=0.047020
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5441704 ratio=18.377 rate=1.741 rmse=1.246e-10 nrmse=1.4725e-07 maxe=2.3174e-09 maxre=2.7381e-06 psnr=136.6390
+Compression_time=0.013827
+Decompression_time=0.049155
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7344928 ratio=13.615 rate=2.35 rmse=7.847e-12 nrmse=9.2713e-09 maxe=1.3108e-10 maxre=1.5488e-07 psnr=160.6571
+Compression_time=0.014808
+Decompression_time=0.047587
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=8780352 ratio=11.389 rate=2.81 rmse=9.991e-13 nrmse=1.1805e-09 maxe=2.9104e-11 maxre=3.4387e-08 psnr=178.5586
+Compression_time=0.016514
+Decompression_time=0.057782
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=10181584 ratio=9.8217 rate=3.258 rmse=1.49e-13 nrmse=1.76e-10 maxe=2.9104e-11 maxre=3.4387e-08 psnr=195.0896
+Compression_time=0.017785
+Decompression_time=0.050145
+../data/Hurricane/QICEf48.log10.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QICEf48.log10.bin.f32 -3 500 500 100 -s -a 1.868306e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4100968 ratio=24.384 rate=1.312 rmse=0.01787 nrmse=0.0009566 maxe=0.29124 maxre=0.015588 psnr=60.3854
+Compression_time=0.017714
+Decompression_time=0.066387
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5686304 ratio=17.586 rate=1.82 rmse=0.002085 nrmse=0.00011161 maxe=0.037049 maxre=0.001983 psnr=79.0460
+Compression_time=0.016916
+Decompression_time=0.066717
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7368416 ratio=13.571 rate=2.358 rmse=0.0002849 nrmse=1.5247e-05 maxe=0.0044751 maxre=0.00023953 psnr=96.3363
+Compression_time=0.018614
+Decompression_time=0.070504
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=9665752 ratio=10.346 rate=3.093 rmse=1.706e-05 nrmse=9.131e-07 maxe=0.00031853 maxre=1.7049e-05 psnr=120.7896
+Compression_time=0.020531
+Decompression_time=0.069506
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=11400848 ratio=8.7713 rate=3.648 rmse=2.128e-06 nrmse=1.1393e-07 maxe=4.5776e-05 maxre=2.4502e-06 psnr=138.8676
+Compression_time=0.022153
+Decompression_time=0.068787
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=13137200 ratio=7.612 rate=4.204 rmse=2.843e-07 nrmse=1.5217e-08 maxe=5.722e-06 maxre=3.0627e-07 psnr=156.3533
+Compression_time=0.023686
+Decompression_time=0.075904
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15004448 ratio=6.6647 rate=4.801 rmse=2.443e-08 nrmse=1.3075e-09 maxe=9.5367e-07 maxre=5.1045e-08 psnr=177.6710
+Compression_time=0.024268
+Decompression_time=0.069802
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15129152 ratio=6.6098 rate=4.841 rmse=2.413e-08 nrmse=1.2915e-09 maxe=9.5367e-07 maxre=5.1045e-08 psnr=177.7784
+Compression_time=0.027048
+Decompression_time=0.068868
+../data/Hurricane/QRAINf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QRAINf48.bin.f32 -3 500 500 100 -s -a 6.334646e-04 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=279648 ratio=357.59 rate=0.08949 rmse=2.915e-06 nrmse=0.00046016 maxe=0.00011635 maxre=0.018367 psnr=66.7418
+Compression_time=0.007459
+Decompression_time=0.035980
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=680432 ratio=146.97 rate=0.2177 rmse=5.435e-07 nrmse=8.58e-05 maxe=1.5765e-05 maxre=0.0024888 psnr=81.3303
+Compression_time=0.009691
+Decompression_time=0.035752
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1554128 ratio=64.345 rate=0.4973 rmse=4.564e-08 nrmse=7.2041e-06 maxe=9.8468e-07 maxre=0.00015544 psnr=102.8484
+Compression_time=0.010786
+Decompression_time=0.038372
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2483688 ratio=40.263 rate=0.7948 rmse=6.609e-09 nrmse=1.0433e-06 maxe=1.3027e-07 maxre=2.0564e-05 psnr=119.6320
+Compression_time=0.017024
+Decompression_time=0.045113
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=3707920 ratio=26.969 rate=1.187 rmse=9.601e-10 nrmse=1.5157e-07 maxe=1.7021e-08 maxre=2.687e-06 psnr=136.3879
+Compression_time=0.021687
+Decompression_time=0.055042
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=6479344 ratio=15.434 rate=2.073 rmse=8.386e-11 nrmse=1.3239e-08 maxe=1.0211e-09 maxre=1.6119e-07 psnr=157.5630
+Compression_time=0.027415
+Decompression_time=0.070762
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=10036136 ratio=9.964 rate=3.212 rmse=1.31e-11 nrmse=2.0684e-09 maxe=2.3283e-10 maxre=3.6755e-08 psnr=173.6874
+Compression_time=0.031606
+Decompression_time=0.083751
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15026936 ratio=6.6547 rate=4.809 rmse=2.012e-12 nrmse=3.1762e-10 maxe=2.3283e-10 maxre=3.6755e-08 psnr=189.9617
+Compression_time=0.034059
+Decompression_time=0.100131
+../data/Hurricane/QRAINf48.log10.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QRAINf48.log10.bin.f32 -3 500 500 100 -s -a 3.573139e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=9366800 ratio=10.676 rate=2.997 rmse=0.06045 nrmse=0.0016918 maxe=0.57722 maxre=0.016155 psnr=55.4331
+Compression_time=0.023428
+Decompression_time=0.090159
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15320144 ratio=6.5274 rate=4.902 rmse=0.008929 nrmse=0.00024989 maxe=0.070011 maxre=0.0019594 psnr=72.0451
+Compression_time=0.034106
+Decompression_time=0.110402
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=22850768 ratio=4.3762 rate=7.312 rmse=0.001252 nrmse=3.5047e-05 maxe=0.008647 maxre=0.000242 psnr=89.1069
+Compression_time=0.039928
+Decompression_time=0.124536
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=34619640 ratio=2.8885 rate=11.08 rmse=8.411e-05 nrmse=2.3539e-06 maxe=0.00053978 maxre=1.5107e-05 psnr=112.5643
+Compression_time=0.047797
+Decompression_time=0.142584
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=43925304 ratio=2.2766 rate=14.06 rmse=1.064e-05 nrmse=2.9776e-07 maxe=6.8665e-05 maxre=1.9217e-06 psnr=130.5226
+Compression_time=0.050820
+Decompression_time=0.147052
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=53287400 ratio=1.8766 rate=17.05 rmse=1.382e-06 nrmse=3.8686e-08 maxe=9.5367e-06 maxre=2.669e-07 psnr=148.2490
+Compression_time=0.058622
+Decompression_time=0.150448
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=64853592 ratio=1.5419 rate=20.75 rmse=1.064e-07 nrmse=2.9767e-09 maxe=1.9073e-06 maxre=5.338e-08 psnr=170.5252
+Compression_time=0.067463
+Decompression_time=0.152579
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=66970672 ratio=1.4932 rate=21.43 rmse=1.018e-07 nrmse=2.8493e-09 maxe=1.9073e-06 maxre=5.338e-08 psnr=170.9053
+Compression_time=0.066679
+Decompression_time=0.150189
+../data/Hurricane/QSNOWf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QSNOWf48.bin.f32 -3 500 500 100 -s -a 8.560261e-05 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=418832 ratio=238.76 rate=0.134 rmse=4.955e-07 nrmse=0.00057889 maxe=1.4245e-05 maxre=0.016641 psnr=64.7480
+Compression_time=0.006601
+Decompression_time=0.035012
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1068360 ratio=93.601 rate=0.3419 rmse=9.026e-08 nrmse=0.00010544 maxe=2.0232e-06 maxre=0.0023635 psnr=79.5398
+Compression_time=0.008295
+Decompression_time=0.041829
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2656864 ratio=37.638 rate=0.8502 rmse=7.767e-09 nrmse=9.0734e-06 maxe=1.299e-07 maxre=0.00015175 psnr=100.8446
+Compression_time=0.012820
+Decompression_time=0.057252
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4549336 ratio=21.981 rate=1.456 rmse=1.197e-09 nrmse=1.3989e-06 maxe=1.5297e-08 maxre=1.787e-05 psnr=117.0846
+Compression_time=0.016113
+Decompression_time=0.065795
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7511480 ratio=13.313 rate=2.404 rmse=1.899e-10 nrmse=2.2181e-07 maxe=1.9527e-09 maxre=2.2811e-06 psnr=133.0803
+Compression_time=0.022152
+Decompression_time=0.082061
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=13949328 ratio=7.1688 rate=4.464 rmse=1.551e-11 nrmse=1.8117e-08 maxe=1.2775e-10 maxre=1.4923e-07 psnr=154.8381
+Compression_time=0.031581
+Decompression_time=0.103397
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=20712504 ratio=4.828 rate=6.628 rmse=2.197e-12 nrmse=2.5659e-09 maxe=2.9104e-11 maxre=3.3999e-08 psnr=171.8150
+Compression_time=0.035012
+Decompression_time=0.121661
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=28524960 ratio=3.5057 rate=9.128 rmse=2.981e-13 nrmse=3.4826e-10 maxe=2.9104e-11 maxre=3.3999e-08 psnr=189.1620
+Compression_time=0.040111
+Decompression_time=0.133194
+../data/Hurricane/QSNOWf48.log10.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QSNOWf48.log10.bin.f32 -3 500 500 100 -s -a 3.477967e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7448584 ratio=13.425 rate=2.384 rmse=0.05831 nrmse=0.0016767 maxe=0.57758 maxre=0.016607 psnr=55.5111
+Compression_time=0.024239
+Decompression_time=0.091072
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=13520688 ratio=7.3961 rate=4.327 rmse=0.009068 nrmse=0.00026072 maxe=0.07007 maxre=0.0020147 psnr=71.6764
+Compression_time=0.033512
+Decompression_time=0.111629
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=21326848 ratio=4.6889 rate=6.825 rmse=0.001273 nrmse=3.6592e-05 maxe=0.0090828 maxre=0.00026115 psnr=88.7324
+Compression_time=0.035572
+Decompression_time=0.130360
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=33227504 ratio=3.0096 rate=10.63 rmse=8.424e-05 nrmse=2.4221e-06 maxe=0.00056839 maxre=1.6343e-05 psnr=112.3162
+Compression_time=0.047189
+Decompression_time=0.144511
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=42537240 ratio=2.3509 rate=13.61 rmse=1.063e-05 nrmse=3.0568e-07 maxe=7.1526e-05 maxre=2.0565e-06 psnr=130.2947
+Compression_time=0.055275
+Decompression_time=0.148818
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=51898768 ratio=1.9268 rate=16.61 rmse=1.373e-06 nrmse=3.9475e-08 maxe=9.5367e-06 maxre=2.742e-07 psnr=148.0736
+Compression_time=0.060440
+Decompression_time=0.151969
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=63805568 ratio=1.5673 rate=20.42 rmse=9.271e-08 nrmse=2.6657e-09 maxe=1.9073e-06 maxre=5.4841e-08 psnr=171.4837
+Compression_time=0.063907
+Decompression_time=0.150604
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=66547528 ratio=1.5027 rate=21.3 rmse=8.567e-08 nrmse=2.4632e-09 maxe=1.9073e-06 maxre=5.4841e-08 psnr=172.1701
+Compression_time=0.065166
+Decompression_time=0.150152
+../data/Hurricane/QVAPORf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QVAPORf48.bin.f32 -3 500 500 100 -s -a 2.042072e-03 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1830712 ratio=54.624 rate=0.5858 rmse=3.324e-05 nrmse=0.0016277 maxe=0.0005846 maxre=0.028628 psnr=55.7686
+Compression_time=0.018446
+Decompression_time=0.072867
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5777872 ratio=17.307 rate=1.849 rmse=3.255e-06 nrmse=0.00015938 maxe=3.2723e-05 maxre=0.0016024 psnr=75.9515
+Compression_time=0.025865
+Decompression_time=0.083771
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=10644944 ratio=9.3941 rate=3.406 rmse=4.887e-07 nrmse=2.3932e-05 maxe=4.0811e-06 maxre=0.00019985 psnr=92.4203
+Compression_time=0.028539
+Decompression_time=0.098700
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=16949768 ratio=5.8998 rate=5.424 rmse=6.96e-08 nrmse=3.4085e-06 maxe=5.1584e-07 maxre=2.526e-05 psnr=109.3488
+Compression_time=0.034976
+Decompression_time=0.115894
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=27306320 ratio=3.6622 rate=8.738 rmse=4.864e-09 nrmse=2.3818e-07 maxe=3.2596e-08 maxre=1.5962e-06 psnr=132.4619
+Compression_time=0.035957
+Decompression_time=0.135913
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=36164400 ratio=2.7652 rate=11.57 rmse=6.378e-10 nrmse=3.1234e-08 maxe=4.191e-09 maxre=2.0523e-07 psnr=150.1076
+Compression_time=0.052960
+Decompression_time=0.145769
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=45402128 ratio=2.2025 rate=14.53 rmse=7.52e-11 nrmse=3.6825e-09 maxe=9.3132e-10 maxre=4.5607e-08 psnr=168.6771
+Compression_time=0.050567
+Decompression_time=0.151204
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=55670464 ratio=1.7963 rate=17.81 rmse=1.31e-11 nrmse=6.413e-10 maxe=9.3132e-10 maxre=4.5607e-08 psnr=183.8588
+Compression_time=0.060977
+Decompression_time=0.153599
+../data/Hurricane/TCf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/TCf48.bin.f32 -3 500 500 100 -s -a 1.062011e+01 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2068096 ratio=48.354 rate=0.6618 rmse=0.1172 nrmse=0.0011039 maxe=2.1426 maxre=0.020175 psnr=59.1413
+Compression_time=0.013919
+Decompression_time=0.062230
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4934408 ratio=20.266 rate=1.579 rmse=0.02694 nrmse=0.00025369 maxe=0.26053 maxre=0.0024532 psnr=71.9140
+Compression_time=0.021273
+Decompression_time=0.084166
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=13575344 ratio=7.3663 rate=4.344 rmse=0.002418 nrmse=2.2764e-05 maxe=0.017681 maxre=0.00016649 psnr=92.8552
+Compression_time=0.031050
+Decompression_time=0.117211
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=22268864 ratio=4.4906 rate=7.126 rmse=0.000327 nrmse=3.0792e-06 maxe=0.002121 maxre=1.9971e-05 psnr=110.2313
+Compression_time=0.038451
+Decompression_time=0.138088
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=31504624 ratio=3.1741 rate=10.08 rmse=4.159e-05 nrmse=3.9158e-07 maxe=0.00028992 maxre=2.7299e-06 psnr=128.1436
+Compression_time=0.050392
+Decompression_time=0.145610
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=43948928 ratio=2.2754 rate=14.06 rmse=2.771e-06 nrmse=2.6089e-08 maxe=1.7166e-05 maxre=1.6164e-07 psnr=151.6708
+Compression_time=0.057805
+Decompression_time=0.151356
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=53315168 ratio=1.8756 rate=17.06 rmse=2.297e-07 nrmse=2.1628e-09 maxe=3.8147e-06 maxre=3.592e-08 psnr=173.2995
+Compression_time=0.062591
+Decompression_time=0.154209
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=57895024 ratio=1.7273 rate=18.53 rmse=3.164e-08 nrmse=2.9797e-10 maxe=3.8147e-06 maxre=3.592e-08 psnr=190.5167
+Compression_time=0.065188
+Decompression_time=0.151018
+../data/Hurricane/Uf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/Uf48.bin.f32 -3 500 500 100 -s -a 9.258076e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1950592 ratio=51.266 rate=0.6242 rmse=0.1507 nrmse=0.0016274 maxe=1.9004 maxre=0.020527 psnr=55.7700
+Compression_time=0.014577
+Decompression_time=0.068325
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7678144 ratio=13.024 rate=2.457 rmse=0.01695 nrmse=0.00018309 maxe=0.13453 maxre=0.0014531 psnr=74.7465
+Compression_time=0.027928
+Decompression_time=0.106577
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15273896 ratio=6.5471 rate=4.888 rmse=0.00251 nrmse=2.7114e-05 maxe=0.017009 maxre=0.00018372 psnr=91.3361
+Compression_time=0.037397
+Decompression_time=0.131246
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=24198752 ratio=4.1324 rate=7.744 rmse=0.00033 nrmse=3.5643e-06 maxe=0.0021496 maxre=2.3218e-05 psnr=108.9605
+Compression_time=0.040249
+Decompression_time=0.147438
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=36584248 ratio=2.7334 rate=11.71 rmse=2.082e-05 nrmse=2.2484e-07 maxe=0.0001421 maxre=1.5348e-06 psnr=132.9626
+Compression_time=0.052105
+Decompression_time=0.159254
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=45908576 ratio=2.1782 rate=14.69 rmse=2.618e-06 nrmse=2.8279e-08 maxe=1.6689e-05 maxre=1.8027e-07 psnr=150.9708
+Compression_time=0.064821
+Decompression_time=0.164886
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=55244112 ratio=1.8101 rate=17.68 rmse=3.389e-07 nrmse=3.6602e-09 maxe=3.8147e-06 maxre=4.1204e-08 psnr=168.7299
+Compression_time=0.062778
+Decompression_time=0.159555
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=66100496 ratio=1.5128 rate=21.15 rmse=1.976e-08 nrmse=2.1346e-10 maxe=1.9073e-06 maxre=2.0602e-08 psnr=193.4137
+Compression_time=0.076934
+Decompression_time=0.164019
+../data/Hurricane/Vf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/Vf48.bin.f32 -3 500 500 100 -s -a 9.370042e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1944992 ratio=51.414 rate=0.6224 rmse=0.1485 nrmse=0.0015853 maxe=1.9707 maxre=0.021032 psnr=55.9975
+Compression_time=0.015626
+Decompression_time=0.071384
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7559312 ratio=13.229 rate=2.419 rmse=0.01688 nrmse=0.00018018 maxe=0.13457 maxre=0.0014361 psnr=74.8859
+Compression_time=0.027633
+Decompression_time=0.105591
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15105120 ratio=6.6203 rate=4.834 rmse=0.002504 nrmse=2.6728e-05 maxe=0.016976 maxre=0.00018117 psnr=91.4606
+Compression_time=0.037917
+Decompression_time=0.130035
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=24012728 ratio=4.1645 rate=7.684 rmse=0.0003297 nrmse=3.5185e-06 maxe=0.0021949 maxre=2.3424e-05 psnr=109.0728
+Compression_time=0.044134
+Decompression_time=0.148247
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=36391952 ratio=2.7479 rate=11.65 rmse=2.082e-05 nrmse=2.2216e-07 maxe=0.00013733 maxre=1.4656e-06 psnr=133.0669
+Compression_time=0.051514
+Decompression_time=0.159087
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=45716224 ratio=2.1874 rate=14.63 rmse=2.623e-06 nrmse=2.7998e-08 maxe=1.7643e-05 maxre=1.8829e-07 psnr=151.0575
+Compression_time=0.060694
+Decompression_time=0.160597
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=55054096 ratio=1.8164 rate=17.62 rmse=3.304e-07 nrmse=3.5257e-09 maxe=3.8147e-06 maxre=4.0712e-08 psnr=169.0552
+Compression_time=0.064051
+Decompression_time=0.159250
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=65291536 ratio=1.5316 rate=20.89 rmse=2.054e-08 nrmse=2.1917e-10 maxe=1.9073e-06 maxre=2.0356e-08 psnr=193.1845
+Compression_time=0.071947
+Decompression_time=0.161526
+../data/Hurricane/Wf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/Wf48.bin.f32 -3 500 500 100 -s -a 1.657436e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2403040 ratio=41.614 rate=0.769 rmse=0.02106 nrmse=0.0012705 maxe=0.24143 maxre=0.014567 psnr=57.9208
+Compression_time=0.017436
+Decompression_time=0.079284
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7714304 ratio=12.963 rate=2.469 rmse=0.003954 nrmse=0.00023858 maxe=0.033706 maxre=0.0020336 psnr=72.4473
+Compression_time=0.024375
+Decompression_time=0.102971
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15415072 ratio=6.4872 rate=4.933 rmse=0.0006078 nrmse=3.6672e-05 maxe=0.0045764 maxre=0.00027611 psnr=88.7132
+Compression_time=0.034465
+Decompression_time=0.123218
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=27335672 ratio=3.6582 rate=8.747 rmse=4.124e-05 nrmse=2.488e-06 maxe=0.0002869 maxre=1.731e-05 psnr=112.0830
+Compression_time=0.044032
+Decompression_time=0.142724
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=36624272 ratio=2.7304 rate=11.72 rmse=5.198e-06 nrmse=3.1361e-07 maxe=3.6427e-05 maxre=2.1978e-06 psnr=130.0723
+Compression_time=0.052497
+Decompression_time=0.146886
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=45946896 ratio=2.1764 rate=14.7 rmse=6.505e-07 nrmse=3.9245e-08 maxe=4.3623e-06 maxre=2.632e-07 psnr=148.1243
+Compression_time=0.055345
+Decompression_time=0.147707
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=58380312 ratio=1.7129 rate=18.68 rmse=4.105e-08 nrmse=2.4768e-09 maxe=4.7684e-07 maxre=2.877e-08 psnr=172.1223
+Compression_time=0.063197
+Decompression_time=0.147547
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=67701936 ratio=1.4771 rate=21.66 rmse=5.515e-09 nrmse=3.3277e-10 maxe=4.7684e-07 maxre=2.877e-08 psnr=189.5572
+Compression_time=0.068721
+Decompression_time=0.149189
+../data/Hurricane/CLOUDf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/CLOUDf48.bin.f32 -3 500 500 100 -s -a 2.047953e-04 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1207176 ratio=82.838 rate=0.3863 rmse=1.644e-06 nrmse=0.00080299 maxe=3.5763e-05 maxre=0.017463 psnr=61.9058
+Compression_time=0.008441
+Decompression_time=0.040786
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2515648 ratio=39.751 rate=0.805 rmse=2.522e-07 nrmse=0.00012313 maxe=4.1723e-06 maxre=0.0020373 psnr=78.1928
+Compression_time=0.013382
+Decompression_time=0.047914
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4201120 ratio=23.803 rate=1.344 rmse=3.565e-08 nrmse=1.7406e-05 maxe=7.1712e-07 maxre=0.00035016 psnr=95.1858
+Compression_time=0.015159
+Decompression_time=0.052769
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=6821960 ratio=14.659 rate=2.183 rmse=2.401e-09 nrmse=1.1722e-06 maxe=3.4762e-08 maxre=1.6974e-05 psnr=118.6197
+Compression_time=0.018056
+Decompression_time=0.056272
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=8902208 ratio=11.233 rate=2.849 rmse=3.045e-10 nrmse=1.4871e-07 maxe=5.3733e-09 maxre=2.6237e-06 psnr=136.5534
+Compression_time=0.019331
+Decompression_time=0.056854
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=11000776 ratio=9.0903 rate=3.52 rmse=3.819e-11 nrmse=1.8648e-08 maxe=5.7753e-10 maxre=2.82e-07 psnr=154.5872
+Compression_time=0.020555
+Decompression_time=0.055668
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=13801584 ratio=7.2455 rate=4.417 rmse=2.473e-12 nrmse=1.2074e-09 maxe=5.8208e-11 maxre=2.8422e-08 psnr=178.3628
+Compression_time=0.023340
+Decompression_time=0.055910
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15680672 ratio=6.3773 rate=5.018 rmse=7.051e-13 nrmse=3.443e-10 maxe=5.8208e-11 maxre=2.8422e-08 psnr=189.2613
+Compression_time=0.025237
+Decompression_time=0.057005
+../data/Hurricane/CLOUDf48.log10.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/CLOUDf48.log10.bin.f32 -3 500 500 100 -s -a 1.015203e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4841776 ratio=20.654 rate=1.549 rmse=0.01885 nrmse=0.0018566 maxe=0.31117 maxre=0.030651 psnr=54.6258
+Compression_time=0.019479
+Decompression_time=0.069332
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7760520 ratio=12.886 rate=2.483 rmse=0.00126 nrmse=0.00012415 maxe=0.020061 maxre=0.0019761 psnr=78.1210
+Compression_time=0.020270
+Decompression_time=0.072665
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=10054616 ratio=9.9457 rate=3.217 rmse=0.0001604 nrmse=1.5804e-05 maxe=0.0025272 maxre=0.00024894 psnr=96.0244
+Compression_time=0.024217
+Decompression_time=0.074763
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=12376816 ratio=8.0796 rate=3.961 rmse=2.046e-05 nrmse=2.0152e-06 maxe=0.00028324 maxre=2.79e-05 psnr=113.9136
+Compression_time=0.026374
+Decompression_time=0.074965
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15485144 ratio=6.4578 rate=4.955 rmse=1.267e-06 nrmse=1.2479e-07 maxe=1.8597e-05 maxre=1.8318e-06 psnr=138.0767
+Compression_time=0.028647
+Decompression_time=0.074183
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=17817408 ratio=5.6125 rate=5.702 rmse=1.694e-07 nrmse=1.6685e-08 maxe=2.861e-06 maxre=2.8182e-07 psnr=155.5534
+Compression_time=0.030547
+Decompression_time=0.074000
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=20149656 ratio=4.9629 rate=6.448 rmse=1.147e-08 nrmse=1.1295e-09 maxe=4.7684e-07 maxre=4.697e-08 psnr=178.9420
+Compression_time=0.032649
+Decompression_time=0.074338
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=20314952 ratio=4.9225 rate=6.501 rmse=1.042e-08 nrmse=1.0264e-09 maxe=4.7684e-07 maxre=4.697e-08 psnr=179.7736
+Compression_time=0.031851
+Decompression_time=0.075023
+../data/Hurricane/Pf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/Pf48.bin.f32 -3 500 500 100 -s -a 6.636139e+02 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1409624 ratio=70.941 rate=0.4511 rmse=6.382 nrmse=0.00096164 maxe=130.88 maxre=0.019722 psnr=60.3398
+Compression_time=0.013684
+Decompression_time=0.061534
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=3545176 ratio=28.207 rate=1.134 rmse=1.301 nrmse=0.00019609 maxe=16.187 maxre=0.0024393 psnr=74.1507
+Compression_time=0.019515
+Decompression_time=0.076829
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=10674816 ratio=9.3678 rate=3.416 rmse=0.1242 nrmse=1.872e-05 maxe=1.0983 maxre=0.0001655 psnr=94.5540
+Compression_time=0.030148
+Decompression_time=0.107087
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=18413232 ratio=5.4309 rate=5.892 rmse=0.01846 nrmse=2.7817e-06 maxe=0.13641 maxre=2.0556e-05 psnr=111.1139
+Compression_time=0.039005
+Decompression_time=0.125881
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=27190032 ratio=3.6778 rate=8.701 rmse=0.002575 nrmse=3.88e-07 maxe=0.017151 maxre=2.5845e-06 psnr=128.2233
+Compression_time=0.043822
+Decompression_time=0.129450
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=39535344 ratio=2.5294 rate=12.65 rmse=0.0001672 nrmse=2.5195e-08 maxe=0.0012207 maxre=1.8395e-07 psnr=151.9736
+Compression_time=0.045149
+Decompression_time=0.136637
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=48862312 ratio=2.0466 rate=15.64 rmse=2.094e-05 nrmse=3.1558e-09 maxe=0.00024414 maxre=3.679e-08 psnr=170.0178
+Compression_time=0.056016
+Decompression_time=0.137625
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=57742104 ratio=1.7318 rate=18.48 rmse=2.173e-06 nrmse=3.2749e-10 maxe=0.00012207 maxre=1.8395e-08 psnr=189.6960
+Compression_time=0.064219
+Decompression_time=0.139894
+../data/Hurricane/PRECIPf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/PRECIPf48.bin.f32 -3 500 500 100 -s -a 7.505861e-04 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=421824 ratio=237.07 rate=0.135 rmse=3.815e-06 nrmse=0.00050829 maxe=0.00011635 maxre=0.015501 psnr=65.8778
+Compression_time=0.007675
+Decompression_time=0.037976
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1157944 ratio=86.36 rate=0.3705 rmse=7.428e-07 nrmse=9.8959e-05 maxe=1.5765e-05 maxre=0.0021004 psnr=80.0909
+Compression_time=0.008628
+Decompression_time=0.041103
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2950400 ratio=33.894 rate=0.9441 rmse=6.612e-08 nrmse=8.809e-06 maxe=1.0374e-06 maxre=0.00013821 psnr=101.1015
+Compression_time=0.014430
+Decompression_time=0.051712
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5055632 ratio=19.78 rate=1.618 rmse=9.814e-09 nrmse=1.3075e-06 maxe=1.2852e-07 maxre=1.7123e-05 psnr=117.6713
+Compression_time=0.019001
+Decompression_time=0.065623
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7866528 ratio=12.712 rate=2.517 rmse=1.465e-09 nrmse=1.9517e-07 maxe=1.9765e-08 maxre=2.6333e-06 psnr=134.1919
+Compression_time=0.024408
+Decompression_time=0.080298
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=12001336 ratio=8.3324 rate=3.84 rmse=2.23e-10 nrmse=2.9712e-08 maxe=2.2756e-09 maxre=3.0317e-07 psnr=150.5413
+Compression_time=0.031362
+Decompression_time=0.094779
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=19888632 ratio=5.028 rate=6.364 rmse=1.685e-11 nrmse=2.2449e-09 maxe=2.3283e-10 maxre=3.102e-08 psnr=172.9762
+Compression_time=0.038104
+Decompression_time=0.115496
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=27273904 ratio=3.6665 rate=8.728 rmse=2.388e-12 nrmse=3.182e-10 maxe=2.3283e-10 maxre=3.102e-08 psnr=189.9460
+Compression_time=0.042529
+Decompression_time=0.130110
+../data/Hurricane/PRECIPf48.log10.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/PRECIPf48.log10.bin.f32 -3 500 500 100 -s -a 3.580139e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5729400 ratio=17.454 rate=1.833 rmse=0.05509 nrmse=0.0015387 maxe=0.57049 maxre=0.015935 psnr=56.2569
+Compression_time=0.020931
+Decompression_time=0.085538
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=11495064 ratio=8.6994 rate=3.678 rmse=0.008833 nrmse=0.00024672 maxe=0.06855 maxre=0.0019147 psnr=72.1560
+Compression_time=0.031838
+Decompression_time=0.108997
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=19110384 ratio=5.2328 rate=6.115 rmse=0.001258 nrmse=3.5133e-05 maxe=0.0087204 maxre=0.00024358 psnr=89.0858
+Compression_time=0.040385
+Decompression_time=0.125839
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=30929888 ratio=3.2331 rate=9.898 rmse=8.408e-05 nrmse=2.3485e-06 maxe=0.00057459 maxre=1.6049e-05 psnr=112.5840
+Compression_time=0.041628
+Decompression_time=0.143718
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=40232688 ratio=2.4855 rate=12.87 rmse=1.063e-05 nrmse=2.9683e-07 maxe=7.2479e-05 maxre=2.0245e-06 psnr=130.5498
+Compression_time=0.051235
+Decompression_time=0.150129
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=49594832 ratio=2.0163 rate=15.87 rmse=1.36e-06 nrmse=3.7993e-08 maxe=8.5831e-06 maxre=2.3974e-07 psnr=148.4060
+Compression_time=0.058617
+Decompression_time=0.151859
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=61921040 ratio=1.615 rate=19.81 rmse=6.744e-08 nrmse=1.8837e-09 maxe=1.9073e-06 maxre=5.3276e-08 psnr=174.4997
+Compression_time=0.064847
+Decompression_time=0.151788
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=65352840 ratio=1.5302 rate=20.91 rmse=4.934e-08 nrmse=1.3782e-09 maxe=1.9073e-06 maxre=5.3276e-08 psnr=177.2135
+Compression_time=0.066184
+Decompression_time=0.154173
+../data/Hurricane/QCLOUDf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QCLOUDf48.bin.f32 -3 500 500 100 -s -a 2.047953e-04 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=955952 ratio=104.61 rate=0.3059 rmse=1.422e-06 nrmse=0.00069411 maxe=3.5763e-05 maxre=0.017463 psnr=63.1714
+Compression_time=0.010931
+Decompression_time=0.040977
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1784008 ratio=56.054 rate=0.5709 rmse=1.987e-07 nrmse=9.7e-05 maxe=4.1723e-06 maxre=0.0020373 psnr=80.2646
+Compression_time=0.012326
+Decompression_time=0.042309
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2704584 ratio=36.974 rate=0.8655 rmse=2.6e-08 nrmse=1.2694e-05 maxe=7.1712e-07 maxre=0.00035016 psnr=97.9277
+Compression_time=0.013866
+Decompression_time=0.042959
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4008824 ratio=24.945 rate=1.283 rmse=1.675e-09 nrmse=8.1804e-07 maxe=3.4401e-08 maxre=1.6798e-05 psnr=121.7445
+Compression_time=0.015488
+Decompression_time=0.042510
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5009872 ratio=19.961 rate=1.603 rmse=2.114e-10 nrmse=1.0321e-07 maxe=5.3733e-09 maxre=2.6237e-06 psnr=139.7254
+Compression_time=0.012551
+Decompression_time=0.041169
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=6017832 ratio=16.617 rate=1.926 rmse=2.658e-11 nrmse=1.2978e-08 maxe=5.7753e-10 maxre=2.82e-07 psnr=157.7359
+Compression_time=0.017469
+Decompression_time=0.044612
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7422456 ratio=13.473 rate=2.375 rmse=1.797e-12 nrmse=8.7748e-10 maxe=5.8208e-11 maxre=2.8422e-08 psnr=181.1352
+Compression_time=0.013531
+Decompression_time=0.042585
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=8339640 ratio=11.991 rate=2.669 rmse=6.708e-13 nrmse=3.2753e-10 maxe=5.8208e-11 maxre=2.8422e-08 psnr=189.6951
+Compression_time=0.020204
+Decompression_time=0.045978
+../data/Hurricane/QCLOUDf48.log10.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QCLOUDf48.log10.bin.f32 -3 500 500 100 -s -a 3.510567e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4237352 ratio=23.6 rate=1.356 rmse=0.03431 nrmse=0.00097722 maxe=0.53377 maxre=0.015205 psnr=60.2001
+Compression_time=0.019439
+Decompression_time=0.068422
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5724224 ratio=17.47 rate=1.832 rmse=0.004159 nrmse=0.00011846 maxe=0.075481 maxre=0.0021501 psnr=78.5285
+Compression_time=0.016116
+Decompression_time=0.063627
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7238648 ratio=13.815 rate=2.316 rmse=0.0005053 nrmse=1.4395e-05 maxe=0.0097847 maxre=0.00027872 psnr=96.8360
+Compression_time=0.021722
+Decompression_time=0.068403
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=9264240 ratio=10.794 rate=2.965 rmse=3.6e-05 nrmse=1.0255e-06 maxe=0.00059891 maxre=1.706e-05 psnr=119.7811
+Compression_time=0.023819
+Decompression_time=0.069941
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=10784232 ratio=9.2728 rate=3.451 rmse=3.933e-06 nrmse=1.1204e-07 maxe=9.1553e-05 maxre=2.6079e-06 psnr=139.0127
+Compression_time=0.025158
+Decompression_time=0.072399
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=12304576 ratio=8.1271 rate=3.937 rmse=5.275e-07 nrmse=1.5027e-08 maxe=1.1444e-05 maxre=3.2599e-07 psnr=156.4627
+Compression_time=0.021346
+Decompression_time=0.065440
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=13858320 ratio=7.2159 rate=4.435 rmse=5.051e-08 nrmse=1.4389e-09 maxe=1.9073e-06 maxre=5.4332e-08 psnr=176.8396
+Compression_time=0.028025
+Decompression_time=0.066689
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=13931912 ratio=7.1778 rate=4.458 rmse=4.979e-08 nrmse=1.4182e-09 maxe=1.9073e-06 maxre=5.4332e-08 psnr=176.9651
+Compression_time=0.026362
+Decompression_time=0.065221
+../data/Hurricane/QGRAUPf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QGRAUPf48.bin.f32 -3 500 500 100 -s -a 7.295187e-04 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=162912 ratio=613.83 rate=0.05213 rmse=2.295e-06 nrmse=0.00031458 maxe=9.373e-05 maxre=0.012848 psnr=70.0453
+Compression_time=0.005674
+Decompression_time=0.031232
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=422872 ratio=236.48 rate=0.1353 rmse=4.593e-07 nrmse=6.2958e-05 maxe=1.4326e-05 maxre=0.0019637 psnr=84.0190
+Compression_time=0.007730
+Decompression_time=0.033287
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1112496 ratio=89.888 rate=0.356 rmse=4.117e-08 nrmse=5.6439e-06 maxe=9.7853e-07 maxre=0.00013413 psnr=104.9684
+Compression_time=0.007514
+Decompression_time=0.036942
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1926304 ratio=51.913 rate=0.6164 rmse=6.2e-09 nrmse=8.4992e-07 maxe=1.2502e-07 maxre=1.7137e-05 psnr=121.4124
+Compression_time=0.011372
+Decompression_time=0.047456
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=3072360 ratio=32.548 rate=0.9832 rmse=9.254e-10 nrmse=1.2685e-07 maxe=1.6458e-08 maxre=2.256e-06 psnr=137.9343
+Compression_time=0.013651
+Decompression_time=0.054656
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5890592 ratio=16.976 rate=1.885 rmse=8.533e-11 nrmse=1.1697e-08 maxe=1.0265e-09 maxre=1.4072e-07 psnr=158.6388
+Compression_time=0.016915
+Decompression_time=0.070670
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=9745552 ratio=10.261 rate=3.119 rmse=1.368e-11 nrmse=1.8757e-09 maxe=1.4938e-10 maxre=2.0477e-08 psnr=174.5366
+Compression_time=0.020759
+Decompression_time=0.088704
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15177512 ratio=6.5887 rate=4.857 rmse=2.021e-12 nrmse=2.7699e-10 maxe=1.4938e-10 maxre=2.0477e-08 psnr=191.1507
+Compression_time=0.032106
+Decompression_time=0.115901
+../data/Hurricane/QGRAUPf48.log10.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QGRAUPf48.log10.bin.f32 -3 500 500 100 -s -a 3.576564e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=8145480 ratio=12.277 rate=2.607 rmse=0.05859 nrmse=0.0016381 maxe=0.55394 maxre=0.015488 psnr=55.7133
+Compression_time=0.024005
+Decompression_time=0.092047
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=14077544 ratio=7.1035 rate=4.505 rmse=0.008989 nrmse=0.00025133 maxe=0.068401 maxre=0.0019125 psnr=71.9951
+Compression_time=0.032519
+Decompression_time=0.109265
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=21791880 ratio=4.5889 rate=6.973 rmse=0.001269 nrmse=3.5483e-05 maxe=0.0087299 maxre=0.00024409 psnr=88.9997
+Compression_time=0.040796
+Decompression_time=0.128129
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=33711736 ratio=2.9663 rate=10.79 rmse=8.44e-05 nrmse=2.3597e-06 maxe=0.00059605 maxre=1.6665e-05 psnr=112.5427
+Compression_time=0.047408
+Decompression_time=0.144608
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=43035128 ratio=2.3237 rate=13.77 rmse=1.065e-05 nrmse=2.9764e-07 maxe=7.0572e-05 maxre=1.9732e-06 psnr=130.5262
+Compression_time=0.049537
+Decompression_time=0.149650
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=52400064 ratio=1.9084 rate=16.77 rmse=1.381e-06 nrmse=3.8624e-08 maxe=9.5367e-06 maxre=2.6665e-07 psnr=148.2628
+Compression_time=0.060039
+Decompression_time=0.151188
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=64158544 ratio=1.5586 rate=20.53 rmse=9.594e-08 nrmse=2.6824e-09 maxe=1.9073e-06 maxre=5.3329e-08 psnr=171.4297
+Compression_time=0.069862
+Decompression_time=0.153378
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=66534296 ratio=1.503 rate=21.29 rmse=9.022e-08 nrmse=2.5226e-09 maxe=1.9073e-06 maxre=5.3329e-08 psnr=171.9632
+Compression_time=0.070173
+Decompression_time=0.152706
+../data/Hurricane/QICEf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QICEf48.bin.f32 -3 500 500 100 -s -a 8.463638e-05 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=478024 ratio=209.19 rate=0.153 rmse=5.229e-07 nrmse=0.00061786 maxe=1.4736e-05 maxre=0.017411 psnr=64.1822
+Compression_time=0.006825
+Decompression_time=0.038886
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1202968 ratio=83.128 rate=0.3849 rmse=9.418e-08 nrmse=0.00011128 maxe=1.8831e-06 maxre=0.002225 psnr=79.0717
+Compression_time=0.008623
+Decompression_time=0.044024
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2690536 ratio=37.167 rate=0.861 rmse=7.405e-09 nrmse=8.7486e-06 maxe=1.2491e-07 maxre=0.00014758 psnr=101.1612
+Compression_time=0.010863
+Decompression_time=0.047218
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4033624 ratio=24.792 rate=1.291 rmse=9.814e-10 nrmse=1.1596e-06 maxe=1.6313e-08 maxre=1.9274e-05 psnr=118.7141
+Compression_time=0.013453
+Decompression_time=0.049059
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5441704 ratio=18.377 rate=1.741 rmse=1.246e-10 nrmse=1.4725e-07 maxe=2.3174e-09 maxre=2.7381e-06 psnr=136.6390
+Compression_time=0.015582
+Decompression_time=0.047296
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7344928 ratio=13.615 rate=2.35 rmse=7.847e-12 nrmse=9.2713e-09 maxe=1.3108e-10 maxre=1.5488e-07 psnr=160.6571
+Compression_time=0.015243
+Decompression_time=0.050161
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=8780352 ratio=11.389 rate=2.81 rmse=9.991e-13 nrmse=1.1805e-09 maxe=2.9104e-11 maxre=3.4387e-08 psnr=178.5586
+Compression_time=0.018431
+Decompression_time=0.052538
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=10181584 ratio=9.8217 rate=3.258 rmse=1.49e-13 nrmse=1.76e-10 maxe=2.9104e-11 maxre=3.4387e-08 psnr=195.0896
+Compression_time=0.017584
+Decompression_time=0.058311
+../data/Hurricane/QICEf48.log10.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QICEf48.log10.bin.f32 -3 500 500 100 -s -a 1.868306e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4100968 ratio=24.384 rate=1.312 rmse=0.01787 nrmse=0.0009566 maxe=0.29124 maxre=0.015588 psnr=60.3854
+Compression_time=0.017737
+Decompression_time=0.069172
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5686304 ratio=17.586 rate=1.82 rmse=0.002085 nrmse=0.00011161 maxe=0.037049 maxre=0.001983 psnr=79.0460
+Compression_time=0.017813
+Decompression_time=0.066833
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7368416 ratio=13.571 rate=2.358 rmse=0.0002849 nrmse=1.5247e-05 maxe=0.0044751 maxre=0.00023953 psnr=96.3363
+Compression_time=0.020602
+Decompression_time=0.070130
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=9665752 ratio=10.346 rate=3.093 rmse=1.706e-05 nrmse=9.131e-07 maxe=0.00031853 maxre=1.7049e-05 psnr=120.7896
+Compression_time=0.022275
+Decompression_time=0.071776
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=11400848 ratio=8.7713 rate=3.648 rmse=2.128e-06 nrmse=1.1393e-07 maxe=4.5776e-05 maxre=2.4502e-06 psnr=138.8676
+Compression_time=0.019901
+Decompression_time=0.069684
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=13137200 ratio=7.612 rate=4.204 rmse=2.843e-07 nrmse=1.5217e-08 maxe=5.722e-06 maxre=3.0627e-07 psnr=156.3533
+Compression_time=0.024033
+Decompression_time=0.070907
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15004448 ratio=6.6647 rate=4.801 rmse=2.443e-08 nrmse=1.3075e-09 maxe=9.5367e-07 maxre=5.1045e-08 psnr=177.6710
+Compression_time=0.022755
+Decompression_time=0.070176
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15129152 ratio=6.6098 rate=4.841 rmse=2.413e-08 nrmse=1.2915e-09 maxe=9.5367e-07 maxre=5.1045e-08 psnr=177.7784
+Compression_time=0.026001
+Decompression_time=0.069818
+../data/Hurricane/QRAINf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QRAINf48.bin.f32 -3 500 500 100 -s -a 6.334646e-04 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=279648 ratio=357.59 rate=0.08949 rmse=2.915e-06 nrmse=0.00046016 maxe=0.00011635 maxre=0.018367 psnr=66.7418
+Compression_time=0.007340
+Decompression_time=0.033172
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=680432 ratio=146.97 rate=0.2177 rmse=5.435e-07 nrmse=8.58e-05 maxe=1.5765e-05 maxre=0.0024888 psnr=81.3303
+Compression_time=0.010080
+Decompression_time=0.038156
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1554128 ratio=64.345 rate=0.4973 rmse=4.564e-08 nrmse=7.2041e-06 maxe=9.8468e-07 maxre=0.00015544 psnr=102.8484
+Compression_time=0.013475
+Decompression_time=0.041920
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2483688 ratio=40.263 rate=0.7948 rmse=6.609e-09 nrmse=1.0433e-06 maxe=1.3027e-07 maxre=2.0564e-05 psnr=119.6320
+Compression_time=0.018540
+Decompression_time=0.048525
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=3707920 ratio=26.969 rate=1.187 rmse=9.601e-10 nrmse=1.5157e-07 maxe=1.7021e-08 maxre=2.687e-06 psnr=136.3879
+Compression_time=0.019644
+Decompression_time=0.054716
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=6479344 ratio=15.434 rate=2.073 rmse=8.386e-11 nrmse=1.3239e-08 maxe=1.0211e-09 maxre=1.6119e-07 psnr=157.5630
+Compression_time=0.026835
+Decompression_time=0.069523
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=10036136 ratio=9.964 rate=3.212 rmse=1.31e-11 nrmse=2.0684e-09 maxe=2.3283e-10 maxre=3.6755e-08 psnr=173.6874
+Compression_time=0.028088
+Decompression_time=0.084235
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15026936 ratio=6.6547 rate=4.809 rmse=2.012e-12 nrmse=3.1762e-10 maxe=2.3283e-10 maxre=3.6755e-08 psnr=189.9617
+Compression_time=0.027485
+Decompression_time=0.099671
+../data/Hurricane/QRAINf48.log10.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QRAINf48.log10.bin.f32 -3 500 500 100 -s -a 3.573139e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=9366800 ratio=10.676 rate=2.997 rmse=0.06045 nrmse=0.0016918 maxe=0.57722 maxre=0.016155 psnr=55.4331
+Compression_time=0.027280
+Decompression_time=0.093210
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15320144 ratio=6.5274 rate=4.902 rmse=0.008929 nrmse=0.00024989 maxe=0.070011 maxre=0.0019594 psnr=72.0451
+Compression_time=0.034782
+Decompression_time=0.110479
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=22850768 ratio=4.3762 rate=7.312 rmse=0.001252 nrmse=3.5047e-05 maxe=0.008647 maxre=0.000242 psnr=89.1069
+Compression_time=0.039011
+Decompression_time=0.125918
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=34619640 ratio=2.8885 rate=11.08 rmse=8.411e-05 nrmse=2.3539e-06 maxe=0.00053978 maxre=1.5107e-05 psnr=112.5643
+Compression_time=0.048368
+Decompression_time=0.142556
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=43925304 ratio=2.2766 rate=14.06 rmse=1.064e-05 nrmse=2.9776e-07 maxe=6.8665e-05 maxre=1.9217e-06 psnr=130.5226
+Compression_time=0.052913
+Decompression_time=0.147648
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=53287400 ratio=1.8766 rate=17.05 rmse=1.382e-06 nrmse=3.8686e-08 maxe=9.5367e-06 maxre=2.669e-07 psnr=148.2490
+Compression_time=0.057095
+Decompression_time=0.151018
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=64853592 ratio=1.5419 rate=20.75 rmse=1.064e-07 nrmse=2.9767e-09 maxe=1.9073e-06 maxre=5.338e-08 psnr=170.5252
+Compression_time=0.076318
+Decompression_time=0.152403
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=66970672 ratio=1.4932 rate=21.43 rmse=1.018e-07 nrmse=2.8493e-09 maxe=1.9073e-06 maxre=5.338e-08 psnr=170.9053
+Compression_time=0.064945
+Decompression_time=0.149979
+../data/Hurricane/QSNOWf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QSNOWf48.bin.f32 -3 500 500 100 -s -a 8.560261e-05 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=418832 ratio=238.76 rate=0.134 rmse=4.955e-07 nrmse=0.00057889 maxe=1.4245e-05 maxre=0.016641 psnr=64.7480
+Compression_time=0.006583
+Decompression_time=0.038434
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1068360 ratio=93.601 rate=0.3419 rmse=9.026e-08 nrmse=0.00010544 maxe=2.0232e-06 maxre=0.0023635 psnr=79.5398
+Compression_time=0.008397
+Decompression_time=0.042369
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2656864 ratio=37.638 rate=0.8502 rmse=7.767e-09 nrmse=9.0734e-06 maxe=1.299e-07 maxre=0.00015175 psnr=100.8446
+Compression_time=0.013356
+Decompression_time=0.056404
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4549336 ratio=21.981 rate=1.456 rmse=1.197e-09 nrmse=1.3989e-06 maxe=1.5297e-08 maxre=1.787e-05 psnr=117.0846
+Compression_time=0.016449
+Decompression_time=0.066235
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7511480 ratio=13.313 rate=2.404 rmse=1.899e-10 nrmse=2.2181e-07 maxe=1.9527e-09 maxre=2.2811e-06 psnr=133.0803
+Compression_time=0.021044
+Decompression_time=0.088928
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=13949328 ratio=7.1688 rate=4.464 rmse=1.551e-11 nrmse=1.8117e-08 maxe=1.2775e-10 maxre=1.4923e-07 psnr=154.8381
+Compression_time=0.029044
+Decompression_time=0.103128
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=20712504 ratio=4.828 rate=6.628 rmse=2.197e-12 nrmse=2.5659e-09 maxe=2.9104e-11 maxre=3.3999e-08 psnr=171.8150
+Compression_time=0.034268
+Decompression_time=0.120788
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=28524960 ratio=3.5057 rate=9.128 rmse=2.981e-13 nrmse=3.4826e-10 maxe=2.9104e-11 maxre=3.3999e-08 psnr=189.1620
+Compression_time=0.036758
+Decompression_time=0.133510
+../data/Hurricane/QSNOWf48.log10.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QSNOWf48.log10.bin.f32 -3 500 500 100 -s -a 3.477967e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7448584 ratio=13.425 rate=2.384 rmse=0.05831 nrmse=0.0016767 maxe=0.57758 maxre=0.016607 psnr=55.5111
+Compression_time=0.023955
+Decompression_time=0.091092
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=13520688 ratio=7.3961 rate=4.327 rmse=0.009068 nrmse=0.00026072 maxe=0.07007 maxre=0.0020147 psnr=71.6764
+Compression_time=0.033334
+Decompression_time=0.110833
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=21326848 ratio=4.6889 rate=6.825 rmse=0.001273 nrmse=3.6592e-05 maxe=0.0090828 maxre=0.00026115 psnr=88.7324
+Compression_time=0.036677
+Decompression_time=0.128973
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=33227504 ratio=3.0096 rate=10.63 rmse=8.424e-05 nrmse=2.4221e-06 maxe=0.00056839 maxre=1.6343e-05 psnr=112.3162
+Compression_time=0.052510
+Decompression_time=0.148430
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=42537240 ratio=2.3509 rate=13.61 rmse=1.063e-05 nrmse=3.0568e-07 maxe=7.1526e-05 maxre=2.0565e-06 psnr=130.2947
+Compression_time=0.050810
+Decompression_time=0.148657
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=51898768 ratio=1.9268 rate=16.61 rmse=1.373e-06 nrmse=3.9475e-08 maxe=9.5367e-06 maxre=2.742e-07 psnr=148.0736
+Compression_time=0.058811
+Decompression_time=0.150583
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=63805568 ratio=1.5673 rate=20.42 rmse=9.271e-08 nrmse=2.6657e-09 maxe=1.9073e-06 maxre=5.4841e-08 psnr=171.4837
+Compression_time=0.067548
+Decompression_time=0.151846
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=66547528 ratio=1.5027 rate=21.3 rmse=8.567e-08 nrmse=2.4632e-09 maxe=1.9073e-06 maxre=5.4841e-08 psnr=172.1701
+Compression_time=0.068097
+Decompression_time=0.155162
+../data/Hurricane/QVAPORf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QVAPORf48.bin.f32 -3 500 500 100 -s -a 2.042072e-03 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1830712 ratio=54.624 rate=0.5858 rmse=3.324e-05 nrmse=0.0016277 maxe=0.0005846 maxre=0.028628 psnr=55.7686
+Compression_time=0.017825
+Decompression_time=0.061231
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5777872 ratio=17.307 rate=1.849 rmse=3.255e-06 nrmse=0.00015938 maxe=3.2723e-05 maxre=0.0016024 psnr=75.9515
+Compression_time=0.027898
+Decompression_time=0.086462
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=10644944 ratio=9.3941 rate=3.406 rmse=4.887e-07 nrmse=2.3932e-05 maxe=4.0811e-06 maxre=0.00019985 psnr=92.4203
+Compression_time=0.030296
+Decompression_time=0.099597
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=16949768 ratio=5.8998 rate=5.424 rmse=6.96e-08 nrmse=3.4085e-06 maxe=5.1584e-07 maxre=2.526e-05 psnr=109.3488
+Compression_time=0.029954
+Decompression_time=0.114186
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=27306320 ratio=3.6622 rate=8.738 rmse=4.864e-09 nrmse=2.3818e-07 maxe=3.2596e-08 maxre=1.5962e-06 psnr=132.4619
+Compression_time=0.045590
+Decompression_time=0.134759
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=36164400 ratio=2.7652 rate=11.57 rmse=6.378e-10 nrmse=3.1234e-08 maxe=4.191e-09 maxre=2.0523e-07 psnr=150.1076
+Compression_time=0.046171
+Decompression_time=0.144631
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=45402128 ratio=2.2025 rate=14.53 rmse=7.52e-11 nrmse=3.6825e-09 maxe=9.3132e-10 maxre=4.5607e-08 psnr=168.6771
+Compression_time=0.054808
+Decompression_time=0.151743
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=55670464 ratio=1.7963 rate=17.81 rmse=1.31e-11 nrmse=6.413e-10 maxe=9.3132e-10 maxre=4.5607e-08 psnr=183.8588
+Compression_time=0.060868
+Decompression_time=0.157534
+../data/Hurricane/TCf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/TCf48.bin.f32 -3 500 500 100 -s -a 1.062011e+01 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2068096 ratio=48.354 rate=0.6618 rmse=0.1172 nrmse=0.0011039 maxe=2.1426 maxre=0.020175 psnr=59.1413
+Compression_time=0.014453
+Decompression_time=0.068997
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4934408 ratio=20.266 rate=1.579 rmse=0.02694 nrmse=0.00025369 maxe=0.26053 maxre=0.0024532 psnr=71.9140
+Compression_time=0.021164
+Decompression_time=0.084697
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=13575344 ratio=7.3663 rate=4.344 rmse=0.002418 nrmse=2.2764e-05 maxe=0.017681 maxre=0.00016649 psnr=92.8552
+Compression_time=0.033687
+Decompression_time=0.117966
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=22268864 ratio=4.4906 rate=7.126 rmse=0.000327 nrmse=3.0792e-06 maxe=0.002121 maxre=1.9971e-05 psnr=110.2313
+Compression_time=0.044846
+Decompression_time=0.142859
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=31504624 ratio=3.1741 rate=10.08 rmse=4.159e-05 nrmse=3.9158e-07 maxe=0.00028992 maxre=2.7299e-06 psnr=128.1436
+Compression_time=0.050013
+Decompression_time=0.157145
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=43948928 ratio=2.2754 rate=14.06 rmse=2.771e-06 nrmse=2.6089e-08 maxe=1.7166e-05 maxre=1.6164e-07 psnr=151.6708
+Compression_time=0.057668
+Decompression_time=0.150954
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=53315168 ratio=1.8756 rate=17.06 rmse=2.297e-07 nrmse=2.1628e-09 maxe=3.8147e-06 maxre=3.592e-08 psnr=173.2995
+Compression_time=0.063335
+Decompression_time=0.161301
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=57895024 ratio=1.7273 rate=18.53 rmse=3.164e-08 nrmse=2.9797e-10 maxe=3.8147e-06 maxre=3.592e-08 psnr=190.5167
+Compression_time=0.068422
+Decompression_time=0.152045
+../data/Hurricane/Uf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/Uf48.bin.f32 -3 500 500 100 -s -a 9.258076e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1950592 ratio=51.266 rate=0.6242 rmse=0.1507 nrmse=0.0016274 maxe=1.9004 maxre=0.020527 psnr=55.7700
+Compression_time=0.016305
+Decompression_time=0.075196
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7678144 ratio=13.024 rate=2.457 rmse=0.01695 nrmse=0.00018309 maxe=0.13453 maxre=0.0014531 psnr=74.7465
+Compression_time=0.027937
+Decompression_time=0.107294
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15273896 ratio=6.5471 rate=4.888 rmse=0.00251 nrmse=2.7114e-05 maxe=0.017009 maxre=0.00018372 psnr=91.3361
+Compression_time=0.033638
+Decompression_time=0.131968
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=24198752 ratio=4.1324 rate=7.744 rmse=0.00033 nrmse=3.5643e-06 maxe=0.0021496 maxre=2.3218e-05 psnr=108.9605
+Compression_time=0.044817
+Decompression_time=0.149319
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=36584248 ratio=2.7334 rate=11.71 rmse=2.082e-05 nrmse=2.2484e-07 maxe=0.0001421 maxre=1.5348e-06 psnr=132.9626
+Compression_time=0.051883
+Decompression_time=0.157178
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=45908576 ratio=2.1782 rate=14.69 rmse=2.618e-06 nrmse=2.8279e-08 maxe=1.6689e-05 maxre=1.8027e-07 psnr=150.9708
+Compression_time=0.059334
+Decompression_time=0.158735
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=55244112 ratio=1.8101 rate=17.68 rmse=3.389e-07 nrmse=3.6602e-09 maxe=3.8147e-06 maxre=4.1204e-08 psnr=168.7299
+Compression_time=0.064460
+Decompression_time=0.162838
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=66100496 ratio=1.5128 rate=21.15 rmse=1.976e-08 nrmse=2.1346e-10 maxe=1.9073e-06 maxre=2.0602e-08 psnr=193.4137
+Compression_time=0.068316
+Decompression_time=0.160023
+../data/Hurricane/Vf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/Vf48.bin.f32 -3 500 500 100 -s -a 9.370042e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1944992 ratio=51.414 rate=0.6224 rmse=0.1485 nrmse=0.0015853 maxe=1.9707 maxre=0.021032 psnr=55.9975
+Compression_time=0.016285
+Decompression_time=0.070592
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7559312 ratio=13.229 rate=2.419 rmse=0.01688 nrmse=0.00018018 maxe=0.13457 maxre=0.0014361 psnr=74.8859
+Compression_time=0.027677
+Decompression_time=0.105113
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15105120 ratio=6.6203 rate=4.834 rmse=0.002504 nrmse=2.6728e-05 maxe=0.016976 maxre=0.00018117 psnr=91.4606
+Compression_time=0.037467
+Decompression_time=0.131488
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=24012728 ratio=4.1645 rate=7.684 rmse=0.0003297 nrmse=3.5185e-06 maxe=0.0021949 maxre=2.3424e-05 psnr=109.0728
+Compression_time=0.046851
+Decompression_time=0.150517
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=36391952 ratio=2.7479 rate=11.65 rmse=2.082e-05 nrmse=2.2216e-07 maxe=0.00013733 maxre=1.4656e-06 psnr=133.0669
+Compression_time=0.058494
+Decompression_time=0.160985
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=45716224 ratio=2.1874 rate=14.63 rmse=2.623e-06 nrmse=2.7998e-08 maxe=1.7643e-05 maxre=1.8829e-07 psnr=151.0575
+Compression_time=0.062065
+Decompression_time=0.158265
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=55054096 ratio=1.8164 rate=17.62 rmse=3.304e-07 nrmse=3.5257e-09 maxe=3.8147e-06 maxre=4.0712e-08 psnr=169.0552
+Compression_time=0.070225
+Decompression_time=0.160808
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=65291536 ratio=1.5316 rate=20.89 rmse=2.054e-08 nrmse=2.1917e-10 maxe=1.9073e-06 maxre=2.0356e-08 psnr=193.1845
+Compression_time=0.068306
+Decompression_time=0.159994
+../data/Hurricane/Wf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/Wf48.bin.f32 -3 500 500 100 -s -a 1.657436e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2403040 ratio=41.614 rate=0.769 rmse=0.02106 nrmse=0.0012705 maxe=0.24143 maxre=0.014567 psnr=57.9208
+Compression_time=0.016389
+Decompression_time=0.080722
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7714304 ratio=12.963 rate=2.469 rmse=0.003954 nrmse=0.00023858 maxe=0.033706 maxre=0.0020336 psnr=72.4473
+Compression_time=0.026271
+Decompression_time=0.103230
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15415072 ratio=6.4872 rate=4.933 rmse=0.0006078 nrmse=3.6672e-05 maxe=0.0045764 maxre=0.00027611 psnr=88.7132
+Compression_time=0.035183
+Decompression_time=0.123293
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=27335672 ratio=3.6582 rate=8.747 rmse=4.124e-05 nrmse=2.488e-06 maxe=0.0002869 maxre=1.731e-05 psnr=112.0830
+Compression_time=0.040915
+Decompression_time=0.143309
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=36624272 ratio=2.7304 rate=11.72 rmse=5.198e-06 nrmse=3.1361e-07 maxe=3.6427e-05 maxre=2.1978e-06 psnr=130.0723
+Compression_time=0.052429
+Decompression_time=0.149442
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=45946896 ratio=2.1764 rate=14.7 rmse=6.505e-07 nrmse=3.9245e-08 maxe=4.3623e-06 maxre=2.632e-07 psnr=148.1243
+Compression_time=0.053268
+Decompression_time=0.148310
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=58380312 ratio=1.7129 rate=18.68 rmse=4.105e-08 nrmse=2.4768e-09 maxe=4.7684e-07 maxre=2.877e-08 psnr=172.1223
+Compression_time=0.064327
+Decompression_time=0.149411
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=67701936 ratio=1.4771 rate=21.66 rmse=5.515e-09 nrmse=3.3277e-10 maxe=4.7684e-07 maxre=2.877e-08 psnr=189.5572
+Compression_time=0.066702
+Decompression_time=0.148659
+../data/Hurricane/CLOUDf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/CLOUDf48.bin.f32 -3 500 500 100 -s -a 2.047953e-04 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1207176 ratio=82.838 rate=0.3863 rmse=1.644e-06 nrmse=0.00080299 maxe=3.5763e-05 maxre=0.017463 psnr=61.9058
+Compression_time=0.010967
+Decompression_time=0.044334
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2515648 ratio=39.751 rate=0.805 rmse=2.522e-07 nrmse=0.00012313 maxe=4.1723e-06 maxre=0.0020373 psnr=78.1928
+Compression_time=0.013448
+Decompression_time=0.049684
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4201120 ratio=23.803 rate=1.344 rmse=3.565e-08 nrmse=1.7406e-05 maxe=7.1712e-07 maxre=0.00035016 psnr=95.1858
+Compression_time=0.015384
+Decompression_time=0.052081
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=6821960 ratio=14.659 rate=2.183 rmse=2.401e-09 nrmse=1.1722e-06 maxe=3.4762e-08 maxre=1.6974e-05 psnr=118.6197
+Compression_time=0.017830
+Decompression_time=0.064154
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=8902208 ratio=11.233 rate=2.849 rmse=3.045e-10 nrmse=1.4871e-07 maxe=5.3733e-09 maxre=2.6237e-06 psnr=136.5534
+Compression_time=0.019600
+Decompression_time=0.071056
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=11000776 ratio=9.0903 rate=3.52 rmse=3.819e-11 nrmse=1.8648e-08 maxe=5.7753e-10 maxre=2.82e-07 psnr=154.5872
+Compression_time=0.020611
+Decompression_time=0.058278
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=13801584 ratio=7.2455 rate=4.417 rmse=2.473e-12 nrmse=1.2074e-09 maxe=5.8208e-11 maxre=2.8422e-08 psnr=178.3628
+Compression_time=0.023371
+Decompression_time=0.056867
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15680672 ratio=6.3773 rate=5.018 rmse=7.051e-13 nrmse=3.443e-10 maxe=5.8208e-11 maxre=2.8422e-08 psnr=189.2613
+Compression_time=0.020204
+Decompression_time=0.056829
+../data/Hurricane/CLOUDf48.log10.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/CLOUDf48.log10.bin.f32 -3 500 500 100 -s -a 1.015203e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4841776 ratio=20.654 rate=1.549 rmse=0.01885 nrmse=0.0018566 maxe=0.31117 maxre=0.030651 psnr=54.6258
+Compression_time=0.019306
+Decompression_time=0.075541
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7760520 ratio=12.886 rate=2.483 rmse=0.00126 nrmse=0.00012415 maxe=0.020061 maxre=0.0019761 psnr=78.1210
+Compression_time=0.022755
+Decompression_time=0.073064
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=10054616 ratio=9.9457 rate=3.217 rmse=0.0001604 nrmse=1.5804e-05 maxe=0.0025272 maxre=0.00024894 psnr=96.0244
+Compression_time=0.024603
+Decompression_time=0.074877
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=12376816 ratio=8.0796 rate=3.961 rmse=2.046e-05 nrmse=2.0152e-06 maxe=0.00028324 maxre=2.79e-05 psnr=113.9136
+Compression_time=0.026469
+Decompression_time=0.079492
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15485144 ratio=6.4578 rate=4.955 rmse=1.267e-06 nrmse=1.2479e-07 maxe=1.8597e-05 maxre=1.8318e-06 psnr=138.0767
+Compression_time=0.028941
+Decompression_time=0.074584
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=17817408 ratio=5.6125 rate=5.702 rmse=1.694e-07 nrmse=1.6685e-08 maxe=2.861e-06 maxre=2.8182e-07 psnr=155.5534
+Compression_time=0.030066
+Decompression_time=0.074480
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=20149656 ratio=4.9629 rate=6.448 rmse=1.147e-08 nrmse=1.1295e-09 maxe=4.7684e-07 maxre=4.697e-08 psnr=178.9420
+Compression_time=0.030919
+Decompression_time=0.075109
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=20314952 ratio=4.9225 rate=6.501 rmse=1.042e-08 nrmse=1.0264e-09 maxe=4.7684e-07 maxre=4.697e-08 psnr=179.7736
+Compression_time=0.032417
+Decompression_time=0.074966
+../data/Hurricane/Pf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/Pf48.bin.f32 -3 500 500 100 -s -a 6.636139e+02 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1409624 ratio=70.941 rate=0.4511 rmse=6.382 nrmse=0.00096164 maxe=130.88 maxre=0.019722 psnr=60.3398
+Compression_time=0.014127
+Decompression_time=0.060937
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=3545176 ratio=28.207 rate=1.134 rmse=1.301 nrmse=0.00019609 maxe=16.187 maxre=0.0024393 psnr=74.1507
+Compression_time=0.019471
+Decompression_time=0.075299
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=10674816 ratio=9.3678 rate=3.416 rmse=0.1242 nrmse=1.872e-05 maxe=1.0983 maxre=0.0001655 psnr=94.5540
+Compression_time=0.029635
+Decompression_time=0.103200
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=18413232 ratio=5.4309 rate=5.892 rmse=0.01846 nrmse=2.7817e-06 maxe=0.13641 maxre=2.0556e-05 psnr=111.1139
+Compression_time=0.032654
+Decompression_time=0.119078
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=27190032 ratio=3.6778 rate=8.701 rmse=0.002575 nrmse=3.88e-07 maxe=0.017151 maxre=2.5845e-06 psnr=128.2233
+Compression_time=0.045325
+Decompression_time=0.130942
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=39535344 ratio=2.5294 rate=12.65 rmse=0.0001672 nrmse=2.5195e-08 maxe=0.0012207 maxre=1.8395e-07 psnr=151.9736
+Compression_time=0.056999
+Decompression_time=0.141600
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=48862312 ratio=2.0466 rate=15.64 rmse=2.094e-05 nrmse=3.1558e-09 maxe=0.00024414 maxre=3.679e-08 psnr=170.0178
+Compression_time=0.056069
+Decompression_time=0.141010
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=57742104 ratio=1.7318 rate=18.48 rmse=2.173e-06 nrmse=3.2749e-10 maxe=0.00012207 maxre=1.8395e-08 psnr=189.6960
+Compression_time=0.062399
+Decompression_time=0.140301
+../data/Hurricane/PRECIPf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/PRECIPf48.bin.f32 -3 500 500 100 -s -a 7.505861e-04 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=421824 ratio=237.07 rate=0.135 rmse=3.815e-06 nrmse=0.00050829 maxe=0.00011635 maxre=0.015501 psnr=65.8778
+Compression_time=0.007881
+Decompression_time=0.038580
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1157944 ratio=86.36 rate=0.3705 rmse=7.428e-07 nrmse=9.8959e-05 maxe=1.5765e-05 maxre=0.0021004 psnr=80.0909
+Compression_time=0.010505
+Decompression_time=0.052464
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2950400 ratio=33.894 rate=0.9441 rmse=6.612e-08 nrmse=8.809e-06 maxe=1.0374e-06 maxre=0.00013821 psnr=101.1015
+Compression_time=0.014604
+Decompression_time=0.051255
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5055632 ratio=19.78 rate=1.618 rmse=9.814e-09 nrmse=1.3075e-06 maxe=1.2852e-07 maxre=1.7123e-05 psnr=117.6713
+Compression_time=0.017755
+Decompression_time=0.067403
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7866528 ratio=12.712 rate=2.517 rmse=1.465e-09 nrmse=1.9517e-07 maxe=1.9765e-08 maxre=2.6333e-06 psnr=134.1919
+Compression_time=0.024230
+Decompression_time=0.080546
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=12001336 ratio=8.3324 rate=3.84 rmse=2.23e-10 nrmse=2.9712e-08 maxe=2.2756e-09 maxre=3.0317e-07 psnr=150.5413
+Compression_time=0.029961
+Decompression_time=0.094121
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=19888632 ratio=5.028 rate=6.364 rmse=1.685e-11 nrmse=2.2449e-09 maxe=2.3283e-10 maxre=3.102e-08 psnr=172.9762
+Compression_time=0.038820
+Decompression_time=0.114315
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=27273904 ratio=3.6665 rate=8.728 rmse=2.388e-12 nrmse=3.182e-10 maxe=2.3283e-10 maxre=3.102e-08 psnr=189.9460
+Compression_time=0.044934
+Decompression_time=0.128525
+../data/Hurricane/PRECIPf48.log10.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/PRECIPf48.log10.bin.f32 -3 500 500 100 -s -a 3.580139e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5729400 ratio=17.454 rate=1.833 rmse=0.05509 nrmse=0.0015387 maxe=0.57049 maxre=0.015935 psnr=56.2569
+Compression_time=0.023673
+Decompression_time=0.087850
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=11495064 ratio=8.6994 rate=3.678 rmse=0.008833 nrmse=0.00024672 maxe=0.06855 maxre=0.0019147 psnr=72.1560
+Compression_time=0.031844
+Decompression_time=0.108726
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=19110384 ratio=5.2328 rate=6.115 rmse=0.001258 nrmse=3.5133e-05 maxe=0.0087204 maxre=0.00024358 psnr=89.0858
+Compression_time=0.038799
+Decompression_time=0.126372
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=30929888 ratio=3.2331 rate=9.898 rmse=8.408e-05 nrmse=2.3485e-06 maxe=0.00057459 maxre=1.6049e-05 psnr=112.5840
+Compression_time=0.047363
+Decompression_time=0.146794
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=40232688 ratio=2.4855 rate=12.87 rmse=1.063e-05 nrmse=2.9683e-07 maxe=7.2479e-05 maxre=2.0245e-06 psnr=130.5498
+Compression_time=0.050611
+Decompression_time=0.150392
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=49594832 ratio=2.0163 rate=15.87 rmse=1.36e-06 nrmse=3.7993e-08 maxe=8.5831e-06 maxre=2.3974e-07 psnr=148.4060
+Compression_time=0.063359
+Decompression_time=0.151297
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=61921040 ratio=1.615 rate=19.81 rmse=6.744e-08 nrmse=1.8837e-09 maxe=1.9073e-06 maxre=5.3276e-08 psnr=174.4997
+Compression_time=0.062583
+Decompression_time=0.151643
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=65352840 ratio=1.5302 rate=20.91 rmse=4.934e-08 nrmse=1.3782e-09 maxe=1.9073e-06 maxre=5.3276e-08 psnr=177.2135
+Compression_time=0.067491
+Decompression_time=0.150004
+../data/Hurricane/QCLOUDf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QCLOUDf48.bin.f32 -3 500 500 100 -s -a 2.047953e-04 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=955952 ratio=104.61 rate=0.3059 rmse=1.422e-06 nrmse=0.00069411 maxe=3.5763e-05 maxre=0.017463 psnr=63.1714
+Compression_time=0.008576
+Decompression_time=0.036882
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1784008 ratio=56.054 rate=0.5709 rmse=1.987e-07 nrmse=9.7e-05 maxe=4.1723e-06 maxre=0.0020373 psnr=80.2646
+Compression_time=0.012847
+Decompression_time=0.041853
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2704584 ratio=36.974 rate=0.8655 rmse=2.6e-08 nrmse=1.2694e-05 maxe=7.1712e-07 maxre=0.00035016 psnr=97.9277
+Compression_time=0.013955
+Decompression_time=0.043825
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4008824 ratio=24.945 rate=1.283 rmse=1.675e-09 nrmse=8.1804e-07 maxe=3.4401e-08 maxre=1.6798e-05 psnr=121.7445
+Compression_time=0.015707
+Decompression_time=0.043398
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5009872 ratio=19.961 rate=1.603 rmse=2.114e-10 nrmse=1.0321e-07 maxe=5.3733e-09 maxre=2.6237e-06 psnr=139.7254
+Compression_time=0.016331
+Decompression_time=0.043640
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=6017832 ratio=16.617 rate=1.926 rmse=2.658e-11 nrmse=1.2978e-08 maxe=5.7753e-10 maxre=2.82e-07 psnr=157.7359
+Compression_time=0.016899
+Decompression_time=0.044290
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7422456 ratio=13.473 rate=2.375 rmse=1.797e-12 nrmse=8.7748e-10 maxe=5.8208e-11 maxre=2.8422e-08 psnr=181.1352
+Compression_time=0.018504
+Decompression_time=0.050038
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=8339640 ratio=11.991 rate=2.669 rmse=6.708e-13 nrmse=3.2753e-10 maxe=5.8208e-11 maxre=2.8422e-08 psnr=189.6951
+Compression_time=0.019372
+Decompression_time=0.048418
+../data/Hurricane/QCLOUDf48.log10.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QCLOUDf48.log10.bin.f32 -3 500 500 100 -s -a 3.510567e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4237352 ratio=23.6 rate=1.356 rmse=0.03431 nrmse=0.00097722 maxe=0.53377 maxre=0.015205 psnr=60.2001
+Compression_time=0.018979
+Decompression_time=0.063751
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5724224 ratio=17.47 rate=1.832 rmse=0.004159 nrmse=0.00011846 maxe=0.075481 maxre=0.0021501 psnr=78.5285
+Compression_time=0.016120
+Decompression_time=0.064234
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7238648 ratio=13.815 rate=2.316 rmse=0.0005053 nrmse=1.4395e-05 maxe=0.0097847 maxre=0.00027872 psnr=96.8360
+Compression_time=0.019249
+Decompression_time=0.064727
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=9264240 ratio=10.794 rate=2.965 rmse=3.6e-05 nrmse=1.0255e-06 maxe=0.00059891 maxre=1.706e-05 psnr=119.7811
+Compression_time=0.024161
+Decompression_time=0.068847
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=10784232 ratio=9.2728 rate=3.451 rmse=3.933e-06 nrmse=1.1204e-07 maxe=9.1553e-05 maxre=2.6079e-06 psnr=139.0127
+Compression_time=0.024512
+Decompression_time=0.069551
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=12304576 ratio=8.1271 rate=3.937 rmse=5.275e-07 nrmse=1.5027e-08 maxe=1.1444e-05 maxre=3.2599e-07 psnr=156.4627
+Compression_time=0.021838
+Decompression_time=0.065661
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=13858320 ratio=7.2159 rate=4.435 rmse=5.051e-08 nrmse=1.4389e-09 maxe=1.9073e-06 maxre=5.4332e-08 psnr=176.8396
+Compression_time=0.021831
+Decompression_time=0.065964
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=13931912 ratio=7.1778 rate=4.458 rmse=4.979e-08 nrmse=1.4182e-09 maxe=1.9073e-06 maxre=5.4332e-08 psnr=176.9651
+Compression_time=0.027590
+Decompression_time=0.066652
+../data/Hurricane/QGRAUPf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QGRAUPf48.bin.f32 -3 500 500 100 -s -a 7.295187e-04 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=162912 ratio=613.83 rate=0.05213 rmse=2.295e-06 nrmse=0.00031458 maxe=9.373e-05 maxre=0.012848 psnr=70.0453
+Compression_time=0.005252
+Decompression_time=0.033774
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=422872 ratio=236.48 rate=0.1353 rmse=4.593e-07 nrmse=6.2958e-05 maxe=1.4326e-05 maxre=0.0019637 psnr=84.0190
+Compression_time=0.005791
+Decompression_time=0.036622
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1112496 ratio=89.888 rate=0.356 rmse=4.117e-08 nrmse=5.6439e-06 maxe=9.7853e-07 maxre=0.00013413 psnr=104.9684
+Compression_time=0.008620
+Decompression_time=0.040152
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1926304 ratio=51.913 rate=0.6164 rmse=6.2e-09 nrmse=8.4992e-07 maxe=1.2502e-07 maxre=1.7137e-05 psnr=121.4124
+Compression_time=0.013338
+Decompression_time=0.043979
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=3072360 ratio=32.548 rate=0.9832 rmse=9.254e-10 nrmse=1.2685e-07 maxe=1.6458e-08 maxre=2.256e-06 psnr=137.9343
+Compression_time=0.013241
+Decompression_time=0.057152
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5890592 ratio=16.976 rate=1.885 rmse=8.533e-11 nrmse=1.1697e-08 maxe=1.0265e-09 maxre=1.4072e-07 psnr=158.6388
+Compression_time=0.018394
+Decompression_time=0.074682
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=9745552 ratio=10.261 rate=3.119 rmse=1.368e-11 nrmse=1.8757e-09 maxe=1.4938e-10 maxre=2.0477e-08 psnr=174.5366
+Compression_time=0.024892
+Decompression_time=0.089581
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15177512 ratio=6.5887 rate=4.857 rmse=2.021e-12 nrmse=2.7699e-10 maxe=1.4938e-10 maxre=2.0477e-08 psnr=191.1507
+Compression_time=0.027551
+Decompression_time=0.105648
+../data/Hurricane/QGRAUPf48.log10.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QGRAUPf48.log10.bin.f32 -3 500 500 100 -s -a 3.576564e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=8145480 ratio=12.277 rate=2.607 rmse=0.05859 nrmse=0.0016381 maxe=0.55394 maxre=0.015488 psnr=55.7133
+Compression_time=0.024697
+Decompression_time=0.090483
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=14077544 ratio=7.1035 rate=4.505 rmse=0.008989 nrmse=0.00025133 maxe=0.068401 maxre=0.0019125 psnr=71.9951
+Compression_time=0.032735
+Decompression_time=0.116839
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=21791880 ratio=4.5889 rate=6.973 rmse=0.001269 nrmse=3.5483e-05 maxe=0.0087299 maxre=0.00024409 psnr=88.9997
+Compression_time=0.041041
+Decompression_time=0.128439
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=33711736 ratio=2.9663 rate=10.79 rmse=8.44e-05 nrmse=2.3597e-06 maxe=0.00059605 maxre=1.6665e-05 psnr=112.5427
+Compression_time=0.047947
+Decompression_time=0.144690
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=43035128 ratio=2.3237 rate=13.77 rmse=1.065e-05 nrmse=2.9764e-07 maxe=7.0572e-05 maxre=1.9732e-06 psnr=130.5262
+Compression_time=0.053443
+Decompression_time=0.149383
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=52400064 ratio=1.9084 rate=16.77 rmse=1.381e-06 nrmse=3.8624e-08 maxe=9.5367e-06 maxre=2.6665e-07 psnr=148.2628
+Compression_time=0.071124
+Decompression_time=0.152963
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=64158544 ratio=1.5586 rate=20.53 rmse=9.594e-08 nrmse=2.6824e-09 maxe=1.9073e-06 maxre=5.3329e-08 psnr=171.4297
+Compression_time=0.066544
+Decompression_time=0.151799
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=66534296 ratio=1.503 rate=21.29 rmse=9.022e-08 nrmse=2.5226e-09 maxe=1.9073e-06 maxre=5.3329e-08 psnr=171.9632
+Compression_time=0.066759
+Decompression_time=0.152334
+../data/Hurricane/QICEf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QICEf48.bin.f32 -3 500 500 100 -s -a 8.463638e-05 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=478024 ratio=209.19 rate=0.153 rmse=5.229e-07 nrmse=0.00061786 maxe=1.4736e-05 maxre=0.017411 psnr=64.1822
+Compression_time=0.008124
+Decompression_time=0.041607
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1202968 ratio=83.128 rate=0.3849 rmse=9.418e-08 nrmse=0.00011128 maxe=1.8831e-06 maxre=0.002225 psnr=79.0717
+Compression_time=0.008346
+Decompression_time=0.042250
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2690536 ratio=37.167 rate=0.861 rmse=7.405e-09 nrmse=8.7486e-06 maxe=1.2491e-07 maxre=0.00014758 psnr=101.1612
+Compression_time=0.010088
+Decompression_time=0.044158
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4033624 ratio=24.792 rate=1.291 rmse=9.814e-10 nrmse=1.1596e-06 maxe=1.6313e-08 maxre=1.9274e-05 psnr=118.7141
+Compression_time=0.012109
+Decompression_time=0.048654
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5441704 ratio=18.377 rate=1.741 rmse=1.246e-10 nrmse=1.4725e-07 maxe=2.3174e-09 maxre=2.7381e-06 psnr=136.6390
+Compression_time=0.015645
+Decompression_time=0.050351
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7344928 ratio=13.615 rate=2.35 rmse=7.847e-12 nrmse=9.2713e-09 maxe=1.3108e-10 maxre=1.5488e-07 psnr=160.6571
+Compression_time=0.015854
+Decompression_time=0.050040
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=8780352 ratio=11.389 rate=2.81 rmse=9.991e-13 nrmse=1.1805e-09 maxe=2.9104e-11 maxre=3.4387e-08 psnr=178.5586
+Compression_time=0.018296
+Decompression_time=0.050238
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=10181584 ratio=9.8217 rate=3.258 rmse=1.49e-13 nrmse=1.76e-10 maxe=2.9104e-11 maxre=3.4387e-08 psnr=195.0896
+Compression_time=0.017635
+Decompression_time=0.049528
+../data/Hurricane/QICEf48.log10.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QICEf48.log10.bin.f32 -3 500 500 100 -s -a 1.868306e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4100968 ratio=24.384 rate=1.312 rmse=0.01787 nrmse=0.0009566 maxe=0.29124 maxre=0.015588 psnr=60.3854
+Compression_time=0.018049
+Decompression_time=0.064978
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5686304 ratio=17.586 rate=1.82 rmse=0.002085 nrmse=0.00011161 maxe=0.037049 maxre=0.001983 psnr=79.0460
+Compression_time=0.017460
+Decompression_time=0.068654
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7368416 ratio=13.571 rate=2.358 rmse=0.0002849 nrmse=1.5247e-05 maxe=0.0044751 maxre=0.00023953 psnr=96.3363
+Compression_time=0.019510
+Decompression_time=0.068725
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=9665752 ratio=10.346 rate=3.093 rmse=1.706e-05 nrmse=9.131e-07 maxe=0.00031853 maxre=1.7049e-05 psnr=120.7896
+Compression_time=0.021406
+Decompression_time=0.071196
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=11400848 ratio=8.7713 rate=3.648 rmse=2.128e-06 nrmse=1.1393e-07 maxe=4.5776e-05 maxre=2.4502e-06 psnr=138.8676
+Compression_time=0.022225
+Decompression_time=0.069421
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=13137200 ratio=7.612 rate=4.204 rmse=2.843e-07 nrmse=1.5217e-08 maxe=5.722e-06 maxre=3.0627e-07 psnr=156.3533
+Compression_time=0.025946
+Decompression_time=0.069671
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15004448 ratio=6.6647 rate=4.801 rmse=2.443e-08 nrmse=1.3075e-09 maxe=9.5367e-07 maxre=5.1045e-08 psnr=177.6710
+Compression_time=0.021730
+Decompression_time=0.068741
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15129152 ratio=6.6098 rate=4.841 rmse=2.413e-08 nrmse=1.2915e-09 maxe=9.5367e-07 maxre=5.1045e-08 psnr=177.7784
+Compression_time=0.028911
+Decompression_time=0.078881
+../data/Hurricane/QRAINf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QRAINf48.bin.f32 -3 500 500 100 -s -a 6.334646e-04 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=279648 ratio=357.59 rate=0.08949 rmse=2.915e-06 nrmse=0.00046016 maxe=0.00011635 maxre=0.018367 psnr=66.7418
+Compression_time=0.007589
+Decompression_time=0.036429
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=680432 ratio=146.97 rate=0.2177 rmse=5.435e-07 nrmse=8.58e-05 maxe=1.5765e-05 maxre=0.0024888 psnr=81.3303
+Compression_time=0.009171
+Decompression_time=0.034539
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1554128 ratio=64.345 rate=0.4973 rmse=4.564e-08 nrmse=7.2041e-06 maxe=9.8468e-07 maxre=0.00015544 psnr=102.8484
+Compression_time=0.013747
+Decompression_time=0.041137
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2483688 ratio=40.263 rate=0.7948 rmse=6.609e-09 nrmse=1.0433e-06 maxe=1.3027e-07 maxre=2.0564e-05 psnr=119.6320
+Compression_time=0.018224
+Decompression_time=0.054341
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=3707920 ratio=26.969 rate=1.187 rmse=9.601e-10 nrmse=1.5157e-07 maxe=1.7021e-08 maxre=2.687e-06 psnr=136.3879
+Compression_time=0.020362
+Decompression_time=0.054026
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=6479344 ratio=15.434 rate=2.073 rmse=8.386e-11 nrmse=1.3239e-08 maxe=1.0211e-09 maxre=1.6119e-07 psnr=157.5630
+Compression_time=0.027265
+Decompression_time=0.070339
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=10036136 ratio=9.964 rate=3.212 rmse=1.31e-11 nrmse=2.0684e-09 maxe=2.3283e-10 maxre=3.6755e-08 psnr=173.6874
+Compression_time=0.027003
+Decompression_time=0.086212
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15026936 ratio=6.6547 rate=4.809 rmse=2.012e-12 nrmse=3.1762e-10 maxe=2.3283e-10 maxre=3.6755e-08 psnr=189.9617
+Compression_time=0.037310
+Decompression_time=0.100602
+../data/Hurricane/QRAINf48.log10.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QRAINf48.log10.bin.f32 -3 500 500 100 -s -a 3.573139e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=9366800 ratio=10.676 rate=2.997 rmse=0.06045 nrmse=0.0016918 maxe=0.57722 maxre=0.016155 psnr=55.4331
+Compression_time=0.027346
+Decompression_time=0.093257
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15320144 ratio=6.5274 rate=4.902 rmse=0.008929 nrmse=0.00024989 maxe=0.070011 maxre=0.0019594 psnr=72.0451
+Compression_time=0.034653
+Decompression_time=0.108291
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=22850768 ratio=4.3762 rate=7.312 rmse=0.001252 nrmse=3.5047e-05 maxe=0.008647 maxre=0.000242 psnr=89.1069
+Compression_time=0.043222
+Decompression_time=0.125770
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=34619640 ratio=2.8885 rate=11.08 rmse=8.411e-05 nrmse=2.3539e-06 maxe=0.00053978 maxre=1.5107e-05 psnr=112.5643
+Compression_time=0.049468
+Decompression_time=0.142538
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=43925304 ratio=2.2766 rate=14.06 rmse=1.064e-05 nrmse=2.9776e-07 maxe=6.8665e-05 maxre=1.9217e-06 psnr=130.5226
+Compression_time=0.051737
+Decompression_time=0.149770
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=53287400 ratio=1.8766 rate=17.05 rmse=1.382e-06 nrmse=3.8686e-08 maxe=9.5367e-06 maxre=2.669e-07 psnr=148.2490
+Compression_time=0.061630
+Decompression_time=0.150064
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=64853592 ratio=1.5419 rate=20.75 rmse=1.064e-07 nrmse=2.9767e-09 maxe=1.9073e-06 maxre=5.338e-08 psnr=170.5252
+Compression_time=0.063453
+Decompression_time=0.154753
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=66970672 ratio=1.4932 rate=21.43 rmse=1.018e-07 nrmse=2.8493e-09 maxe=1.9073e-06 maxre=5.338e-08 psnr=170.9053
+Compression_time=0.068771
+Decompression_time=0.151822
+../data/Hurricane/QSNOWf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QSNOWf48.bin.f32 -3 500 500 100 -s -a 8.560261e-05 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=418832 ratio=238.76 rate=0.134 rmse=4.955e-07 nrmse=0.00057889 maxe=1.4245e-05 maxre=0.016641 psnr=64.7480
+Compression_time=0.006526
+Decompression_time=0.038067
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1068360 ratio=93.601 rate=0.3419 rmse=9.026e-08 nrmse=0.00010544 maxe=2.0232e-06 maxre=0.0023635 psnr=79.5398
+Compression_time=0.008107
+Decompression_time=0.038730
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2656864 ratio=37.638 rate=0.8502 rmse=7.767e-09 nrmse=9.0734e-06 maxe=1.299e-07 maxre=0.00015175 psnr=100.8446
+Compression_time=0.012612
+Decompression_time=0.052552
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4549336 ratio=21.981 rate=1.456 rmse=1.197e-09 nrmse=1.3989e-06 maxe=1.5297e-08 maxre=1.787e-05 psnr=117.0846
+Compression_time=0.016790
+Decompression_time=0.065816
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7511480 ratio=13.313 rate=2.404 rmse=1.899e-10 nrmse=2.2181e-07 maxe=1.9527e-09 maxre=2.2811e-06 psnr=133.0803
+Compression_time=0.021238
+Decompression_time=0.081307
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=13949328 ratio=7.1688 rate=4.464 rmse=1.551e-11 nrmse=1.8117e-08 maxe=1.2775e-10 maxre=1.4923e-07 psnr=154.8381
+Compression_time=0.028518
+Decompression_time=0.103683
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=20712504 ratio=4.828 rate=6.628 rmse=2.197e-12 nrmse=2.5659e-09 maxe=2.9104e-11 maxre=3.3999e-08 psnr=171.8150
+Compression_time=0.038482
+Decompression_time=0.129144
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=28524960 ratio=3.5057 rate=9.128 rmse=2.981e-13 nrmse=3.4826e-10 maxe=2.9104e-11 maxre=3.3999e-08 psnr=189.1620
+Compression_time=0.042879
+Decompression_time=0.138299
+../data/Hurricane/QSNOWf48.log10.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QSNOWf48.log10.bin.f32 -3 500 500 100 -s -a 3.477967e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7448584 ratio=13.425 rate=2.384 rmse=0.05831 nrmse=0.0016767 maxe=0.57758 maxre=0.016607 psnr=55.5111
+Compression_time=0.024476
+Decompression_time=0.119450
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=13520688 ratio=7.3961 rate=4.327 rmse=0.009068 nrmse=0.00026072 maxe=0.07007 maxre=0.0020147 psnr=71.6764
+Compression_time=0.033778
+Decompression_time=0.111578
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=21326848 ratio=4.6889 rate=6.825 rmse=0.001273 nrmse=3.6592e-05 maxe=0.0090828 maxre=0.00026115 psnr=88.7324
+Compression_time=0.040038
+Decompression_time=0.127623
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=33227504 ratio=3.0096 rate=10.63 rmse=8.424e-05 nrmse=2.4221e-06 maxe=0.00056839 maxre=1.6343e-05 psnr=112.3162
+Compression_time=0.043380
+Decompression_time=0.145999
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=42537240 ratio=2.3509 rate=13.61 rmse=1.063e-05 nrmse=3.0568e-07 maxe=7.1526e-05 maxre=2.0565e-06 psnr=130.2947
+Compression_time=0.054332
+Decompression_time=0.149607
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=51898768 ratio=1.9268 rate=16.61 rmse=1.373e-06 nrmse=3.9475e-08 maxe=9.5367e-06 maxre=2.742e-07 psnr=148.0736
+Compression_time=0.056112
+Decompression_time=0.150500
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=63805568 ratio=1.5673 rate=20.42 rmse=9.271e-08 nrmse=2.6657e-09 maxe=1.9073e-06 maxre=5.4841e-08 psnr=171.4837
+Compression_time=0.067088
+Decompression_time=0.151996
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=66547528 ratio=1.5027 rate=21.3 rmse=8.567e-08 nrmse=2.4632e-09 maxe=1.9073e-06 maxre=5.4841e-08 psnr=172.1701
+Compression_time=0.068726
+Decompression_time=0.151314
+../data/Hurricane/QVAPORf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/QVAPORf48.bin.f32 -3 500 500 100 -s -a 2.042072e-03 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1830712 ratio=54.624 rate=0.5858 rmse=3.324e-05 nrmse=0.0016277 maxe=0.0005846 maxre=0.028628 psnr=55.7686
+Compression_time=0.016113
+Decompression_time=0.056883
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=5777872 ratio=17.307 rate=1.849 rmse=3.255e-06 nrmse=0.00015938 maxe=3.2723e-05 maxre=0.0016024 psnr=75.9515
+Compression_time=0.026056
+Decompression_time=0.083036
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=10644944 ratio=9.3941 rate=3.406 rmse=4.887e-07 nrmse=2.3932e-05 maxe=4.0811e-06 maxre=0.00019985 psnr=92.4203
+Compression_time=0.030450
+Decompression_time=0.099381
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=16949768 ratio=5.8998 rate=5.424 rmse=6.96e-08 nrmse=3.4085e-06 maxe=5.1584e-07 maxre=2.526e-05 psnr=109.3488
+Compression_time=0.029689
+Decompression_time=0.113726
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=27306320 ratio=3.6622 rate=8.738 rmse=4.864e-09 nrmse=2.3818e-07 maxe=3.2596e-08 maxre=1.5962e-06 psnr=132.4619
+Compression_time=0.045389
+Decompression_time=0.135033
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=36164400 ratio=2.7652 rate=11.57 rmse=6.378e-10 nrmse=3.1234e-08 maxe=4.191e-09 maxre=2.0523e-07 psnr=150.1076
+Compression_time=0.050308
+Decompression_time=0.144615
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=45402128 ratio=2.2025 rate=14.53 rmse=7.52e-11 nrmse=3.6825e-09 maxe=9.3132e-10 maxre=4.5607e-08 psnr=168.6771
+Compression_time=0.056241
+Decompression_time=0.151879
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=55670464 ratio=1.7963 rate=17.81 rmse=1.31e-11 nrmse=6.413e-10 maxe=9.3132e-10 maxre=4.5607e-08 psnr=183.8588
+Compression_time=0.062404
+Decompression_time=0.154164
+../data/Hurricane/TCf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/TCf48.bin.f32 -3 500 500 100 -s -a 1.062011e+01 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2068096 ratio=48.354 rate=0.6618 rmse=0.1172 nrmse=0.0011039 maxe=2.1426 maxre=0.020175 psnr=59.1413
+Compression_time=0.014324
+Decompression_time=0.058855
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=4934408 ratio=20.266 rate=1.579 rmse=0.02694 nrmse=0.00025369 maxe=0.26053 maxre=0.0024532 psnr=71.9140
+Compression_time=0.021508
+Decompression_time=0.083664
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=13575344 ratio=7.3663 rate=4.344 rmse=0.002418 nrmse=2.2764e-05 maxe=0.017681 maxre=0.00016649 psnr=92.8552
+Compression_time=0.029854
+Decompression_time=0.117205
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=22268864 ratio=4.4906 rate=7.126 rmse=0.000327 nrmse=3.0792e-06 maxe=0.002121 maxre=1.9971e-05 psnr=110.2313
+Compression_time=0.042974
+Decompression_time=0.137493
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=31504624 ratio=3.1741 rate=10.08 rmse=4.159e-05 nrmse=3.9158e-07 maxe=0.00028992 maxre=2.7299e-06 psnr=128.1436
+Compression_time=0.045093
+Decompression_time=0.146240
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=43948928 ratio=2.2754 rate=14.06 rmse=2.771e-06 nrmse=2.6089e-08 maxe=1.7166e-05 maxre=1.6164e-07 psnr=151.6708
+Compression_time=0.056163
+Decompression_time=0.152161
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=53315168 ratio=1.8756 rate=17.06 rmse=2.297e-07 nrmse=2.1628e-09 maxe=3.8147e-06 maxre=3.592e-08 psnr=173.2995
+Compression_time=0.057975
+Decompression_time=0.151191
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=57895024 ratio=1.7273 rate=18.53 rmse=3.164e-08 nrmse=2.9797e-10 maxe=3.8147e-06 maxre=3.592e-08 psnr=190.5167
+Compression_time=0.063954
+Decompression_time=0.150010
+../data/Hurricane/Uf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/Uf48.bin.f32 -3 500 500 100 -s -a 9.258076e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1950592 ratio=51.266 rate=0.6242 rmse=0.1507 nrmse=0.0016274 maxe=1.9004 maxre=0.020527 psnr=55.7700
+Compression_time=0.015813
+Decompression_time=0.071158
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7678144 ratio=13.024 rate=2.457 rmse=0.01695 nrmse=0.00018309 maxe=0.13453 maxre=0.0014531 psnr=74.7465
+Compression_time=0.026338
+Decompression_time=0.111174
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15273896 ratio=6.5471 rate=4.888 rmse=0.00251 nrmse=2.7114e-05 maxe=0.017009 maxre=0.00018372 psnr=91.3361
+Compression_time=0.031715
+Decompression_time=0.130624
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=24198752 ratio=4.1324 rate=7.744 rmse=0.00033 nrmse=3.5643e-06 maxe=0.0021496 maxre=2.3218e-05 psnr=108.9605
+Compression_time=0.043685
+Decompression_time=0.147456
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=36584248 ratio=2.7334 rate=11.71 rmse=2.082e-05 nrmse=2.2484e-07 maxe=0.0001421 maxre=1.5348e-06 psnr=132.9626
+Compression_time=0.048431
+Decompression_time=0.159168
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=45908576 ratio=2.1782 rate=14.69 rmse=2.618e-06 nrmse=2.8279e-08 maxe=1.6689e-05 maxre=1.8027e-07 psnr=150.9708
+Compression_time=0.053529
+Decompression_time=0.158492
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=55244112 ratio=1.8101 rate=17.68 rmse=3.389e-07 nrmse=3.6602e-09 maxe=3.8147e-06 maxre=4.1204e-08 psnr=168.7299
+Compression_time=0.064727
+Decompression_time=0.160876
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=66100496 ratio=1.5128 rate=21.15 rmse=1.976e-08 nrmse=2.1346e-10 maxe=1.9073e-06 maxre=2.0602e-08 psnr=193.4137
+Compression_time=0.071775
+Decompression_time=0.160503
+../data/Hurricane/Vf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/Vf48.bin.f32 -3 500 500 100 -s -a 9.370042e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=1944992 ratio=51.414 rate=0.6224 rmse=0.1485 nrmse=0.0015853 maxe=1.9707 maxre=0.021032 psnr=55.9975
+Compression_time=0.016324
+Decompression_time=0.069143
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7559312 ratio=13.229 rate=2.419 rmse=0.01688 nrmse=0.00018018 maxe=0.13457 maxre=0.0014361 psnr=74.8859
+Compression_time=0.027323
+Decompression_time=0.105288
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15105120 ratio=6.6203 rate=4.834 rmse=0.002504 nrmse=2.6728e-05 maxe=0.016976 maxre=0.00018117 psnr=91.4606
+Compression_time=0.036372
+Decompression_time=0.134370
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=24012728 ratio=4.1645 rate=7.684 rmse=0.0003297 nrmse=3.5185e-06 maxe=0.0021949 maxre=2.3424e-05 psnr=109.0728
+Compression_time=0.039063
+Decompression_time=0.146720
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=36391952 ratio=2.7479 rate=11.65 rmse=2.082e-05 nrmse=2.2216e-07 maxe=0.00013733 maxre=1.4656e-06 psnr=133.0669
+Compression_time=0.051933
+Decompression_time=0.159355
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=45716224 ratio=2.1874 rate=14.63 rmse=2.623e-06 nrmse=2.7998e-08 maxe=1.7643e-05 maxre=1.8829e-07 psnr=151.0575
+Compression_time=0.054727
+Decompression_time=0.158580
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=55054096 ratio=1.8164 rate=17.62 rmse=3.304e-07 nrmse=3.5257e-09 maxe=3.8147e-06 maxre=4.0712e-08 psnr=169.0552
+Compression_time=0.063728
+Decompression_time=0.159303
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=65291536 ratio=1.5316 rate=20.89 rmse=2.054e-08 nrmse=2.1917e-10 maxe=1.9073e-06 maxre=2.0356e-08 psnr=193.1845
+Compression_time=0.069024
+Decompression_time=0.160315
+../data/Hurricane/Wf48.bin.f32
+../ZFP-X/bin/zfp -f -i ../data/Hurricane/Wf48.bin.f32 -3 500 500 100 -s -a 1.657436e+00 -x omp=10,
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=2403040 ratio=41.614 rate=0.769 rmse=0.02106 nrmse=0.0012705 maxe=0.24143 maxre=0.014567 psnr=57.9208
+Compression_time=0.016385
+Decompression_time=0.079800
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=7714304 ratio=12.963 rate=2.469 rmse=0.003954 nrmse=0.00023858 maxe=0.033706 maxre=0.0020336 psnr=72.4473
+Compression_time=0.023987
+Decompression_time=0.103929
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=15415072 ratio=6.4872 rate=4.933 rmse=0.0006078 nrmse=3.6672e-05 maxe=0.0045764 maxre=0.00027611 psnr=88.7132
+Compression_time=0.034795
+Decompression_time=0.124694
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=27335672 ratio=3.6582 rate=8.747 rmse=4.124e-05 nrmse=2.488e-06 maxe=0.0002869 maxre=1.731e-05 psnr=112.0830
+Compression_time=0.040625
+Decompression_time=0.142032
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=36624272 ratio=2.7304 rate=11.72 rmse=5.198e-06 nrmse=3.1361e-07 maxe=3.6427e-05 maxre=2.1978e-06 psnr=130.0723
+Compression_time=0.051773
+Decompression_time=0.147996
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=45946896 ratio=2.1764 rate=14.7 rmse=6.505e-07 nrmse=3.9245e-08 maxe=4.3623e-06 maxre=2.632e-07 psnr=148.1243
+Compression_time=0.056244
+Decompression_time=0.149882
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=58380312 ratio=1.7129 rate=18.68 rmse=4.105e-08 nrmse=2.4768e-09 maxe=4.7684e-07 maxre=2.877e-08 psnr=172.1223
+Compression_time=0.059896
+Decompression_time=0.148088
+type=float nx=500 ny=500 nz=100 nw=1 raw=100000000 zfp=67701936 ratio=1.4771 rate=21.66 rmse=5.515e-09 nrmse=3.3277e-10 maxe=4.7684e-07 maxre=2.877e-08 psnr=189.5572
+Compression_time=0.068605
+Decompression_time=0.148401

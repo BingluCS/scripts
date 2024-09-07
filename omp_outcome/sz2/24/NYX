@@ -1,0 +1,1782 @@
+../data/NYX/baryon_density.f32
+../SZ/example/sz -z ../com_data/sz2/NYX/baryon_density.f32.sz -f -i ../data/NYX/baryon_density.f32 -3 512 512 512 -M ABS -A 1.158622e+04 -k
+../SZ/example/sz -x -f -i ../data/NYX/baryon_density.f32 -3 512 512 512 -s ../com_data/sz2/NYX/baryon_density.f32.sz -a -k
+outSize=16777746
+compression time = 0.200385
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 11577.6679687500
+Max relative error = 0.099926
+Max pw relative error = 54.543800
+PSNR = 79.897260, NRMSE= 0.00010118985688473470012
+acEff=0.874637
+compressionRatio=31.998989
+decompression time = 0.107007 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+outSize=16778797
+compression time = 0.168224
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 1158.4105224609
+Max relative error = 0.009998
+Max pw relative error = 17044.291942
+PSNR = 62.322930, NRMSE= 0.00076533843391413981794
+acEff=0.255200
+compressionRatio=31.996985
+decompression time = 0.112288 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+outSize=16788407
+compression time = 0.168337
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 115.8621902466
+Max relative error = 0.001000
+Max pw relative error = 1230.403292
+PSNR = 76.309090, NRMSE= 0.00015294859443950464557
+acEff=0.803799
+compressionRatio=31.978669
+decompression time = 0.101760 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+outSize=16976390
+compression time = 0.165154
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 11.5862197876
+Max relative error = 0.000100
+Max pw relative error = 148.891687
+PSNR = 89.434060, NRMSE= 3.3751804550727536E-05
+acEff=0.987056
+compressionRatio=31.624563
+decompression time = 0.103996 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+outSize=18619403
+compression time = 0.174481
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 1.1586220264
+Max relative error = 0.000010
+Max pw relative error = 17.287602
+PSNR = 105.936448, NRMSE= 5.0486768888279675682E-06
+acEff=0.999703
+compressionRatio=28.833949
+decompression time = 0.109009 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+outSize=27218137
+compression time = 0.191579
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 0.1158621907
+Max relative error = 0.000001
+Max pw relative error = 1.753889
+PSNR = 124.791182, NRMSE= 5.7602441079656789081E-07
+acEff=0.999996
+compressionRatio=19.724749
+decompression time = 0.129852 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+outSize=47509603
+compression time = 0.200669
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 0.0115862191
+Max relative error = 0.000000
+Max pw relative error = 0.194968
+PSNR = 144.802776, NRMSE= 5.7525607866198330497E-08
+acEff=1.000000
+compressionRatio=11.300261
+decompression time = 0.142565 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+outSize=85553207
+compression time = 0.247291
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 0.0011586174
+Max relative error = 0.000000
+Max pw relative error = 0.018639
+PSNR = 164.810164, NRMSE= 5.7476699366605176048E-09
+acEff=1.000000
+compressionRatio=6.275287
+decompression time = 0.165307 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+../data/NYX/dark_matter_density.f32
+../SZ/example/sz -z ../com_data/sz2/NYX/dark_matter_density.f32.sz -f -i ../data/NYX/dark_matter_density.f32 -3 512 512 512 -M ABS -A 1.377893e+03 -k
+../SZ/example/sz -x -f -i ../data/NYX/dark_matter_density.f32 -3 512 512 512 -s ../com_data/sz2/NYX/dark_matter_density.f32.sz -a -k
+outSize=16778016
+compression time = 0.175231
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 1377.5662841797
+Max relative error = 0.099976
+Max pw relative error = 1674173573.075092
+PSNR = 66.227523, NRMSE= 0.00048822933066897502077
+acEff=0.626764
+compressionRatio=31.998474
+decompression time = 0.112143 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+outSize=16794478
+compression time = 0.174021
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 137.7858276367
+Max relative error = 0.010000
+Max pw relative error = 1674229560.126008
+PSNR = 65.130007, NRMSE= 0.00055398707815401541151
+acEff=0.704293
+compressionRatio=31.967109
+decompression time = 0.099115 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+outSize=17472438
+compression time = 0.172076
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 13.7789287567
+Max relative error = 0.001000
+Max pw relative error = 3578904192.238182
+PSNR = 69.225878, NRMSE= 0.00034570536170011996685
+acEff=0.870353
+compressionRatio=30.726732
+decompression time = 0.101205 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+outSize=27058748
+compression time = 0.190329
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 1.3778929710
+Max relative error = 0.000100
+Max pw relative error = 7992179879.331374
+PSNR = 85.021207, NRMSE= 5.6097001806523980592E-05
+acEff=0.995854
+compressionRatio=19.840937
+decompression time = 0.133752 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+outSize=59608106
+compression time = 0.197178
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 0.1377892792
+Max relative error = 0.000010
+Max pw relative error = 1617026154.764010
+PSNR = 104.802644, NRMSE= 5.7526478700623653363E-06
+acEff=0.999956
+compressionRatio=9.006676
+decompression time = 0.174265 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+outSize=109749217
+compression time = 0.203383
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 0.0137789268
+Max relative error = 0.000001
+Max pw relative error = 161480921.115501
+PSNR = 124.790806, NRMSE= 5.7604938065826937937E-07
+acEff=1.000000
+compressionRatio=4.891797
+decompression time = 0.203452 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+outSize=165807084
+compression time = 0.210122
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 0.0013778927
+Max relative error = 0.000000
+Max pw relative error = 7446061.806416
+PSNR = 144.793608, NRMSE= 5.7586356582290825554E-08
+acEff=1.000000
+compressionRatio=3.237925
+decompression time = 0.277621 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+outSize=223399437
+compression time = 0.261843
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 0.0001377892
+Max relative error = 0.000000
+Max pw relative error = 847206.240084
+PSNR = 164.804556, NRMSE= 5.7513818210141138014E-09
+acEff=1.000000
+compressionRatio=2.403188
+decompression time = 0.376969 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+../data/NYX/temperature.f32
+../SZ/example/sz -z ../com_data/sz2/NYX/temperature.f32.sz -f -i ../data/NYX/temperature.f32 -3 512 512 512 -M ABS -A 4.780302e+05 -k
+../SZ/example/sz -x -f -i ../data/NYX/temperature.f32 -3 512 512 512 -s ../com_data/sz2/NYX/temperature.f32.sz -a -k
+outSize=16779614
+compression time = 0.167365
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 478011.5000000000
+Max relative error = 0.099996
+Max pw relative error = 8.910587
+PSNR = 55.760292, NRMSE= 0.0016292412532156921433
+acEff=0.877978
+compressionRatio=31.995427
+decompression time = 0.107474 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+outSize=16832048
+compression time = 0.169391
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 47803.0156250000
+Max relative error = 0.010000
+Max pw relative error = 15.003553
+PSNR = 56.228931, NRMSE= 0.0015436663522560532813
+acEff=0.894618
+compressionRatio=31.895757
+decompression time = 0.099929 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+outSize=18502715
+compression time = 0.170173
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 4780.3017578125
+Max relative error = 0.001000
+Max pw relative error = 1.927558
+PSNR = 65.304609, NRMSE= 0.0005429621338716639949
+acEff=0.986562
+compressionRatio=29.015791
+decompression time = 0.108122 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+outSize=28885863
+compression time = 0.189838
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 478.0302734375
+Max relative error = 0.000100
+Max pw relative error = 0.198080
+PSNR = 84.776443, NRMSE= 5.7700269467098584415E-05
+acEff=0.999846
+compressionRatio=18.585940
+decompression time = 0.134742 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+outSize=50577265
+compression time = 0.194161
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 47.8029785156
+Max relative error = 0.000010
+Max pw relative error = 0.019958
+PSNR = 104.800742, NRMSE= 5.7539076454651106335E-06
+acEff=0.999998
+compressionRatio=10.614866
+decompression time = 0.123775 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+outSize=96589020
+compression time = 0.204284
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 4.7802734375
+Max relative error = 0.000001
+Max pw relative error = 0.002004
+PSNR = 124.807885, NRMSE= 5.7491782348957493861E-07
+acEff=1.000000
+compressionRatio=5.558302
+decompression time = 0.195583 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+outSize=150662283
+compression time = 0.209898
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 0.4780273438
+Max relative error = 0.000000
+Max pw relative error = 0.000204
+PSNR = 144.794712, NRMSE= 5.7579034193399009318E-08
+acEff=1.000000
+compressionRatio=3.563406
+decompression time = 0.250241 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+outSize=210414688
+compression time = 0.284965
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 0.0476074219
+Max relative error = 0.000000
+Max pw relative error = 0.000020
+PSNR = 164.870436, NRMSE= 5.7079243649026261373E-09
+acEff=1.000000
+compressionRatio=2.551490
+decompression time = 0.377692 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+../data/NYX/velocity_x.f32
+../SZ/example/sz -z ../com_data/sz2/NYX/velocity_x.f32.sz -f -i ../data/NYX/velocity_x.f32 -3 512 512 512 -M ABS -A 8.228364e+06 -k
+../SZ/example/sz -x -f -i ../data/NYX/velocity_x.f32 -3 512 512 512 -s ../com_data/sz2/NYX/velocity_x.f32.sz -a -k
+outSize=16949879
+compression time = 0.167662
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 8228364.0000000000
+Max relative error = 0.100000
+Max pw relative error = 27042930.344120
+PSNR = 24.827261, NRMSE= 0.057363674205545230056
+acEff=0.815295
+compressionRatio=31.674026
+decompression time = 0.096549 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+outSize=18375558
+compression time = 0.172023
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 822836.3750000000
+Max relative error = 0.010000
+Max pw relative error = 12572056.009595
+PSNR = 44.782242, NRMSE= 0.0057661763929440267365
+acEff=0.997302
+compressionRatio=29.216577
+decompression time = 0.107391 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+outSize=28049817
+compression time = 0.191204
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 82283.6406250000
+Max relative error = 0.001000
+Max pw relative error = 680140.784618
+PSNR = 64.772231, NRMSE= 0.00057728260032401882817
+acEff=0.999973
+compressionRatio=19.139908
+decompression time = 0.132455 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+outSize=48344405
+compression time = 0.195937
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 8228.3632812500
+Max relative error = 0.000100
+Max pw relative error = 79916.878779
+PSNR = 84.798128, NRMSE= 5.7556397804057539923E-05
+acEff=1.000000
+compressionRatio=11.105130
+decompression time = 0.121022 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+outSize=95574221
+compression time = 0.206656
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 822.8364257812
+Max relative error = 0.000010
+Max pw relative error = 3038.019170
+PSNR = 104.807737, NRMSE= 5.7492762182879472366E-06
+acEff=1.000000
+compressionRatio=5.617319
+decompression time = 0.188001 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+outSize=149496713
+compression time = 0.207052
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 82.2834777832
+Max relative error = 0.000001
+Max pw relative error = 807.773824
+PSNR = 124.790279, NRMSE= 5.7608433296156080018E-07
+acEff=1.000000
+compressionRatio=3.591189
+decompression time = 0.244651 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+outSize=207589946
+compression time = 0.264792
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 8.2282714844
+Max relative error = 0.000000
+Max pw relative error = 33.110113
+PSNR = 144.837827, NRMSE= 5.7293937988523673162E-08
+acEff=1.000000
+compressionRatio=2.586209
+decompression time = 0.360138 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+outSize=306979050
+compression time = 0.305352
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 0.8228149414
+Max relative error = 0.000000
+Max pw relative error = 11.158871
+PSNR = 166.575755, NRMSE= 4.6904253538409024051E-09
+acEff=1.000000
+compressionRatio=1.748885
+decompression time = 0.476375 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+../data/NYX/velocity_y.f32
+../SZ/example/sz -z ../com_data/sz2/NYX/velocity_y.f32.sz -f -i ../data/NYX/velocity_y.f32 -3 512 512 512 -M ABS -A 1.004385e+07 -k
+../SZ/example/sz -x -f -i ../data/NYX/velocity_y.f32 -3 512 512 512 -s ../com_data/sz2/NYX/velocity_y.f32.sz -a -k
+outSize=16847372
+compression time = 0.182575
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 10043850.0000000000
+Max relative error = 0.100000
+Max pw relative error = 106787350.029977
+PSNR = 27.093421, NRMSE= 0.044190505811576324957
+acEff=0.610343
+compressionRatio=31.866745
+decompression time = 0.100842 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+outSize=18053002
+compression time = 0.169252
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 1004385.0000000000
+Max relative error = 0.010000
+Max pw relative error = 15228623.774114
+PSNR = 44.797965, NRMSE= 0.0057557478919187735067
+acEff=0.992802
+compressionRatio=29.738595
+decompression time = 0.109261 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+outSize=26424007
+compression time = 0.192667
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 100438.5000000000
+Max relative error = 0.001000
+Max pw relative error = 3083541.432099
+PSNR = 64.772088, NRMSE= 0.00057729207654203288595
+acEff=0.999927
+compressionRatio=20.317544
+decompression time = 0.128060 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+outSize=45122508
+compression time = 0.228170
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 10043.8457031250
+Max relative error = 0.000100
+Max pw relative error = 118993.485553
+PSNR = 84.789599, NRMSE= 5.7612939216635823811E-05
+acEff=0.999999
+compressionRatio=11.898073
+decompression time = 0.129304 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+outSize=90043724
+compression time = 0.203747
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 1004.3847656250
+Max relative error = 0.000010
+Max pw relative error = 18298.990281
+PSNR = 104.795837, NRMSE= 5.7571579739430361143E-06
+acEff=1.000000
+compressionRatio=5.962336
+decompression time = 0.162966 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+outSize=145989996
+compression time = 0.204954
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 100.4384765625
+Max relative error = 0.000001
+Max pw relative error = 2666.804031
+PSNR = 124.812357, NRMSE= 5.7462183648230064882E-07
+acEff=1.000000
+compressionRatio=3.677450
+decompression time = 0.223860 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+outSize=200645809
+compression time = 0.237405
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 10.0437011719
+Max relative error = 0.000000
+Max pw relative error = 165.247265
+PSNR = 144.786711, NRMSE= 5.7632101334885187955E-08
+acEff=1.000000
+compressionRatio=2.675715
+decompression time = 0.332185 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+outSize=265600118
+compression time = 0.294371
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 1.0043640137
+Max relative error = 0.000000
+Max pw relative error = 23.788810
+PSNR = 164.615803, NRMSE= 5.8777330901426216968E-09
+acEff=1.000000
+compressionRatio=2.021350
+decompression time = 0.484803 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+../data/NYX/velocity_z.f32
+../SZ/example/sz -z ../com_data/sz2/NYX/velocity_z.f32.sz -f -i ../data/NYX/velocity_z.f32 -3 512 512 512 -M ABS -A 7.232424e+06 -k
+../SZ/example/sz -x -f -i ../data/NYX/velocity_z.f32 -3 512 512 512 -s ../com_data/sz2/NYX/velocity_z.f32.sz -a -k
+outSize=16893637
+compression time = 0.164120
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 7232424.0000000000
+Max relative error = 0.100000
+Max pw relative error = 312606369.694598
+PSNR = 26.254625, NRMSE= 0.048670829154478720269
+acEff=0.598365
+compressionRatio=31.779475
+decompression time = 0.103104 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out
+outSize=18497677
+compression time = 0.171169
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 723242.3750000000
+Max relative error = 0.010000
+Max pw relative error = 21105673.083803
+PSNR = 44.767589, NRMSE= 0.0057759115897355051139
+acEff=0.992161
+compressionRatio=29.023694
+decompression time = 0.106784 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out
+outSize=28580594
+compression time = 0.190796
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 72324.2421875000
+Max relative error = 0.001000
+Max pw relative error = 2318784.873144
+PSNR = 64.771553, NRMSE= 0.00057732764212504149044
+acEff=0.999921
+compressionRatio=18.784456
+decompression time = 0.120335 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out
+outSize=49873929
+compression time = 0.208789
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 7232.4223632812
+Max relative error = 0.000100
+Max pw relative error = 327284.585823
+PSNR = 84.799836, NRMSE= 5.754508301567884328E-05
+acEff=0.999999
+compressionRatio=10.764560
+decompression time = 0.122003 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out
+outSize=98688309
+compression time = 0.203510
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 723.2421875000
+Max relative error = 0.000010
+Max pw relative error = 20616.644815
+PSNR = 104.810045, NRMSE= 5.7477484274835165346E-06
+acEff=1.000000
+compressionRatio=5.440066
+decompression time = 0.205587 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out
+outSize=152608886
+compression time = 0.205180
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 72.3242187500
+Max relative error = 0.000001
+Max pw relative error = 2122.467644
+PSNR = 124.792275, NRMSE= 5.7595194170319978368E-07
+acEff=1.000000
+compressionRatio=3.517953
+decompression time = 0.248272 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out
+outSize=211685280
+compression time = 0.252709
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 7.2324218750
+Max relative error = 0.000000
+Max pw relative error = 219.414323
+PSNR = 144.878726, NRMSE= 5.7024791346774420703E-08
+acEff=1.000000
+compressionRatio=2.536175
+decompression time = 0.367747 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out
+outSize=297087402
+compression time = 0.323751
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 0.7232055664
+Max relative error = 0.000000
+Max pw relative error = 11.426433
+PSNR = 165.901393, NRMSE= 5.0690941357569292304E-09
+acEff=1.000000
+compressionRatio=1.807114
+decompression time = 0.470130 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out
+../data/NYX/baryon_density.f32
+../SZ/example/sz -z ../com_data/sz2/NYX/baryon_density.f32.sz -f -i ../data/NYX/baryon_density.f32 -3 512 512 512 -M ABS -A 1.158622e+04 -k
+../SZ/example/sz -x -f -i ../data/NYX/baryon_density.f32 -3 512 512 512 -s ../com_data/sz2/NYX/baryon_density.f32.sz -a -k
+outSize=16777746
+compression time = 0.167178
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 11577.6679687500
+Max relative error = 0.099926
+Max pw relative error = 54.543800
+PSNR = 79.897260, NRMSE= 0.00010118985688473470012
+acEff=0.874637
+compressionRatio=31.998989
+decompression time = 0.110946 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+outSize=16778797
+compression time = 0.168589
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 1158.4105224609
+Max relative error = 0.009998
+Max pw relative error = 17044.291942
+PSNR = 62.322930, NRMSE= 0.00076533843391413981794
+acEff=0.255200
+compressionRatio=31.996985
+decompression time = 0.098632 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+outSize=16788407
+compression time = 0.168601
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 115.8621902466
+Max relative error = 0.001000
+Max pw relative error = 1230.403292
+PSNR = 76.309090, NRMSE= 0.00015294859443950464557
+acEff=0.803799
+compressionRatio=31.978669
+decompression time = 0.102600 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+outSize=16976390
+compression time = 0.168362
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 11.5862197876
+Max relative error = 0.000100
+Max pw relative error = 148.891687
+PSNR = 89.434060, NRMSE= 3.3751804550727536E-05
+acEff=0.987056
+compressionRatio=31.624563
+decompression time = 0.102907 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+outSize=18619403
+compression time = 0.176922
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 1.1586220264
+Max relative error = 0.000010
+Max pw relative error = 17.287602
+PSNR = 105.936448, NRMSE= 5.0486768888279675682E-06
+acEff=0.999703
+compressionRatio=28.833949
+decompression time = 0.108685 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+outSize=27218137
+compression time = 0.190368
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 0.1158621907
+Max relative error = 0.000001
+Max pw relative error = 1.753889
+PSNR = 124.791182, NRMSE= 5.7602441079656789081E-07
+acEff=0.999996
+compressionRatio=19.724749
+decompression time = 0.133209 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+outSize=47509603
+compression time = 0.202156
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 0.0115862191
+Max relative error = 0.000000
+Max pw relative error = 0.194968
+PSNR = 144.802776, NRMSE= 5.7525607866198330497E-08
+acEff=1.000000
+compressionRatio=11.300261
+decompression time = 0.137699 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+outSize=85553207
+compression time = 0.255322
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 0.0011586174
+Max relative error = 0.000000
+Max pw relative error = 0.018639
+PSNR = 164.810164, NRMSE= 5.7476699366605176048E-09
+acEff=1.000000
+compressionRatio=6.275287
+decompression time = 0.192059 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+../data/NYX/dark_matter_density.f32
+../SZ/example/sz -z ../com_data/sz2/NYX/dark_matter_density.f32.sz -f -i ../data/NYX/dark_matter_density.f32 -3 512 512 512 -M ABS -A 1.377893e+03 -k
+../SZ/example/sz -x -f -i ../data/NYX/dark_matter_density.f32 -3 512 512 512 -s ../com_data/sz2/NYX/dark_matter_density.f32.sz -a -k
+outSize=16778016
+compression time = 0.173976
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 1377.5662841797
+Max relative error = 0.099976
+Max pw relative error = 1674173573.075092
+PSNR = 66.227523, NRMSE= 0.00048822933066897502077
+acEff=0.626764
+compressionRatio=31.998474
+decompression time = 0.103075 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+outSize=16794478
+compression time = 0.171780
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 137.7858276367
+Max relative error = 0.010000
+Max pw relative error = 1674229560.126008
+PSNR = 65.130007, NRMSE= 0.00055398707815401541151
+acEff=0.704293
+compressionRatio=31.967109
+decompression time = 0.101234 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+outSize=17472438
+compression time = 0.172753
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 13.7789287567
+Max relative error = 0.001000
+Max pw relative error = 3578904192.238182
+PSNR = 69.225878, NRMSE= 0.00034570536170011996685
+acEff=0.870353
+compressionRatio=30.726732
+decompression time = 0.100766 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+outSize=27058748
+compression time = 0.190729
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 1.3778929710
+Max relative error = 0.000100
+Max pw relative error = 7992179879.331374
+PSNR = 85.021207, NRMSE= 5.6097001806523980592E-05
+acEff=0.995854
+compressionRatio=19.840937
+decompression time = 0.114154 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+outSize=59608106
+compression time = 0.240531
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 0.1377892792
+Max relative error = 0.000010
+Max pw relative error = 1617026154.764010
+PSNR = 104.802644, NRMSE= 5.7526478700623653363E-06
+acEff=0.999956
+compressionRatio=9.006676
+decompression time = 0.176893 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+outSize=109749217
+compression time = 0.206178
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 0.0137789268
+Max relative error = 0.000001
+Max pw relative error = 161480921.115501
+PSNR = 124.790806, NRMSE= 5.7604938065826937937E-07
+acEff=1.000000
+compressionRatio=4.891797
+decompression time = 0.202114 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+outSize=165807084
+compression time = 0.209606
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 0.0013778927
+Max relative error = 0.000000
+Max pw relative error = 7446061.806416
+PSNR = 144.793608, NRMSE= 5.7586356582290825554E-08
+acEff=1.000000
+compressionRatio=3.237925
+decompression time = 0.289967 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+outSize=223399437
+compression time = 0.282967
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 0.0001377892
+Max relative error = 0.000000
+Max pw relative error = 847206.240084
+PSNR = 164.804556, NRMSE= 5.7513818210141138014E-09
+acEff=1.000000
+compressionRatio=2.403188
+decompression time = 0.399574 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+../data/NYX/temperature.f32
+../SZ/example/sz -z ../com_data/sz2/NYX/temperature.f32.sz -f -i ../data/NYX/temperature.f32 -3 512 512 512 -M ABS -A 4.780302e+05 -k
+../SZ/example/sz -x -f -i ../data/NYX/temperature.f32 -3 512 512 512 -s ../com_data/sz2/NYX/temperature.f32.sz -a -k
+outSize=16779614
+compression time = 0.169003
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 478011.5000000000
+Max relative error = 0.099996
+Max pw relative error = 8.910587
+PSNR = 55.760292, NRMSE= 0.0016292412532156921433
+acEff=0.877978
+compressionRatio=31.995427
+decompression time = 0.112336 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+outSize=16832048
+compression time = 0.169796
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 47803.0156250000
+Max relative error = 0.010000
+Max pw relative error = 15.003553
+PSNR = 56.228931, NRMSE= 0.0015436663522560532813
+acEff=0.894618
+compressionRatio=31.895757
+decompression time = 0.099746 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+outSize=18502715
+compression time = 0.178920
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 4780.3017578125
+Max relative error = 0.001000
+Max pw relative error = 1.927558
+PSNR = 65.304609, NRMSE= 0.0005429621338716639949
+acEff=0.986562
+compressionRatio=29.015791
+decompression time = 0.109972 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+outSize=28885863
+compression time = 0.191104
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 478.0302734375
+Max relative error = 0.000100
+Max pw relative error = 0.198080
+PSNR = 84.776443, NRMSE= 5.7700269467098584415E-05
+acEff=0.999846
+compressionRatio=18.585940
+decompression time = 0.136430 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+outSize=50577265
+compression time = 0.196009
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 47.8029785156
+Max relative error = 0.000010
+Max pw relative error = 0.019958
+PSNR = 104.800742, NRMSE= 5.7539076454651106335E-06
+acEff=0.999998
+compressionRatio=10.614866
+decompression time = 0.137861 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+outSize=96589020
+compression time = 0.207789
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 4.7802734375
+Max relative error = 0.000001
+Max pw relative error = 0.002004
+PSNR = 124.807885, NRMSE= 5.7491782348957493861E-07
+acEff=1.000000
+compressionRatio=5.558302
+decompression time = 0.174245 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+outSize=150662283
+compression time = 0.214978
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 0.4780273438
+Max relative error = 0.000000
+Max pw relative error = 0.000204
+PSNR = 144.794712, NRMSE= 5.7579034193399009318E-08
+acEff=1.000000
+compressionRatio=3.563406
+decompression time = 0.250658 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+outSize=210414688
+compression time = 0.274003
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 0.0476074219
+Max relative error = 0.000000
+Max pw relative error = 0.000020
+PSNR = 164.870436, NRMSE= 5.7079243649026261373E-09
+acEff=1.000000
+compressionRatio=2.551490
+decompression time = 0.377736 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+../data/NYX/velocity_x.f32
+../SZ/example/sz -z ../com_data/sz2/NYX/velocity_x.f32.sz -f -i ../data/NYX/velocity_x.f32 -3 512 512 512 -M ABS -A 8.228364e+06 -k
+../SZ/example/sz -x -f -i ../data/NYX/velocity_x.f32 -3 512 512 512 -s ../com_data/sz2/NYX/velocity_x.f32.sz -a -k
+outSize=16949879
+compression time = 0.166858
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 8228364.0000000000
+Max relative error = 0.100000
+Max pw relative error = 27042930.344120
+PSNR = 24.827261, NRMSE= 0.057363674205545230056
+acEff=0.815295
+compressionRatio=31.674026
+decompression time = 0.100338 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+outSize=18375558
+compression time = 0.173017
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 822836.3750000000
+Max relative error = 0.010000
+Max pw relative error = 12572056.009595
+PSNR = 44.782242, NRMSE= 0.0057661763929440267365
+acEff=0.997302
+compressionRatio=29.216577
+decompression time = 0.103999 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+outSize=28049817
+compression time = 0.189240
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 82283.6406250000
+Max relative error = 0.001000
+Max pw relative error = 680140.784618
+PSNR = 64.772231, NRMSE= 0.00057728260032401882817
+acEff=0.999973
+compressionRatio=19.139908
+decompression time = 0.131791 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+outSize=48344405
+compression time = 0.197103
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 8228.3632812500
+Max relative error = 0.000100
+Max pw relative error = 79916.878779
+PSNR = 84.798128, NRMSE= 5.7556397804057539923E-05
+acEff=1.000000
+compressionRatio=11.105130
+decompression time = 0.135123 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+outSize=95574221
+compression time = 0.219236
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 822.8364257812
+Max relative error = 0.000010
+Max pw relative error = 3038.019170
+PSNR = 104.807737, NRMSE= 5.7492762182879472366E-06
+acEff=1.000000
+compressionRatio=5.617319
+decompression time = 0.173043 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+outSize=149496713
+compression time = 0.206284
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 82.2834777832
+Max relative error = 0.000001
+Max pw relative error = 807.773824
+PSNR = 124.790279, NRMSE= 5.7608433296156080018E-07
+acEff=1.000000
+compressionRatio=3.591189
+decompression time = 0.243096 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+outSize=207589946
+compression time = 0.244864
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 8.2282714844
+Max relative error = 0.000000
+Max pw relative error = 33.110113
+PSNR = 144.837827, NRMSE= 5.7293937988523673162E-08
+acEff=1.000000
+compressionRatio=2.586209
+decompression time = 0.363645 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+outSize=306979050
+compression time = 0.303831
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 0.8228149414
+Max relative error = 0.000000
+Max pw relative error = 11.158871
+PSNR = 166.575755, NRMSE= 4.6904253538409024051E-09
+acEff=1.000000
+compressionRatio=1.748885
+decompression time = 0.486081 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+../data/NYX/velocity_y.f32
+../SZ/example/sz -z ../com_data/sz2/NYX/velocity_y.f32.sz -f -i ../data/NYX/velocity_y.f32 -3 512 512 512 -M ABS -A 1.004385e+07 -k
+../SZ/example/sz -x -f -i ../data/NYX/velocity_y.f32 -3 512 512 512 -s ../com_data/sz2/NYX/velocity_y.f32.sz -a -k
+outSize=16847372
+compression time = 0.161840
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 10043850.0000000000
+Max relative error = 0.100000
+Max pw relative error = 106787350.029977
+PSNR = 27.093421, NRMSE= 0.044190505811576324957
+acEff=0.610343
+compressionRatio=31.866745
+decompression time = 0.082198 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+outSize=18053002
+compression time = 0.187264
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 1004385.0000000000
+Max relative error = 0.010000
+Max pw relative error = 15228623.774114
+PSNR = 44.797965, NRMSE= 0.0057557478919187735067
+acEff=0.992802
+compressionRatio=29.738595
+decompression time = 0.085656 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+outSize=26424007
+compression time = 0.223506
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 100438.5000000000
+Max relative error = 0.001000
+Max pw relative error = 3083541.432099
+PSNR = 64.772088, NRMSE= 0.00057729207654203288595
+acEff=0.999927
+compressionRatio=20.317544
+decompression time = 0.128580 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+outSize=45122508
+compression time = 0.192239
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 10043.8457031250
+Max relative error = 0.000100
+Max pw relative error = 118993.485553
+PSNR = 84.789599, NRMSE= 5.7612939216635823811E-05
+acEff=0.999999
+compressionRatio=11.898073
+decompression time = 0.114240 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+outSize=90043724
+compression time = 0.205236
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 1004.3847656250
+Max relative error = 0.000010
+Max pw relative error = 18298.990281
+PSNR = 104.795837, NRMSE= 5.7571579739430361143E-06
+acEff=1.000000
+compressionRatio=5.962336
+decompression time = 0.180079 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+outSize=145989996
+compression time = 0.205129
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 100.4384765625
+Max relative error = 0.000001
+Max pw relative error = 2666.804031
+PSNR = 124.812357, NRMSE= 5.7462183648230064882E-07
+acEff=1.000000
+compressionRatio=3.677450
+decompression time = 0.232607 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+outSize=200645809
+compression time = 0.255955
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 10.0437011719
+Max relative error = 0.000000
+Max pw relative error = 165.247265
+PSNR = 144.786711, NRMSE= 5.7632101334885187955E-08
+acEff=1.000000
+compressionRatio=2.675715
+decompression time = 0.331767 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+outSize=265600118
+compression time = 0.292436
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 1.0043640137
+Max relative error = 0.000000
+Max pw relative error = 23.788810
+PSNR = 164.615803, NRMSE= 5.8777330901426216968E-09
+acEff=1.000000
+compressionRatio=2.021350
+decompression time = 0.485303 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+../data/NYX/velocity_z.f32
+../SZ/example/sz -z ../com_data/sz2/NYX/velocity_z.f32.sz -f -i ../data/NYX/velocity_z.f32 -3 512 512 512 -M ABS -A 7.232424e+06 -k
+../SZ/example/sz -x -f -i ../data/NYX/velocity_z.f32 -3 512 512 512 -s ../com_data/sz2/NYX/velocity_z.f32.sz -a -k
+outSize=16893637
+compression time = 0.169255
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 7232424.0000000000
+Max relative error = 0.100000
+Max pw relative error = 312606369.694598
+PSNR = 26.254625, NRMSE= 0.048670829154478720269
+acEff=0.598365
+compressionRatio=31.779475
+decompression time = 0.112731 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out
+outSize=18497677
+compression time = 0.171114
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 723242.3750000000
+Max relative error = 0.010000
+Max pw relative error = 21105673.083803
+PSNR = 44.767589, NRMSE= 0.0057759115897355051139
+acEff=0.992161
+compressionRatio=29.023694
+decompression time = 0.117269 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out
+outSize=28580594
+compression time = 0.189209
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 72324.2421875000
+Max relative error = 0.001000
+Max pw relative error = 2318784.873144
+PSNR = 64.771553, NRMSE= 0.00057732764212504149044
+acEff=0.999921
+compressionRatio=18.784456
+decompression time = 0.133669 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out
+outSize=49873929
+compression time = 0.194349
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 7232.4223632812
+Max relative error = 0.000100
+Max pw relative error = 327284.585823
+PSNR = 84.799836, NRMSE= 5.754508301567884328E-05
+acEff=0.999999
+compressionRatio=10.764560
+decompression time = 0.120471 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out
+outSize=98688309
+compression time = 0.208008
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 723.2421875000
+Max relative error = 0.000010
+Max pw relative error = 20616.644815
+PSNR = 104.810045, NRMSE= 5.7477484274835165346E-06
+acEff=1.000000
+compressionRatio=5.440066
+decompression time = 0.198099 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out
+outSize=152608886
+compression time = 0.211607
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 72.3242187500
+Max relative error = 0.000001
+Max pw relative error = 2122.467644
+PSNR = 124.792275, NRMSE= 5.7595194170319978368E-07
+acEff=1.000000
+compressionRatio=3.517953
+decompression time = 0.245129 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out
+outSize=211685280
+compression time = 0.252223
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 7.2324218750
+Max relative error = 0.000000
+Max pw relative error = 219.414323
+PSNR = 144.878726, NRMSE= 5.7024791346774420703E-08
+acEff=1.000000
+compressionRatio=2.536175
+decompression time = 0.368599 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out
+outSize=297087402
+compression time = 0.301180
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 0.7232055664
+Max relative error = 0.000000
+Max pw relative error = 11.426433
+PSNR = 165.901393, NRMSE= 5.0690941357569292304E-09
+acEff=1.000000
+compressionRatio=1.807114
+decompression time = 0.473381 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out
+../data/NYX/baryon_density.f32
+../SZ/example/sz -z ../com_data/sz2/NYX/baryon_density.f32.sz -f -i ../data/NYX/baryon_density.f32 -3 512 512 512 -M ABS -A 1.158622e+04 -k
+../SZ/example/sz -x -f -i ../data/NYX/baryon_density.f32 -3 512 512 512 -s ../com_data/sz2/NYX/baryon_density.f32.sz -a -k
+outSize=16777746
+compression time = 0.194151
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 11577.6679687500
+Max relative error = 0.099926
+Max pw relative error = 54.543800
+PSNR = 79.897260, NRMSE= 0.00010118985688473470012
+acEff=0.874637
+compressionRatio=31.998989
+decompression time = 0.104141 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+outSize=16778797
+compression time = 0.183977
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 1158.4105224609
+Max relative error = 0.009998
+Max pw relative error = 17044.291942
+PSNR = 62.322930, NRMSE= 0.00076533843391413981794
+acEff=0.255200
+compressionRatio=31.996985
+decompression time = 0.101122 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+outSize=16788407
+compression time = 0.200934
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 115.8621902466
+Max relative error = 0.001000
+Max pw relative error = 1230.403292
+PSNR = 76.309090, NRMSE= 0.00015294859443950464557
+acEff=0.803799
+compressionRatio=31.978669
+decompression time = 0.111542 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+outSize=16976390
+compression time = 0.174823
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 11.5862197876
+Max relative error = 0.000100
+Max pw relative error = 148.891687
+PSNR = 89.434060, NRMSE= 3.3751804550727536E-05
+acEff=0.987056
+compressionRatio=31.624563
+decompression time = 0.110899 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+outSize=18619403
+compression time = 0.175211
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 1.1586220264
+Max relative error = 0.000010
+Max pw relative error = 17.287602
+PSNR = 105.936448, NRMSE= 5.0486768888279675682E-06
+acEff=0.999703
+compressionRatio=28.833949
+decompression time = 0.111067 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+outSize=27218137
+compression time = 0.191984
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 0.1158621907
+Max relative error = 0.000001
+Max pw relative error = 1.753889
+PSNR = 124.791182, NRMSE= 5.7602441079656789081E-07
+acEff=0.999996
+compressionRatio=19.724749
+decompression time = 0.134071 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+outSize=47509603
+compression time = 0.198519
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 0.0115862191
+Max relative error = 0.000000
+Max pw relative error = 0.194968
+PSNR = 144.802776, NRMSE= 5.7525607866198330497E-08
+acEff=1.000000
+compressionRatio=11.300261
+decompression time = 0.146930 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+outSize=85553207
+compression time = 0.204758
+compressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz
+Min=0.057996965944766998291, Max=115862.2890625, range=115862.234375
+Max absolute error = 0.0011586174
+Max relative error = 0.000000
+Max pw relative error = 0.018639
+PSNR = 164.810164, NRMSE= 5.7476699366605176048E-09
+acEff=1.000000
+compressionRatio=6.275287
+decompression time = 0.187662 seconds.
+decompressed data file: ../com_data/sz2/NYX/baryon_density.f32.sz.out
+../data/NYX/dark_matter_density.f32
+../SZ/example/sz -z ../com_data/sz2/NYX/dark_matter_density.f32.sz -f -i ../data/NYX/dark_matter_density.f32 -3 512 512 512 -M ABS -A 1.377893e+03 -k
+../SZ/example/sz -x -f -i ../data/NYX/dark_matter_density.f32 -3 512 512 512 -s ../com_data/sz2/NYX/dark_matter_density.f32.sz -a -k
+outSize=16778016
+compression time = 0.175939
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 1377.5662841797
+Max relative error = 0.099976
+Max pw relative error = 1674173573.075092
+PSNR = 66.227523, NRMSE= 0.00048822933066897502077
+acEff=0.626764
+compressionRatio=31.998474
+decompression time = 0.113514 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+outSize=16794478
+compression time = 0.174311
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 137.7858276367
+Max relative error = 0.010000
+Max pw relative error = 1674229560.126008
+PSNR = 65.130007, NRMSE= 0.00055398707815401541151
+acEff=0.704293
+compressionRatio=31.967109
+decompression time = 0.113018 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+outSize=17472438
+compression time = 0.166479
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 13.7789287567
+Max relative error = 0.001000
+Max pw relative error = 3578904192.238182
+PSNR = 69.225878, NRMSE= 0.00034570536170011996685
+acEff=0.870353
+compressionRatio=30.726732
+decompression time = 0.083949 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+outSize=27058748
+compression time = 0.188541
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 1.3778929710
+Max relative error = 0.000100
+Max pw relative error = 7992179879.331374
+PSNR = 85.021207, NRMSE= 5.6097001806523980592E-05
+acEff=0.995854
+compressionRatio=19.840937
+decompression time = 0.116770 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+outSize=59608106
+compression time = 0.200706
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 0.1377892792
+Max relative error = 0.000010
+Max pw relative error = 1617026154.764010
+PSNR = 104.802644, NRMSE= 5.7526478700623653363E-06
+acEff=0.999956
+compressionRatio=9.006676
+decompression time = 0.173140 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+outSize=109749217
+compression time = 0.204282
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 0.0137789268
+Max relative error = 0.000001
+Max pw relative error = 161480921.115501
+PSNR = 124.790806, NRMSE= 5.7604938065826937937E-07
+acEff=1.000000
+compressionRatio=4.891797
+decompression time = 0.189574 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+outSize=165807084
+compression time = 0.215182
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 0.0013778927
+Max relative error = 0.000000
+Max pw relative error = 7446061.806416
+PSNR = 144.793608, NRMSE= 5.7586356582290825554E-08
+acEff=1.000000
+compressionRatio=3.237925
+decompression time = 0.276800 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+outSize=223399437
+compression time = 0.282942
+compressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz
+Min=0, Max=13778.9345703125, range=13778.9345703125
+Max absolute error = 0.0001377892
+Max relative error = 0.000000
+Max pw relative error = 847206.240084
+PSNR = 164.804556, NRMSE= 5.7513818210141138014E-09
+acEff=1.000000
+compressionRatio=2.403188
+decompression time = 0.398111 seconds.
+decompressed data file: ../com_data/sz2/NYX/dark_matter_density.f32.sz.out
+../data/NYX/temperature.f32
+../SZ/example/sz -z ../com_data/sz2/NYX/temperature.f32.sz -f -i ../data/NYX/temperature.f32 -3 512 512 512 -M ABS -A 4.780302e+05 -k
+../SZ/example/sz -x -f -i ../data/NYX/temperature.f32 -3 512 512 512 -s ../com_data/sz2/NYX/temperature.f32.sz -a -k
+outSize=16779614
+compression time = 0.168965
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 478011.5000000000
+Max relative error = 0.099996
+Max pw relative error = 8.910587
+PSNR = 55.760292, NRMSE= 0.0016292412532156921433
+acEff=0.877978
+compressionRatio=31.995427
+decompression time = 0.107197 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+outSize=16832048
+compression time = 0.168221
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 47803.0156250000
+Max relative error = 0.010000
+Max pw relative error = 15.003553
+PSNR = 56.228931, NRMSE= 0.0015436663522560532813
+acEff=0.894618
+compressionRatio=31.895757
+decompression time = 0.113381 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+outSize=18502715
+compression time = 0.169196
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 4780.3017578125
+Max relative error = 0.001000
+Max pw relative error = 1.927558
+PSNR = 65.304609, NRMSE= 0.0005429621338716639949
+acEff=0.986562
+compressionRatio=29.015791
+decompression time = 0.106377 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+outSize=28885863
+compression time = 0.191017
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 478.0302734375
+Max relative error = 0.000100
+Max pw relative error = 0.198080
+PSNR = 84.776443, NRMSE= 5.7700269467098584415E-05
+acEff=0.999846
+compressionRatio=18.585940
+decompression time = 0.132227 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+outSize=50577265
+compression time = 0.198844
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 47.8029785156
+Max relative error = 0.000010
+Max pw relative error = 0.019958
+PSNR = 104.800742, NRMSE= 5.7539076454651106335E-06
+acEff=0.999998
+compressionRatio=10.614866
+decompression time = 0.139386 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+outSize=96589020
+compression time = 0.204621
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 4.7802734375
+Max relative error = 0.000001
+Max pw relative error = 0.002004
+PSNR = 124.807885, NRMSE= 5.7491782348957493861E-07
+acEff=1.000000
+compressionRatio=5.558302
+decompression time = 0.195702 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+outSize=150662283
+compression time = 0.212618
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 0.4780273438
+Max relative error = 0.000000
+Max pw relative error = 0.000204
+PSNR = 144.794712, NRMSE= 5.7579034193399009318E-08
+acEff=1.000000
+compressionRatio=3.563406
+decompression time = 0.252244 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+outSize=210414688
+compression time = 0.254897
+compressed data file: ../com_data/sz2/NYX/temperature.f32.sz
+Min=2280.975830078125, Max=4782583.5, range=4780302.5
+Max absolute error = 0.0476074219
+Max relative error = 0.000000
+Max pw relative error = 0.000020
+PSNR = 164.870436, NRMSE= 5.7079243649026261373E-09
+acEff=1.000000
+compressionRatio=2.551490
+decompression time = 0.379758 seconds.
+decompressed data file: ../com_data/sz2/NYX/temperature.f32.sz.out
+../data/NYX/velocity_x.f32
+../SZ/example/sz -z ../com_data/sz2/NYX/velocity_x.f32.sz -f -i ../data/NYX/velocity_x.f32 -3 512 512 512 -M ABS -A 8.228364e+06 -k
+../SZ/example/sz -x -f -i ../data/NYX/velocity_x.f32 -3 512 512 512 -s ../com_data/sz2/NYX/velocity_x.f32.sz -a -k
+outSize=16949879
+compression time = 0.167170
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 8228364.0000000000
+Max relative error = 0.100000
+Max pw relative error = 27042930.344120
+PSNR = 24.827261, NRMSE= 0.057363674205545230056
+acEff=0.815295
+compressionRatio=31.674026
+decompression time = 0.100914 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+outSize=18375558
+compression time = 0.172360
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 822836.3750000000
+Max relative error = 0.010000
+Max pw relative error = 12572056.009595
+PSNR = 44.782242, NRMSE= 0.0057661763929440267365
+acEff=0.997302
+compressionRatio=29.216577
+decompression time = 0.106876 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+outSize=28049817
+compression time = 0.193436
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 82283.6406250000
+Max relative error = 0.001000
+Max pw relative error = 680140.784618
+PSNR = 64.772231, NRMSE= 0.00057728260032401882817
+acEff=0.999973
+compressionRatio=19.139908
+decompression time = 0.130163 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+outSize=48344405
+compression time = 0.197225
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 8228.3632812500
+Max relative error = 0.000100
+Max pw relative error = 79916.878779
+PSNR = 84.798128, NRMSE= 5.7556397804057539923E-05
+acEff=1.000000
+compressionRatio=11.105130
+decompression time = 0.144503 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+outSize=95574221
+compression time = 0.205434
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 822.8364257812
+Max relative error = 0.000010
+Max pw relative error = 3038.019170
+PSNR = 104.807737, NRMSE= 5.7492762182879472366E-06
+acEff=1.000000
+compressionRatio=5.617319
+decompression time = 0.202312 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+outSize=149496713
+compression time = 0.206111
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 82.2834777832
+Max relative error = 0.000001
+Max pw relative error = 807.773824
+PSNR = 124.790279, NRMSE= 5.7608433296156080018E-07
+acEff=1.000000
+compressionRatio=3.591189
+decompression time = 0.225897 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+outSize=207589946
+compression time = 0.247267
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 8.2282714844
+Max relative error = 0.000000
+Max pw relative error = 33.110113
+PSNR = 144.837827, NRMSE= 5.7293937988523673162E-08
+acEff=1.000000
+compressionRatio=2.586209
+decompression time = 0.359799 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+outSize=306979050
+compression time = 0.322267
+compressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz
+Min=-50416856, Max=31866786, range=82283640
+Max absolute error = 0.8228149414
+Max relative error = 0.000000
+Max pw relative error = 11.158871
+PSNR = 166.575755, NRMSE= 4.6904253538409024051E-09
+acEff=1.000000
+compressionRatio=1.748885
+decompression time = 0.469520 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_x.f32.sz.out
+../data/NYX/velocity_y.f32
+../SZ/example/sz -z ../com_data/sz2/NYX/velocity_y.f32.sz -f -i ../data/NYX/velocity_y.f32 -3 512 512 512 -M ABS -A 1.004385e+07 -k
+../SZ/example/sz -x -f -i ../data/NYX/velocity_y.f32 -3 512 512 512 -s ../com_data/sz2/NYX/velocity_y.f32.sz -a -k
+outSize=16847372
+compression time = 0.182154
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 10043850.0000000000
+Max relative error = 0.100000
+Max pw relative error = 106787350.029977
+PSNR = 27.093421, NRMSE= 0.044190505811576324957
+acEff=0.610343
+compressionRatio=31.866745
+decompression time = 0.107750 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+outSize=18053002
+compression time = 0.171100
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 1004385.0000000000
+Max relative error = 0.010000
+Max pw relative error = 15228623.774114
+PSNR = 44.797965, NRMSE= 0.0057557478919187735067
+acEff=0.992802
+compressionRatio=29.738595
+decompression time = 0.112037 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+outSize=26424007
+compression time = 0.186599
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 100438.5000000000
+Max relative error = 0.001000
+Max pw relative error = 3083541.432099
+PSNR = 64.772088, NRMSE= 0.00057729207654203288595
+acEff=0.999927
+compressionRatio=20.317544
+decompression time = 0.129170 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+outSize=45122508
+compression time = 0.193500
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 10043.8457031250
+Max relative error = 0.000100
+Max pw relative error = 118993.485553
+PSNR = 84.789599, NRMSE= 5.7612939216635823811E-05
+acEff=0.999999
+compressionRatio=11.898073
+decompression time = 0.129551 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+outSize=90043724
+compression time = 0.202966
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 1004.3847656250
+Max relative error = 0.000010
+Max pw relative error = 18298.990281
+PSNR = 104.795837, NRMSE= 5.7571579739430361143E-06
+acEff=1.000000
+compressionRatio=5.962336
+decompression time = 0.163993 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+outSize=145989996
+compression time = 0.205477
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 100.4384765625
+Max relative error = 0.000001
+Max pw relative error = 2666.804031
+PSNR = 124.812357, NRMSE= 5.7462183648230064882E-07
+acEff=1.000000
+compressionRatio=3.677450
+decompression time = 0.220587 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+outSize=200645809
+compression time = 0.237548
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 10.0437011719
+Max relative error = 0.000000
+Max pw relative error = 165.247265
+PSNR = 144.786711, NRMSE= 5.7632101334885187955E-08
+acEff=1.000000
+compressionRatio=2.675715
+decompression time = 0.353855 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+outSize=265600118
+compression time = 0.291241
+compressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz
+Min=-43932888, Max=56505648, range=100438536
+Max absolute error = 1.0043640137
+Max relative error = 0.000000
+Max pw relative error = 23.788810
+PSNR = 164.615803, NRMSE= 5.8777330901426216968E-09
+acEff=1.000000
+compressionRatio=2.021350
+decompression time = 0.467762 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_y.f32.sz.out
+../data/NYX/velocity_z.f32
+../SZ/example/sz -z ../com_data/sz2/NYX/velocity_z.f32.sz -f -i ../data/NYX/velocity_z.f32 -3 512 512 512 -M ABS -A 7.232424e+06 -k
+../SZ/example/sz -x -f -i ../data/NYX/velocity_z.f32 -3 512 512 512 -s ../com_data/sz2/NYX/velocity_z.f32.sz -a -k
+outSize=16893637
+compression time = 0.209524
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 7232424.0000000000
+Max relative error = 0.100000
+Max pw relative error = 312606369.694598
+PSNR = 26.254625, NRMSE= 0.048670829154478720269
+acEff=0.598365
+compressionRatio=31.779475
+decompression time = 0.115199 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out
+outSize=18497677
+compression time = 0.173803
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 723242.3750000000
+Max relative error = 0.010000
+Max pw relative error = 21105673.083803
+PSNR = 44.767589, NRMSE= 0.0057759115897355051139
+acEff=0.992161
+compressionRatio=29.023694
+decompression time = 0.115403 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out
+outSize=28580594
+compression time = 0.192100
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 72324.2421875000
+Max relative error = 0.001000
+Max pw relative error = 2318784.873144
+PSNR = 64.771553, NRMSE= 0.00057732764212504149044
+acEff=0.999921
+compressionRatio=18.784456
+decompression time = 0.133619 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out
+outSize=49873929
+compression time = 0.195129
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 7232.4223632812
+Max relative error = 0.000100
+Max pw relative error = 327284.585823
+PSNR = 84.799836, NRMSE= 5.754508301567884328E-05
+acEff=0.999999
+compressionRatio=10.764560
+decompression time = 0.141144 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out
+outSize=98688309
+compression time = 0.202380
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 723.2421875000
+Max relative error = 0.000010
+Max pw relative error = 20616.644815
+PSNR = 104.810045, NRMSE= 5.7477484274835165346E-06
+acEff=1.000000
+compressionRatio=5.440066
+decompression time = 0.205104 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out
+outSize=152608886
+compression time = 0.208331
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 72.3242187500
+Max relative error = 0.000001
+Max pw relative error = 2122.467644
+PSNR = 124.792275, NRMSE= 5.7595194170319978368E-07
+acEff=1.000000
+compressionRatio=3.517953
+decompression time = 0.251230 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out
+outSize=211685280
+compression time = 0.242615
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 7.2324218750
+Max relative error = 0.000000
+Max pw relative error = 219.414323
+PSNR = 144.878726, NRMSE= 5.7024791346774420703E-08
+acEff=1.000000
+compressionRatio=2.536175
+decompression time = 0.341936 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out
+outSize=297087402
+compression time = 0.305340
+compressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz
+Min=-38937960, Max=33386284, range=72324240
+Max absolute error = 0.7232055664
+Max relative error = 0.000000
+Max pw relative error = 11.426433
+PSNR = 165.901393, NRMSE= 5.0690941357569292304E-09
+acEff=1.000000
+compressionRatio=1.807114
+decompression time = 0.475066 seconds.
+decompressed data file: ../com_data/sz2/NYX/velocity_z.f32.sz.out

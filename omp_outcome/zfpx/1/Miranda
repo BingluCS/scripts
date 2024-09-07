@@ -1,0 +1,546 @@
+../data/Miranda/density.d64
+../ZFP-X/bin/zfp -d -i ../data/Miranda/density.d64 -3 384 384 256 -s -a 2.000058e-01 -x omp=1,
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=2806264 ratio=107.61 rate=0.5947 rmse=0.001422 nrmse=0.00071121 maxe=0.022493 maxre=0.011246 psnr=62.9601
+Compression_time=0.150132
+Decompression_time=0.142361
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=4433816 ratio=68.111 rate=0.9396 rmse=0.0002351 nrmse=0.00011752 maxe=0.0032773 maxre=0.0016386 psnr=78.5974
+Compression_time=0.160198
+Decompression_time=0.148279
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=6805152 ratio=44.377 rate=1.442 rmse=3.524e-05 nrmse=1.7617e-05 maxe=0.00048587 maxre=0.00024293 psnr=95.0813
+Compression_time=0.175437
+Decompression_time=0.157640
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=11011584 ratio=27.425 rate=2.334 rmse=2.524e-06 nrmse=1.2619e-06 maxe=3.1657e-05 maxre=1.5828e-05 psnr=117.9795
+Compression_time=0.193332
+Decompression_time=0.169544
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=14763112 ratio=20.456 rate=3.129 rmse=3.342e-07 nrmse=1.6708e-07 maxe=4.2468e-06 maxre=2.1234e-06 psnr=135.5417
+Compression_time=0.209229
+Decompression_time=0.179762
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=18889408 ratio=15.987 rate=4.003 rmse=4.359e-08 nrmse=2.1794e-08 maxe=5.5209e-07 maxre=2.7604e-07 psnr=153.2333
+Compression_time=0.217622
+Decompression_time=0.184315
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=24960224 ratio=12.099 rate=5.29 rmse=2.882e-09 nrmse=1.441e-09 maxe=3.3107e-08 maxre=1.6553e-08 psnr=176.8269
+Compression_time=0.230201
+Decompression_time=0.194408
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=30034224 ratio=10.055 rate=6.365 rmse=3.775e-10 nrmse=1.8877e-10 maxe=4.0893e-09 maxre=2.0446e-09 psnr=194.4814
+Compression_time=0.245922
+Decompression_time=0.202897
+../data/Miranda/diffusivity.d64
+../ZFP-X/bin/zfp -d -i ../data/Miranda/diffusivity.d64 -3 384 384 256 -s -a 2.615154e-01 -x omp=1,
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=588288 ratio=513.34 rate=0.1247 rmse=0.002166 nrmse=0.00082808 maxe=0.041348 maxre=0.015811 psnr=61.6386
+Compression_time=0.060977
+Decompression_time=0.089991
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=1922760 ratio=157.06 rate=0.4075 rmse=0.0002201 nrmse=8.4176e-05 maxe=0.0037437 maxre=0.0014316 psnr=81.4962
+Compression_time=0.077667
+Decompression_time=0.102639
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=3821544 ratio=79.023 rate=0.8099 rmse=3.421e-05 nrmse=1.3083e-05 maxe=0.00049758 maxre=0.00019027 psnr=97.6659
+Compression_time=0.093617
+Decompression_time=0.113219
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=6481448 ratio=46.593 rate=1.374 rmse=4.875e-06 nrmse=1.864e-06 maxe=6.3118e-05 maxre=2.4135e-05 psnr=114.5913
+Compression_time=0.108166
+Decompression_time=0.124173
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=10992240 ratio=27.473 rate=2.33 rmse=3.365e-07 nrmse=1.2868e-07 maxe=4.2342e-06 maxre=1.6191e-06 psnr=137.8101
+Compression_time=0.133152
+Decompression_time=0.139341
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=14956456 ratio=20.191 rate=3.17 rmse=4.436e-08 nrmse=1.6962e-08 maxe=5.422e-07 maxre=2.0733e-07 psnr=155.4104
+Compression_time=0.149132
+Decompression_time=0.149308
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=19411400 ratio=15.557 rate=4.114 rmse=5.837e-09 nrmse=2.2318e-09 maxe=6.9341e-08 maxre=2.6515e-08 psnr=173.0268
+Compression_time=0.163566
+Decompression_time=0.156143
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=26309248 ratio=11.478 rate=5.576 rmse=3.945e-10 nrmse=1.5084e-10 maxe=4.0402e-09 maxre=1.5449e-09 psnr=196.4295
+Compression_time=0.184227
+Decompression_time=0.165149
+../data/Miranda/pressure.d64
+../ZFP-X/bin/zfp -d -i ../data/Miranda/pressure.d64 -3 384 384 256 -s -a 4.414280e-01 -x omp=1,
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=900464 ratio=335.37 rate=0.1908 rmse=0.002664 nrmse=0.00060348 maxe=0.043105 maxre=0.0097648 psnr=64.3867
+Compression_time=0.077983
+Decompression_time=0.099455
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=2130960 ratio=141.72 rate=0.4516 rmse=0.0004683 nrmse=0.00010608 maxe=0.0061131 maxre=0.0013848 psnr=79.4874
+Compression_time=0.098679
+Decompression_time=0.112136
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=4295784 ratio=70.299 rate=0.9104 rmse=7.422e-05 nrmse=1.6814e-05 maxe=0.00093608 maxre=0.00021206 psnr=95.4865
+Compression_time=0.128893
+Decompression_time=0.131685
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=8837896 ratio=34.17 rate=1.873 rmse=5.705e-06 nrmse=1.2925e-06 maxe=6.3682e-05 maxre=1.4426e-05 psnr=117.7717
+Compression_time=0.179681
+Decompression_time=0.162938
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=13523072 ratio=22.331 rate=2.866 rmse=7.976e-07 nrmse=1.8068e-07 maxe=8.3024e-06 maxre=1.8808e-06 psnr=134.8620
+Compression_time=0.211741
+Decompression_time=0.184753
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=19359216 ratio=15.599 rate=4.103 rmse=1.097e-07 nrmse=2.4845e-08 maxe=1.0719e-06 maxre=2.4282e-07 psnr=152.0951
+Compression_time=0.249961
+Decompression_time=0.210071
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=29136432 ratio=10.365 rate=6.175 rmse=7.69e-09 nrmse=1.742e-09 maxe=6.7799e-08 maxre=1.5359e-08 psnr=175.1789
+Compression_time=0.291420
+Decompression_time=0.237286
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=38033408 ratio=7.9401 rate=8.06 rmse=1.035e-09 nrmse=2.3447e-10 maxe=8.556e-09 maxre=1.9383e-09 psnr=192.5982
+Compression_time=0.313213
+Decompression_time=0.253664
+../data/Miranda/velocityx.d64
+../ZFP-X/bin/zfp -d -i ../data/Miranda/velocityx.d64 -3 384 384 256 -s -a 4.511498e-01 -x omp=1,
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=1635240 ratio=184.68 rate=0.3466 rmse=0.003338 nrmse=0.00073979 maxe=0.040295 maxre=0.0089316 psnr=62.6178
+Compression_time=0.143716
+Decompression_time=0.131802
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=3570496 ratio=84.579 rate=0.7567 rmse=0.0005749 nrmse=0.00012742 maxe=0.0059835 maxre=0.0013263 psnr=77.8951
+Compression_time=0.172389
+Decompression_time=0.157116
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=6756088 ratio=44.699 rate=1.432 rmse=9.011e-05 nrmse=1.9974e-05 maxe=0.00090901 maxre=0.00020149 psnr=93.9908
+Compression_time=0.198437
+Decompression_time=0.176873
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=13216344 ratio=22.85 rate=2.801 rmse=6.943e-06 nrmse=1.5389e-06 maxe=6.7371e-05 maxre=1.4933e-05 psnr=116.2556
+Compression_time=0.239526
+Decompression_time=0.205898
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=19752528 ratio=15.289 rate=4.186 rmse=9.623e-07 nrmse=2.133e-07 maxe=8.5862e-06 maxre=1.9032e-06 psnr=133.4203
+Compression_time=0.270612
+Decompression_time=0.227263
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=27675664 ratio=10.912 rate=5.865 rmse=1.312e-07 nrmse=2.9079e-08 maxe=1.0964e-06 maxre=2.4303e-07 psnr=150.7285
+Compression_time=0.304652
+Decompression_time=0.254213
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=40212712 ratio=7.5098 rate=8.522 rmse=8.919e-09 nrmse=1.9769e-09 maxe=6.732e-08 maxre=1.4922e-08 psnr=174.0801
+Compression_time=0.353656
+Decompression_time=0.285478
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=50981224 ratio=5.9236 rate=10.8 rmse=1.169e-09 nrmse=2.5921e-10 maxe=8.3693e-09 maxre=1.8551e-09 psnr=191.7269
+Compression_time=0.384949
+Decompression_time=0.300641
+../data/Miranda/velocityy.d64
+../ZFP-X/bin/zfp -d -i ../data/Miranda/velocityy.d64 -3 384 384 256 -s -a 4.391091e-01 -x omp=1,
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=1653296 ratio=182.66 rate=0.3504 rmse=0.003334 nrmse=0.00075925 maxe=0.042018 maxre=0.009569 psnr=62.3923
+Compression_time=0.146916
+Decompression_time=0.132083
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=3592768 ratio=84.055 rate=0.7614 rmse=0.0005743 nrmse=0.00013079 maxe=0.0058795 maxre=0.001339 psnr=77.6686
+Compression_time=0.172706
+Decompression_time=0.156847
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=6796448 ratio=44.433 rate=1.44 rmse=9.019e-05 nrmse=2.0539e-05 maxe=0.00091809 maxre=0.00020908 psnr=93.7483
+Compression_time=0.196533
+Decompression_time=0.174287
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=13282608 ratio=22.736 rate=2.815 rmse=6.948e-06 nrmse=1.5823e-06 maxe=6.3188e-05 maxre=1.439e-05 psnr=116.0144
+Compression_time=0.233511
+Decompression_time=0.202333
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=19858104 ratio=15.207 rate=4.208 rmse=9.632e-07 nrmse=2.1936e-07 maxe=8.1375e-06 maxre=1.8532e-06 psnr=133.1769
+Compression_time=0.270049
+Decompression_time=0.227842
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=27829248 ratio=10.852 rate=5.898 rmse=1.313e-07 nrmse=2.9903e-08 maxe=1.1127e-06 maxre=2.534e-07 psnr=150.4858
+Compression_time=0.305774
+Decompression_time=0.252626
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=40414896 ratio=7.4722 rate=8.565 rmse=8.921e-09 nrmse=2.0315e-09 maxe=6.741e-08 maxre=1.5352e-08 psnr=173.8435
+Compression_time=0.349727
+Decompression_time=0.278006
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=51210392 ratio=5.897 rate=10.85 rmse=1.17e-09 nrmse=2.6647e-10 maxe=8.4444e-09 maxre=1.9231e-09 psnr=191.4870
+Compression_time=0.377927
+Decompression_time=0.294345
+../data/Miranda/velocityz.d64
+../ZFP-X/bin/zfp -d -i ../data/Miranda/velocityz.d64 -3 384 384 256 -s -a 1.415384e+00 -x omp=1,
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=1218440 ratio=247.85 rate=0.2582 rmse=0.01143 nrmse=0.00080758 maxe=0.15728 maxre=0.011112 psnr=61.8562
+Compression_time=0.121717
+Decompression_time=0.117279
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=2737544 ratio=110.31 rate=0.5802 rmse=0.00202 nrmse=0.00014272 maxe=0.02271 maxre=0.0016045 psnr=76.9104
+Compression_time=0.160532
+Decompression_time=0.147204
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=6530544 ratio=46.243 rate=1.384 rmse=0.0001764 nrmse=1.2464e-05 maxe=0.002026 maxre=0.00014314 psnr=98.0867
+Compression_time=0.194508
+Decompression_time=0.171749
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=10948568 ratio=27.583 rate=2.32 rmse=2.604e-05 nrmse=1.84e-06 maxe=0.00029285 maxre=2.0691e-05 psnr=114.7035
+Compression_time=0.219616
+Decompression_time=0.196699
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=16825568 ratio=17.948 rate=3.566 rmse=3.675e-06 nrmse=2.5968e-07 maxe=3.382e-05 maxre=2.3894e-06 psnr=131.7114
+Compression_time=0.257301
+Decompression_time=0.217603
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=26796456 ratio=11.27 rate=5.679 rmse=2.596e-07 nrmse=1.834e-08 maxe=2.1523e-06 maxre=1.5207e-07 psnr=154.7322
+Compression_time=0.296858
+Decompression_time=0.243563
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=35816352 ratio=8.4316 rate=7.59 rmse=3.466e-08 nrmse=2.4485e-09 maxe=2.6891e-07 maxre=1.8999e-08 psnr=172.2220
+Compression_time=0.334913
+Decompression_time=0.267547
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=46052560 ratio=6.5575 rate=9.76 rmse=4.587e-09 nrmse=3.2408e-10 maxe=3.3275e-08 maxre=2.3509e-09 psnr=189.7869
+Compression_time=0.374122
+Decompression_time=0.294314
+../data/Miranda/viscocity.d64
+../ZFP-X/bin/zfp -d -i ../data/Miranda/viscocity.d64 -3 384 384 256 -s -a 2.621334e-01 -x omp=1,
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=587304 ratio=514.2 rate=0.1245 rmse=0.002164 nrmse=0.00082542 maxe=0.04181 maxre=0.01595 psnr=61.6665
+Compression_time=0.063459
+Decompression_time=0.088371
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=1919472 ratio=157.33 rate=0.4068 rmse=0.00022 nrmse=8.3908e-05 maxe=0.0039041 maxre=0.0014893 psnr=81.5240
+Compression_time=0.076192
+Decompression_time=0.099976
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=3815360 ratio=79.151 rate=0.8086 rmse=3.42e-05 nrmse=1.3047e-05 maxe=0.00048346 maxre=0.00018443 psnr=97.6896
+Compression_time=0.094877
+Decompression_time=0.113653
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=6472272 ratio=46.659 rate=1.372 rmse=4.872e-06 nrmse=1.8585e-06 maxe=6.6802e-05 maxre=2.5484e-05 psnr=114.6169
+Compression_time=0.111713
+Decompression_time=0.124797
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=10983088 ratio=27.496 rate=2.328 rmse=3.364e-07 nrmse=1.2833e-07 maxe=4.282e-06 maxre=1.6335e-06 psnr=137.8332
+Compression_time=0.133883
+Decompression_time=0.138438
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=14954696 ratio=20.194 rate=3.169 rmse=4.439e-08 nrmse=1.6933e-08 maxe=5.5185e-07 maxre=2.1052e-07 psnr=155.4253
+Compression_time=0.147722
+Decompression_time=0.148773
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=19421512 ratio=15.549 rate=4.116 rmse=5.844e-09 nrmse=2.2292e-09 maxe=6.6518e-08 maxre=2.5375e-08 psnr=173.0368
+Compression_time=0.160866
+Decompression_time=0.157207
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=26316000 ratio=11.476 rate=5.577 rmse=3.944e-10 nrmse=1.5045e-10 maxe=4.2495e-09 maxre=1.6211e-09 psnr=196.4521
+Compression_time=0.188768
+Decompression_time=0.169046
+../data/Miranda/density.d64
+../ZFP-X/bin/zfp -d -i ../data/Miranda/density.d64 -3 384 384 256 -s -a 2.000058e-01 -x omp=1,
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=2806264 ratio=107.61 rate=0.5947 rmse=0.001422 nrmse=0.00071121 maxe=0.022493 maxre=0.011246 psnr=62.9601
+Compression_time=0.149506
+Decompression_time=0.142997
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=4433816 ratio=68.111 rate=0.9396 rmse=0.0002351 nrmse=0.00011752 maxe=0.0032773 maxre=0.0016386 psnr=78.5974
+Compression_time=0.164909
+Decompression_time=0.151930
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=6805152 ratio=44.377 rate=1.442 rmse=3.524e-05 nrmse=1.7617e-05 maxe=0.00048587 maxre=0.00024293 psnr=95.0813
+Compression_time=0.179825
+Decompression_time=0.161462
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=11011584 ratio=27.425 rate=2.334 rmse=2.524e-06 nrmse=1.2619e-06 maxe=3.1657e-05 maxre=1.5828e-05 psnr=117.9795
+Compression_time=0.203307
+Decompression_time=0.174125
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=14763112 ratio=20.456 rate=3.129 rmse=3.342e-07 nrmse=1.6708e-07 maxe=4.2468e-06 maxre=2.1234e-06 psnr=135.5417
+Compression_time=0.215614
+Decompression_time=0.180424
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=18889408 ratio=15.987 rate=4.003 rmse=4.359e-08 nrmse=2.1794e-08 maxe=5.5209e-07 maxre=2.7604e-07 psnr=153.2333
+Compression_time=0.226427
+Decompression_time=0.189909
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=24960224 ratio=12.099 rate=5.29 rmse=2.882e-09 nrmse=1.441e-09 maxe=3.3107e-08 maxre=1.6553e-08 psnr=176.8269
+Compression_time=0.235917
+Decompression_time=0.194389
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=30034224 ratio=10.055 rate=6.365 rmse=3.775e-10 nrmse=1.8877e-10 maxe=4.0893e-09 maxre=2.0446e-09 psnr=194.4814
+Compression_time=0.245687
+Decompression_time=0.199513
+../data/Miranda/diffusivity.d64
+../ZFP-X/bin/zfp -d -i ../data/Miranda/diffusivity.d64 -3 384 384 256 -s -a 2.615154e-01 -x omp=1,
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=588288 ratio=513.34 rate=0.1247 rmse=0.002166 nrmse=0.00082808 maxe=0.041348 maxre=0.015811 psnr=61.6386
+Compression_time=0.060766
+Decompression_time=0.089335
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=1922760 ratio=157.06 rate=0.4075 rmse=0.0002201 nrmse=8.4176e-05 maxe=0.0037437 maxre=0.0014316 psnr=81.4962
+Compression_time=0.077826
+Decompression_time=0.101401
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=3821544 ratio=79.023 rate=0.8099 rmse=3.421e-05 nrmse=1.3083e-05 maxe=0.00049758 maxre=0.00019027 psnr=97.6659
+Compression_time=0.093709
+Decompression_time=0.113248
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=6481448 ratio=46.593 rate=1.374 rmse=4.875e-06 nrmse=1.864e-06 maxe=6.3118e-05 maxre=2.4135e-05 psnr=114.5913
+Compression_time=0.109875
+Decompression_time=0.123859
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=10992240 ratio=27.473 rate=2.33 rmse=3.365e-07 nrmse=1.2868e-07 maxe=4.2342e-06 maxre=1.6191e-06 psnr=137.8101
+Compression_time=0.132331
+Decompression_time=0.140051
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=14956456 ratio=20.191 rate=3.17 rmse=4.436e-08 nrmse=1.6962e-08 maxe=5.422e-07 maxre=2.0733e-07 psnr=155.4104
+Compression_time=0.144622
+Decompression_time=0.147379
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=19411400 ratio=15.557 rate=4.114 rmse=5.837e-09 nrmse=2.2318e-09 maxe=6.9341e-08 maxre=2.6515e-08 psnr=173.0268
+Compression_time=0.160387
+Decompression_time=0.152750
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=26309248 ratio=11.478 rate=5.576 rmse=3.945e-10 nrmse=1.5084e-10 maxe=4.0402e-09 maxre=1.5449e-09 psnr=196.4295
+Compression_time=0.187504
+Decompression_time=0.167803
+../data/Miranda/pressure.d64
+../ZFP-X/bin/zfp -d -i ../data/Miranda/pressure.d64 -3 384 384 256 -s -a 4.414280e-01 -x omp=1,
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=900464 ratio=335.37 rate=0.1908 rmse=0.002664 nrmse=0.00060348 maxe=0.043105 maxre=0.0097648 psnr=64.3867
+Compression_time=0.076802
+Decompression_time=0.098391
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=2130960 ratio=141.72 rate=0.4516 rmse=0.0004683 nrmse=0.00010608 maxe=0.0061131 maxre=0.0013848 psnr=79.4874
+Compression_time=0.098893
+Decompression_time=0.112089
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=4295784 ratio=70.299 rate=0.9104 rmse=7.422e-05 nrmse=1.6814e-05 maxe=0.00093608 maxre=0.00021206 psnr=95.4865
+Compression_time=0.127801
+Decompression_time=0.130169
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=8837896 ratio=34.17 rate=1.873 rmse=5.705e-06 nrmse=1.2925e-06 maxe=6.3682e-05 maxre=1.4426e-05 psnr=117.7717
+Compression_time=0.181128
+Decompression_time=0.162685
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=13523072 ratio=22.331 rate=2.866 rmse=7.976e-07 nrmse=1.8068e-07 maxe=8.3024e-06 maxre=1.8808e-06 psnr=134.8620
+Compression_time=0.219421
+Decompression_time=0.188248
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=19359216 ratio=15.599 rate=4.103 rmse=1.097e-07 nrmse=2.4845e-08 maxe=1.0719e-06 maxre=2.4282e-07 psnr=152.0951
+Compression_time=0.248632
+Decompression_time=0.214644
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=29136432 ratio=10.365 rate=6.175 rmse=7.69e-09 nrmse=1.742e-09 maxe=6.7799e-08 maxre=1.5359e-08 psnr=175.1789
+Compression_time=0.285971
+Decompression_time=0.236278
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=38033408 ratio=7.9401 rate=8.06 rmse=1.035e-09 nrmse=2.3447e-10 maxe=8.556e-09 maxre=1.9383e-09 psnr=192.5982
+Compression_time=0.312627
+Decompression_time=0.252306
+../data/Miranda/velocityx.d64
+../ZFP-X/bin/zfp -d -i ../data/Miranda/velocityx.d64 -3 384 384 256 -s -a 4.511498e-01 -x omp=1,
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=1635240 ratio=184.68 rate=0.3466 rmse=0.003338 nrmse=0.00073979 maxe=0.040295 maxre=0.0089316 psnr=62.6178
+Compression_time=0.144059
+Decompression_time=0.133666
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=3570496 ratio=84.579 rate=0.7567 rmse=0.0005749 nrmse=0.00012742 maxe=0.0059835 maxre=0.0013263 psnr=77.8951
+Compression_time=0.172535
+Decompression_time=0.157585
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=6756088 ratio=44.699 rate=1.432 rmse=9.011e-05 nrmse=1.9974e-05 maxe=0.00090901 maxre=0.00020149 psnr=93.9908
+Compression_time=0.199547
+Decompression_time=0.177677
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=13216344 ratio=22.85 rate=2.801 rmse=6.943e-06 nrmse=1.5389e-06 maxe=6.7371e-05 maxre=1.4933e-05 psnr=116.2556
+Compression_time=0.240812
+Decompression_time=0.206155
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=19752528 ratio=15.289 rate=4.186 rmse=9.623e-07 nrmse=2.133e-07 maxe=8.5862e-06 maxre=1.9032e-06 psnr=133.4203
+Compression_time=0.272979
+Decompression_time=0.229975
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=27675664 ratio=10.912 rate=5.865 rmse=1.312e-07 nrmse=2.9079e-08 maxe=1.0964e-06 maxre=2.4303e-07 psnr=150.7285
+Compression_time=0.307877
+Decompression_time=0.251066
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=40212712 ratio=7.5098 rate=8.522 rmse=8.919e-09 nrmse=1.9769e-09 maxe=6.732e-08 maxre=1.4922e-08 psnr=174.0801
+Compression_time=0.354298
+Decompression_time=0.276446
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=50981224 ratio=5.9236 rate=10.8 rmse=1.169e-09 nrmse=2.5921e-10 maxe=8.3693e-09 maxre=1.8551e-09 psnr=191.7269
+Compression_time=0.376045
+Decompression_time=0.293121
+../data/Miranda/velocityy.d64
+../ZFP-X/bin/zfp -d -i ../data/Miranda/velocityy.d64 -3 384 384 256 -s -a 4.391091e-01 -x omp=1,
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=1653296 ratio=182.66 rate=0.3504 rmse=0.003334 nrmse=0.00075925 maxe=0.042018 maxre=0.009569 psnr=62.3923
+Compression_time=0.142228
+Decompression_time=0.131139
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=3592768 ratio=84.055 rate=0.7614 rmse=0.0005743 nrmse=0.00013079 maxe=0.0058795 maxre=0.001339 psnr=77.6686
+Compression_time=0.169019
+Decompression_time=0.153162
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=6796448 ratio=44.433 rate=1.44 rmse=9.019e-05 nrmse=2.0539e-05 maxe=0.00091809 maxre=0.00020908 psnr=93.7483
+Compression_time=0.198152
+Decompression_time=0.174871
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=13282608 ratio=22.736 rate=2.815 rmse=6.948e-06 nrmse=1.5823e-06 maxe=6.3188e-05 maxre=1.439e-05 psnr=116.0144
+Compression_time=0.234852
+Decompression_time=0.201199
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=19858104 ratio=15.207 rate=4.208 rmse=9.632e-07 nrmse=2.1936e-07 maxe=8.1375e-06 maxre=1.8532e-06 psnr=133.1769
+Compression_time=0.270493
+Decompression_time=0.226752
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=27829248 ratio=10.852 rate=5.898 rmse=1.313e-07 nrmse=2.9903e-08 maxe=1.1127e-06 maxre=2.534e-07 psnr=150.4858
+Compression_time=0.301753
+Decompression_time=0.249451
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=40414896 ratio=7.4722 rate=8.565 rmse=8.921e-09 nrmse=2.0315e-09 maxe=6.741e-08 maxre=1.5352e-08 psnr=173.8435
+Compression_time=0.344773
+Decompression_time=0.273197
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=51210392 ratio=5.897 rate=10.85 rmse=1.17e-09 nrmse=2.6647e-10 maxe=8.4444e-09 maxre=1.9231e-09 psnr=191.4870
+Compression_time=0.380259
+Decompression_time=0.295804
+../data/Miranda/velocityz.d64
+../ZFP-X/bin/zfp -d -i ../data/Miranda/velocityz.d64 -3 384 384 256 -s -a 1.415384e+00 -x omp=1,
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=1218440 ratio=247.85 rate=0.2582 rmse=0.01143 nrmse=0.00080758 maxe=0.15728 maxre=0.011112 psnr=61.8562
+Compression_time=0.123998
+Decompression_time=0.117658
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=2737544 ratio=110.31 rate=0.5802 rmse=0.00202 nrmse=0.00014272 maxe=0.02271 maxre=0.0016045 psnr=76.9104
+Compression_time=0.160015
+Decompression_time=0.150479
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=6530544 ratio=46.243 rate=1.384 rmse=0.0001764 nrmse=1.2464e-05 maxe=0.002026 maxre=0.00014314 psnr=98.0867
+Compression_time=0.190390
+Decompression_time=0.171934
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=10948568 ratio=27.583 rate=2.32 rmse=2.604e-05 nrmse=1.84e-06 maxe=0.00029285 maxre=2.0691e-05 psnr=114.7035
+Compression_time=0.227213
+Decompression_time=0.196528
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=16825568 ratio=17.948 rate=3.566 rmse=3.675e-06 nrmse=2.5968e-07 maxe=3.382e-05 maxre=2.3894e-06 psnr=131.7114
+Compression_time=0.259675
+Decompression_time=0.219336
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=26796456 ratio=11.27 rate=5.679 rmse=2.596e-07 nrmse=1.834e-08 maxe=2.1523e-06 maxre=1.5207e-07 psnr=154.7322
+Compression_time=0.304006
+Decompression_time=0.248793
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=35816352 ratio=8.4316 rate=7.59 rmse=3.466e-08 nrmse=2.4485e-09 maxe=2.6891e-07 maxre=1.8999e-08 psnr=172.2220
+Compression_time=0.331286
+Decompression_time=0.266933
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=46052560 ratio=6.5575 rate=9.76 rmse=4.587e-09 nrmse=3.2408e-10 maxe=3.3275e-08 maxre=2.3509e-09 psnr=189.7869
+Compression_time=0.364742
+Decompression_time=0.285173
+../data/Miranda/viscocity.d64
+../ZFP-X/bin/zfp -d -i ../data/Miranda/viscocity.d64 -3 384 384 256 -s -a 2.621334e-01 -x omp=1,
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=587304 ratio=514.2 rate=0.1245 rmse=0.002164 nrmse=0.00082542 maxe=0.04181 maxre=0.01595 psnr=61.6665
+Compression_time=0.060881
+Decompression_time=0.089512
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=1919472 ratio=157.33 rate=0.4068 rmse=0.00022 nrmse=8.3908e-05 maxe=0.0039041 maxre=0.0014893 psnr=81.5240
+Compression_time=0.077998
+Decompression_time=0.101847
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=3815360 ratio=79.151 rate=0.8086 rmse=3.42e-05 nrmse=1.3047e-05 maxe=0.00048346 maxre=0.00018443 psnr=97.6896
+Compression_time=0.093917
+Decompression_time=0.112985
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=6472272 ratio=46.659 rate=1.372 rmse=4.872e-06 nrmse=1.8585e-06 maxe=6.6802e-05 maxre=2.5484e-05 psnr=114.6169
+Compression_time=0.107924
+Decompression_time=0.122427
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=10983088 ratio=27.496 rate=2.328 rmse=3.364e-07 nrmse=1.2833e-07 maxe=4.282e-06 maxre=1.6335e-06 psnr=137.8332
+Compression_time=0.131832
+Decompression_time=0.137956
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=14954696 ratio=20.194 rate=3.169 rmse=4.439e-08 nrmse=1.6933e-08 maxe=5.5185e-07 maxre=2.1052e-07 psnr=155.4253
+Compression_time=0.146081
+Decompression_time=0.144567
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=19421512 ratio=15.549 rate=4.116 rmse=5.844e-09 nrmse=2.2292e-09 maxe=6.6518e-08 maxre=2.5375e-08 psnr=173.0368
+Compression_time=0.160202
+Decompression_time=0.153030
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=26316000 ratio=11.476 rate=5.577 rmse=3.944e-10 nrmse=1.5045e-10 maxe=4.2495e-09 maxre=1.6211e-09 psnr=196.4521
+Compression_time=0.182608
+Decompression_time=0.163218
+../data/Miranda/density.d64
+../ZFP-X/bin/zfp -d -i ../data/Miranda/density.d64 -3 384 384 256 -s -a 2.000058e-01 -x omp=1,
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=2806264 ratio=107.61 rate=0.5947 rmse=0.001422 nrmse=0.00071121 maxe=0.022493 maxre=0.011246 psnr=62.9601
+Compression_time=0.150147
+Decompression_time=0.139061
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=4433816 ratio=68.111 rate=0.9396 rmse=0.0002351 nrmse=0.00011752 maxe=0.0032773 maxre=0.0016386 psnr=78.5974
+Compression_time=0.163163
+Decompression_time=0.149119
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=6805152 ratio=44.377 rate=1.442 rmse=3.524e-05 nrmse=1.7617e-05 maxe=0.00048587 maxre=0.00024293 psnr=95.0813
+Compression_time=0.176827
+Decompression_time=0.156088
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=11011584 ratio=27.425 rate=2.334 rmse=2.524e-06 nrmse=1.2619e-06 maxe=3.1657e-05 maxre=1.5828e-05 psnr=117.9795
+Compression_time=0.196230
+Decompression_time=0.170200
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=14763112 ratio=20.456 rate=3.129 rmse=3.342e-07 nrmse=1.6708e-07 maxe=4.2468e-06 maxre=2.1234e-06 psnr=135.5417
+Compression_time=0.210412
+Decompression_time=0.180123
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=18889408 ratio=15.987 rate=4.003 rmse=4.359e-08 nrmse=2.1794e-08 maxe=5.5209e-07 maxre=2.7604e-07 psnr=153.2333
+Compression_time=0.225810
+Decompression_time=0.189807
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=24960224 ratio=12.099 rate=5.29 rmse=2.882e-09 nrmse=1.441e-09 maxe=3.3107e-08 maxre=1.6553e-08 psnr=176.8269
+Compression_time=0.235503
+Decompression_time=0.192144
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=30034224 ratio=10.055 rate=6.365 rmse=3.775e-10 nrmse=1.8877e-10 maxe=4.0893e-09 maxre=2.0446e-09 psnr=194.4814
+Compression_time=0.243283
+Decompression_time=0.197160
+../data/Miranda/diffusivity.d64
+../ZFP-X/bin/zfp -d -i ../data/Miranda/diffusivity.d64 -3 384 384 256 -s -a 2.615154e-01 -x omp=1,
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=588288 ratio=513.34 rate=0.1247 rmse=0.002166 nrmse=0.00082808 maxe=0.041348 maxre=0.015811 psnr=61.6386
+Compression_time=0.059692
+Decompression_time=0.087975
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=1922760 ratio=157.06 rate=0.4075 rmse=0.0002201 nrmse=8.4176e-05 maxe=0.0037437 maxre=0.0014316 psnr=81.4962
+Compression_time=0.076224
+Decompression_time=0.100330
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=3821544 ratio=79.023 rate=0.8099 rmse=3.421e-05 nrmse=1.3083e-05 maxe=0.00049758 maxre=0.00019027 psnr=97.6659
+Compression_time=0.091124
+Decompression_time=0.110374
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=6481448 ratio=46.593 rate=1.374 rmse=4.875e-06 nrmse=1.864e-06 maxe=6.3118e-05 maxre=2.4135e-05 psnr=114.5913
+Compression_time=0.107820
+Decompression_time=0.121792
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=10992240 ratio=27.473 rate=2.33 rmse=3.365e-07 nrmse=1.2868e-07 maxe=4.2342e-06 maxre=1.6191e-06 psnr=137.8101
+Compression_time=0.129269
+Decompression_time=0.134812
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=14956456 ratio=20.191 rate=3.17 rmse=4.436e-08 nrmse=1.6962e-08 maxe=5.422e-07 maxre=2.0733e-07 psnr=155.4104
+Compression_time=0.145736
+Decompression_time=0.146891
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=19411400 ratio=15.557 rate=4.114 rmse=5.837e-09 nrmse=2.2318e-09 maxe=6.9341e-08 maxre=2.6515e-08 psnr=173.0268
+Compression_time=0.160745
+Decompression_time=0.156654
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=26309248 ratio=11.478 rate=5.576 rmse=3.945e-10 nrmse=1.5084e-10 maxe=4.0402e-09 maxre=1.5449e-09 psnr=196.4295
+Compression_time=0.187805
+Decompression_time=0.167766
+../data/Miranda/pressure.d64
+../ZFP-X/bin/zfp -d -i ../data/Miranda/pressure.d64 -3 384 384 256 -s -a 4.414280e-01 -x omp=1,
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=900464 ratio=335.37 rate=0.1908 rmse=0.002664 nrmse=0.00060348 maxe=0.043105 maxre=0.0097648 psnr=64.3867
+Compression_time=0.076652
+Decompression_time=0.097684
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=2130960 ratio=141.72 rate=0.4516 rmse=0.0004683 nrmse=0.00010608 maxe=0.0061131 maxre=0.0013848 psnr=79.4874
+Compression_time=0.097519
+Decompression_time=0.111927
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=4295784 ratio=70.299 rate=0.9104 rmse=7.422e-05 nrmse=1.6814e-05 maxe=0.00093608 maxre=0.00021206 psnr=95.4865
+Compression_time=0.125407
+Decompression_time=0.126755
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=8837896 ratio=34.17 rate=1.873 rmse=5.705e-06 nrmse=1.2925e-06 maxe=6.3682e-05 maxre=1.4426e-05 psnr=117.7717
+Compression_time=0.174850
+Decompression_time=0.157439
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=13523072 ratio=22.331 rate=2.866 rmse=7.976e-07 nrmse=1.8068e-07 maxe=8.3024e-06 maxre=1.8808e-06 psnr=134.8620
+Compression_time=0.218171
+Decompression_time=0.188244
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=19359216 ratio=15.599 rate=4.103 rmse=1.097e-07 nrmse=2.4845e-08 maxe=1.0719e-06 maxre=2.4282e-07 psnr=152.0951
+Compression_time=0.248062
+Decompression_time=0.208268
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=29136432 ratio=10.365 rate=6.175 rmse=7.69e-09 nrmse=1.742e-09 maxe=6.7799e-08 maxre=1.5359e-08 psnr=175.1789
+Compression_time=0.287880
+Decompression_time=0.239466
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=38033408 ratio=7.9401 rate=8.06 rmse=1.035e-09 nrmse=2.3447e-10 maxe=8.556e-09 maxre=1.9383e-09 psnr=192.5982
+Compression_time=0.316952
+Decompression_time=0.254109
+../data/Miranda/velocityx.d64
+../ZFP-X/bin/zfp -d -i ../data/Miranda/velocityx.d64 -3 384 384 256 -s -a 4.511498e-01 -x omp=1,
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=1635240 ratio=184.68 rate=0.3466 rmse=0.003338 nrmse=0.00073979 maxe=0.040295 maxre=0.0089316 psnr=62.6178
+Compression_time=0.147689
+Decompression_time=0.168340
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=3570496 ratio=84.579 rate=0.7567 rmse=0.0005749 nrmse=0.00012742 maxe=0.0059835 maxre=0.0013263 psnr=77.8951
+Compression_time=0.170841
+Decompression_time=0.157613
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=6756088 ratio=44.699 rate=1.432 rmse=9.011e-05 nrmse=1.9974e-05 maxe=0.00090901 maxre=0.00020149 psnr=93.9908
+Compression_time=0.195827
+Decompression_time=0.175385
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=13216344 ratio=22.85 rate=2.801 rmse=6.943e-06 nrmse=1.5389e-06 maxe=6.7371e-05 maxre=1.4933e-05 psnr=116.2556
+Compression_time=0.240699
+Decompression_time=0.207329
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=19752528 ratio=15.289 rate=4.186 rmse=9.623e-07 nrmse=2.133e-07 maxe=8.5862e-06 maxre=1.9032e-06 psnr=133.4203
+Compression_time=0.274114
+Decompression_time=0.229882
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=27675664 ratio=10.912 rate=5.865 rmse=1.312e-07 nrmse=2.9079e-08 maxe=1.0964e-06 maxre=2.4303e-07 psnr=150.7285
+Compression_time=0.303517
+Decompression_time=0.252032
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=40212712 ratio=7.5098 rate=8.522 rmse=8.919e-09 nrmse=1.9769e-09 maxe=6.732e-08 maxre=1.4922e-08 psnr=174.0801
+Compression_time=0.356129
+Decompression_time=0.275994
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=50981224 ratio=5.9236 rate=10.8 rmse=1.169e-09 nrmse=2.5921e-10 maxe=8.3693e-09 maxre=1.8551e-09 psnr=191.7269
+Compression_time=0.386964
+Decompression_time=0.303761
+../data/Miranda/velocityy.d64
+../ZFP-X/bin/zfp -d -i ../data/Miranda/velocityy.d64 -3 384 384 256 -s -a 4.391091e-01 -x omp=1,
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=1653296 ratio=182.66 rate=0.3504 rmse=0.003334 nrmse=0.00075925 maxe=0.042018 maxre=0.009569 psnr=62.3923
+Compression_time=0.146401
+Decompression_time=0.133526
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=3592768 ratio=84.055 rate=0.7614 rmse=0.0005743 nrmse=0.00013079 maxe=0.0058795 maxre=0.001339 psnr=77.6686
+Compression_time=0.170230
+Decompression_time=0.154280
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=6796448 ratio=44.433 rate=1.44 rmse=9.019e-05 nrmse=2.0539e-05 maxe=0.00091809 maxre=0.00020908 psnr=93.7483
+Compression_time=0.192613
+Decompression_time=0.172692
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=13282608 ratio=22.736 rate=2.815 rmse=6.948e-06 nrmse=1.5823e-06 maxe=6.3188e-05 maxre=1.439e-05 psnr=116.0144
+Compression_time=0.237815
+Decompression_time=0.205526
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=19858104 ratio=15.207 rate=4.208 rmse=9.632e-07 nrmse=2.1936e-07 maxe=8.1375e-06 maxre=1.8532e-06 psnr=133.1769
+Compression_time=0.264254
+Decompression_time=0.225168
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=27829248 ratio=10.852 rate=5.898 rmse=1.313e-07 nrmse=2.9903e-08 maxe=1.1127e-06 maxre=2.534e-07 psnr=150.4858
+Compression_time=0.304824
+Decompression_time=0.250667
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=40414896 ratio=7.4722 rate=8.565 rmse=8.921e-09 nrmse=2.0315e-09 maxe=6.741e-08 maxre=1.5352e-08 psnr=173.8435
+Compression_time=0.348337
+Decompression_time=0.276057
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=51210392 ratio=5.897 rate=10.85 rmse=1.17e-09 nrmse=2.6647e-10 maxe=8.4444e-09 maxre=1.9231e-09 psnr=191.4870
+Compression_time=0.378216
+Decompression_time=0.297661
+../data/Miranda/velocityz.d64
+../ZFP-X/bin/zfp -d -i ../data/Miranda/velocityz.d64 -3 384 384 256 -s -a 1.415384e+00 -x omp=1,
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=1218440 ratio=247.85 rate=0.2582 rmse=0.01143 nrmse=0.00080758 maxe=0.15728 maxre=0.011112 psnr=61.8562
+Compression_time=0.122769
+Decompression_time=0.118187
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=2737544 ratio=110.31 rate=0.5802 rmse=0.00202 nrmse=0.00014272 maxe=0.02271 maxre=0.0016045 psnr=76.9104
+Compression_time=0.155696
+Decompression_time=0.143614
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=6530544 ratio=46.243 rate=1.384 rmse=0.0001764 nrmse=1.2464e-05 maxe=0.002026 maxre=0.00014314 psnr=98.0867
+Compression_time=0.193988
+Decompression_time=0.176712
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=10948568 ratio=27.583 rate=2.32 rmse=2.604e-05 nrmse=1.84e-06 maxe=0.00029285 maxre=2.0691e-05 psnr=114.7035
+Compression_time=0.225731
+Decompression_time=0.194655
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=16825568 ratio=17.948 rate=3.566 rmse=3.675e-06 nrmse=2.5968e-07 maxe=3.382e-05 maxre=2.3894e-06 psnr=131.7114
+Compression_time=0.257385
+Decompression_time=0.215850
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=26796456 ratio=11.27 rate=5.679 rmse=2.596e-07 nrmse=1.834e-08 maxe=2.1523e-06 maxre=1.5207e-07 psnr=154.7322
+Compression_time=0.305465
+Decompression_time=0.246386
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=35816352 ratio=8.4316 rate=7.59 rmse=3.466e-08 nrmse=2.4485e-09 maxe=2.6891e-07 maxre=1.8999e-08 psnr=172.2220
+Compression_time=0.337594
+Decompression_time=0.272563
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=46052560 ratio=6.5575 rate=9.76 rmse=4.587e-09 nrmse=3.2408e-10 maxe=3.3275e-08 maxre=2.3509e-09 psnr=189.7869
+Compression_time=0.374556
+Decompression_time=0.291177
+../data/Miranda/viscocity.d64
+../ZFP-X/bin/zfp -d -i ../data/Miranda/viscocity.d64 -3 384 384 256 -s -a 2.621334e-01 -x omp=1,
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=587304 ratio=514.2 rate=0.1245 rmse=0.002164 nrmse=0.00082542 maxe=0.04181 maxre=0.01595 psnr=61.6665
+Compression_time=0.060977
+Decompression_time=0.089853
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=1919472 ratio=157.33 rate=0.4068 rmse=0.00022 nrmse=8.3908e-05 maxe=0.0039041 maxre=0.0014893 psnr=81.5240
+Compression_time=0.078573
+Decompression_time=0.104309
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=3815360 ratio=79.151 rate=0.8086 rmse=3.42e-05 nrmse=1.3047e-05 maxe=0.00048346 maxre=0.00018443 psnr=97.6896
+Compression_time=0.091745
+Decompression_time=0.110808
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=6472272 ratio=46.659 rate=1.372 rmse=4.872e-06 nrmse=1.8585e-06 maxe=6.6802e-05 maxre=2.5484e-05 psnr=114.6169
+Compression_time=0.109795
+Decompression_time=0.124314
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=10983088 ratio=27.496 rate=2.328 rmse=3.364e-07 nrmse=1.2833e-07 maxe=4.282e-06 maxre=1.6335e-06 psnr=137.8332
+Compression_time=0.132244
+Decompression_time=0.138069
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=14954696 ratio=20.194 rate=3.169 rmse=4.439e-08 nrmse=1.6933e-08 maxe=5.5185e-07 maxre=2.1052e-07 psnr=155.4253
+Compression_time=0.145385
+Decompression_time=0.144208
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=19421512 ratio=15.549 rate=4.116 rmse=5.844e-09 nrmse=2.2292e-09 maxe=6.6518e-08 maxre=2.5375e-08 psnr=173.0368
+Compression_time=0.165130
+Decompression_time=0.155909
+type=double nx=384 ny=384 nz=256 nw=1 raw=301989888 zfp=26316000 ratio=11.476 rate=5.577 rmse=3.944e-10 nrmse=1.5045e-10 maxe=4.2495e-09 maxre=1.6211e-09 psnr=196.4521
+Compression_time=0.182166
+Decompression_time=0.164668
